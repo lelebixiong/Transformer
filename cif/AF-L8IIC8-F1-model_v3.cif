@@ -1,0 +1,2017 @@
+data_AF-L8IIC8-F1
+#
+_entry.id AF-L8IIC8-F1
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Jumper, John"               1  
+"Evans, Richard"             2  
+"Pritzel, Alexander"         3  
+"Green, Tim"                 4  
+"Figurnov, Michael"          5  
+"Ronneberger, Olaf"          6  
+"Tunyasuvunakool, Kathryn"   7  
+"Bates, Russ"                8  
+"Zidek, Augustin"            9  
+"Potapenko, Anna"            10 
+"Bridgland, Alex"            11 
+"Meyer, Clemens"             12 
+"Kohl, Simon A. A."          13 
+"Ballard, Andrew J."         14 
+"Cowie, Andrew"              15 
+"Romera-Paredes, Bernardino" 16 
+"Nikolov, Stanislav"         17 
+"Jain, Rishub"               18 
+"Adler, Jonas"               19 
+"Back, Trevor"               20 
+"Petersen, Stig"             21 
+"Reiman, David"              22 
+"Clancy, Ellen"              23 
+"Zielinski, Michal"          24 
+"Steinegger, Martin"         25 
+"Pacholska, Michalina"       26 
+"Berghammer, Tamas"          27 
+"Silver, David"              28 
+"Vinyals, Oriol"             29 
+"Senior, Andrew W."          30 
+"Kavukcuoglu, Koray"         31 
+"Kohli, Pushmeet"            32 
+"Hassabis, Demis"            33 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.3.9
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"    89.093  ALA y ALANINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"  175.209 ARG y ARGININE        ? "L-PEPTIDE LINKING" 
+"C4 H8 N2 O3"   132.118 ASN y ASPARAGINE      ? "L-PEPTIDE LINKING" 
+"C4 H7 N O4"    133.103 ASP y "ASPARTIC ACID" ? "L-PEPTIDE LINKING" 
+"C3 H7 N O2 S"  121.158 CYS y CYSTEINE        ? "L-PEPTIDE LINKING" 
+"C5 H10 N2 O3"  146.144 GLN y GLUTAMINE       ? "L-PEPTIDE LINKING" 
+"C5 H9 N O4"    147.129 GLU y "GLUTAMIC ACID" ? "L-PEPTIDE LINKING" 
+"C2 H5 N O2"    75.067  GLY y GLYCINE         ? "PEPTIDE LINKING"   
+"C6 H10 N3 O2"  156.162 HIS y HISTIDINE       ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 ILE y ISOLEUCINE      ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 LEU y LEUCINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"  147.195 LYS y LYSINE          ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S" 149.211 MET y METHIONINE      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O2"   165.189 PHE y PHENYLALANINE   ? "L-PEPTIDE LINKING" 
+"C5 H9 N O2"    115.130 PRO y PROLINE         ? "L-PEPTIDE LINKING" 
+"C3 H7 N O3"    105.093 SER y SERINE          ? "L-PEPTIDE LINKING" 
+"C4 H9 N O3"    119.119 THR y THREONINE       ? "L-PEPTIDE LINKING" 
+"C11 H12 N2 O2" 204.225 TRP y TRYPTOPHAN      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O3"   181.189 TYR y TYROSINE        ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2"   117.146 VAL y VALINE          ? "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      1
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          596
+_citation.page_first              583
+_citation.page_last               589
+_citation.pdbx_database_id_DOI    10.1038/s41586-021-03819-2
+_citation.pdbx_database_id_PubMed 34265844
+_citation.title                   "Highly accurate protein structure prediction with AlphaFold"
+_citation.year                    2021
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+1 "Jumper, John"               1  
+1 "Evans, Richard"             2  
+1 "Pritzel, Alexander"         3  
+1 "Green, Tim"                 4  
+1 "Figurnov, Michael"          5  
+1 "Ronneberger, Olaf"          6  
+1 "Tunyasuvunakool, Kathryn"   7  
+1 "Bates, Russ"                8  
+1 "Zidek, Augustin"            9  
+1 "Potapenko, Anna"            10 
+1 "Bridgland, Alex"            11 
+1 "Meyer, Clemens"             12 
+1 "Kohl, Simon A. A."          13 
+1 "Ballard, Andrew J."         14 
+1 "Cowie, Andrew"              15 
+1 "Romera-Paredes, Bernardino" 16 
+1 "Nikolov, Stanislav"         17 
+1 "Jain, Rishub"               18 
+1 "Adler, Jonas"               19 
+1 "Back, Trevor"               20 
+1 "Petersen, Stig"             21 
+1 "Reiman, David"              22 
+1 "Clancy, Ellen"              23 
+1 "Zielinski, Michal"          24 
+1 "Steinegger, Martin"         25 
+1 "Pacholska, Michalina"       26 
+1 "Berghammer, Tamas"          27 
+1 "Silver, David"              28 
+1 "Vinyals, Oriol"             29 
+1 "Senior, Andrew W."          30 
+1 "Kavukcuoglu, Koray"         31 
+1 "Kohli, Pushmeet"            32 
+1 "Hassabis, Demis"            33 
+#
+_database_2.database_code AF-L8IIC8-F1
+_database_2.database_id   AlphaFoldDB
+#
+_entity.details                  ?
+_entity.formula_weight           ?
+_entity.id                       1
+_entity.pdbx_description         Alpha-lactalbumin
+_entity.pdbx_ec                  ?
+_entity.pdbx_fragment            ?
+_entity.pdbx_mutation            ?
+_entity.pdbx_number_of_molecules 1
+_entity.src_method               man
+_entity.type                     polymer
+#
+_entity_poly.entity_id                    1
+_entity_poly.nstd_linkage                 no
+_entity_poly.nstd_monomer                 no
+_entity_poly.pdbx_seq_one_letter_code     
+;MMSFVSLLLVGILFHATQAEQLTKCEVFRELKDLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNNDSTEYGLFQINNKIWC
+KDDQNPHSSNICNISCDKFLDDDLTDDIMCVKKILDKVGINYWLAHKALCSEKLDQWLCEKL
+;
+_entity_poly.pdbx_seq_one_letter_code_can 
+;MMSFVSLLLVGILFHATQAEQLTKCEVFRELKDLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNNDSTEYGLFQINNKIWC
+KDDQNPHSSNICNISCDKFLDDDLTDDIMCVKKILDKVGINYWLAHKALCSEKLDQWLCEKL
+;
+_entity_poly.pdbx_strand_id               A
+_entity_poly.type                         polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n MET 1   
+1 n MET 2   
+1 n SER 3   
+1 n PHE 4   
+1 n VAL 5   
+1 n SER 6   
+1 n LEU 7   
+1 n LEU 8   
+1 n LEU 9   
+1 n VAL 10  
+1 n GLY 11  
+1 n ILE 12  
+1 n LEU 13  
+1 n PHE 14  
+1 n HIS 15  
+1 n ALA 16  
+1 n THR 17  
+1 n GLN 18  
+1 n ALA 19  
+1 n GLU 20  
+1 n GLN 21  
+1 n LEU 22  
+1 n THR 23  
+1 n LYS 24  
+1 n CYS 25  
+1 n GLU 26  
+1 n VAL 27  
+1 n PHE 28  
+1 n ARG 29  
+1 n GLU 30  
+1 n LEU 31  
+1 n LYS 32  
+1 n ASP 33  
+1 n LEU 34  
+1 n LYS 35  
+1 n GLY 36  
+1 n TYR 37  
+1 n GLY 38  
+1 n GLY 39  
+1 n VAL 40  
+1 n SER 41  
+1 n LEU 42  
+1 n PRO 43  
+1 n GLU 44  
+1 n TRP 45  
+1 n VAL 46  
+1 n CYS 47  
+1 n THR 48  
+1 n THR 49  
+1 n PHE 50  
+1 n HIS 51  
+1 n THR 52  
+1 n SER 53  
+1 n GLY 54  
+1 n TYR 55  
+1 n ASP 56  
+1 n THR 57  
+1 n GLN 58  
+1 n ALA 59  
+1 n ILE 60  
+1 n VAL 61  
+1 n GLN 62  
+1 n ASN 63  
+1 n ASN 64  
+1 n ASP 65  
+1 n SER 66  
+1 n THR 67  
+1 n GLU 68  
+1 n TYR 69  
+1 n GLY 70  
+1 n LEU 71  
+1 n PHE 72  
+1 n GLN 73  
+1 n ILE 74  
+1 n ASN 75  
+1 n ASN 76  
+1 n LYS 77  
+1 n ILE 78  
+1 n TRP 79  
+1 n CYS 80  
+1 n LYS 81  
+1 n ASP 82  
+1 n ASP 83  
+1 n GLN 84  
+1 n ASN 85  
+1 n PRO 86  
+1 n HIS 87  
+1 n SER 88  
+1 n SER 89  
+1 n ASN 90  
+1 n ILE 91  
+1 n CYS 92  
+1 n ASN 93  
+1 n ILE 94  
+1 n SER 95  
+1 n CYS 96  
+1 n ASP 97  
+1 n LYS 98  
+1 n PHE 99  
+1 n LEU 100 
+1 n ASP 101 
+1 n ASP 102 
+1 n ASP 103 
+1 n LEU 104 
+1 n THR 105 
+1 n ASP 106 
+1 n ASP 107 
+1 n ILE 108 
+1 n MET 109 
+1 n CYS 110 
+1 n VAL 111 
+1 n LYS 112 
+1 n LYS 113 
+1 n ILE 114 
+1 n LEU 115 
+1 n ASP 116 
+1 n LYS 117 
+1 n VAL 118 
+1 n GLY 119 
+1 n ILE 120 
+1 n ASN 121 
+1 n TYR 122 
+1 n TRP 123 
+1 n LEU 124 
+1 n ALA 125 
+1 n HIS 126 
+1 n LYS 127 
+1 n ALA 128 
+1 n LEU 129 
+1 n CYS 130 
+1 n SER 131 
+1 n GLU 132 
+1 n LYS 133 
+1 n LEU 134 
+1 n ASP 135 
+1 n GLN 136 
+1 n TRP 137 
+1 n LEU 138 
+1 n CYS 139 
+1 n GLU 140 
+1 n LYS 141 
+1 n LEU 142 
+#
+loop_
+_ma_data.content_type
+_ma_data.id
+_ma_data.name
+"model coordinates" 1 Model             
+"input structure"   2 "Input structure" 
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold Monomer v2.0 model"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 90.59
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+A MET 1   2 44.22 1 1   
+A MET 2   2 45.66 1 2   
+A SER 3   2 53.97 1 3   
+A PHE 4   2 53.66 1 4   
+A VAL 5   2 56.69 1 5   
+A SER 6   2 59.50 1 6   
+A LEU 7   2 56.62 1 7   
+A LEU 8   2 57.00 1 8   
+A LEU 9   2 57.91 1 9   
+A VAL 10  2 61.38 1 10  
+A GLY 11  2 62.12 1 11  
+A ILE 12  2 61.25 1 12  
+A LEU 13  2 60.16 1 13  
+A PHE 14  2 53.97 1 14  
+A HIS 15  2 50.47 1 15  
+A ALA 16  2 53.31 1 16  
+A THR 17  2 56.84 1 17  
+A GLN 18  2 56.44 1 18  
+A ALA 19  2 58.00 1 19  
+A GLU 20  2 71.12 1 20  
+A GLN 21  2 89.69 1 21  
+A LEU 22  2 94.19 1 22  
+A THR 23  2 95.38 1 23  
+A LYS 24  2 95.88 1 24  
+A CYS 25  2 96.31 1 25  
+A GLU 26  2 95.56 1 26  
+A VAL 27  2 96.38 1 27  
+A PHE 28  2 95.88 1 28  
+A ARG 29  2 95.50 1 29  
+A GLU 30  2 96.00 1 30  
+A LEU 31  2 96.62 1 31  
+A LYS 32  2 95.31 1 32  
+A ASP 33  2 95.25 1 33  
+A LEU 34  2 96.88 1 34  
+A LYS 35  2 95.94 1 35  
+A GLY 36  2 96.25 1 36  
+A TYR 37  2 97.81 1 37  
+A GLY 38  2 95.25 1 38  
+A GLY 39  2 96.38 1 39  
+A VAL 40  2 97.56 1 40  
+A SER 41  2 97.31 1 41  
+A LEU 42  2 96.88 1 42  
+A PRO 43  2 97.69 1 43  
+A GLU 44  2 98.19 1 44  
+A TRP 45  2 98.06 1 45  
+A VAL 46  2 97.94 1 46  
+A CYS 47  2 98.56 1 47  
+A THR 48  2 98.44 1 48  
+A THR 49  2 98.19 1 49  
+A PHE 50  2 98.19 1 50  
+A HIS 51  2 98.19 1 51  
+A THR 52  2 97.81 1 52  
+A SER 53  2 97.75 1 53  
+A GLY 54  2 97.62 1 54  
+A TYR 55  2 97.62 1 55  
+A ASP 56  2 97.25 1 56  
+A THR 57  2 97.44 1 57  
+A GLN 58  2 97.19 1 58  
+A ALA 59  2 97.81 1 59  
+A ILE 60  2 97.94 1 60  
+A VAL 61  2 97.94 1 61  
+A GLN 62  2 97.25 1 62  
+A ASN 63  2 94.00 1 63  
+A ASN 64  2 91.75 1 64  
+A ASP 65  2 93.25 1 65  
+A SER 66  2 97.00 1 66  
+A THR 67  2 98.31 1 67  
+A GLU 68  2 98.50 1 68  
+A TYR 69  2 98.62 1 69  
+A GLY 70  2 98.25 1 70  
+A LEU 71  2 98.25 1 71  
+A PHE 72  2 98.56 1 72  
+A GLN 73  2 98.69 1 73  
+A ILE 74  2 98.69 1 74  
+A ASN 75  2 98.25 1 75  
+A ASN 76  2 98.25 1 76  
+A LYS 77  2 97.50 1 77  
+A ILE 78  2 98.31 1 78  
+A TRP 79  2 98.75 1 79  
+A CYS 80  2 98.75 1 80  
+A LYS 81  2 98.44 1 81  
+A ASP 82  2 96.25 1 82  
+A ASP 83  2 93.62 1 83  
+A GLN 84  2 93.00 1 84  
+A ASN 85  2 92.94 1 85  
+A PRO 86  2 91.06 1 86  
+A HIS 87  2 94.31 1 87  
+A SER 88  2 97.31 1 88  
+A SER 89  2 97.44 1 89  
+A ASN 90  2 98.31 1 90  
+A ILE 91  2 98.62 1 91  
+A CYS 92  2 98.69 1 92  
+A ASN 93  2 98.31 1 93  
+A ILE 94  2 98.50 1 94  
+A SER 95  2 98.44 1 95  
+A CYS 96  2 98.56 1 96  
+A ASP 97  2 97.69 1 97  
+A LYS 98  2 98.38 1 98  
+A PHE 99  2 98.44 1 99  
+A LEU 100 2 97.75 1 100 
+A ASP 101 2 94.12 1 101 
+A ASP 102 2 88.75 1 102 
+A ASP 103 2 94.62 1 103 
+A LEU 104 2 97.12 1 104 
+A THR 105 2 97.94 1 105 
+A ASP 106 2 98.31 1 106 
+A ASP 107 2 98.62 1 107 
+A ILE 108 2 98.62 1 108 
+A MET 109 2 98.62 1 109 
+A CYS 110 2 98.81 1 110 
+A VAL 111 2 98.75 1 111 
+A LYS 112 2 98.75 1 112 
+A LYS 113 2 98.75 1 113 
+A ILE 114 2 98.69 1 114 
+A LEU 115 2 98.38 1 115 
+A ASP 116 2 98.31 1 116 
+A LYS 117 2 98.06 1 117 
+A VAL 118 2 97.88 1 118 
+A GLY 119 2 97.62 1 119 
+A ILE 120 2 97.00 1 120 
+A ASN 121 2 94.88 1 121 
+A TYR 122 2 97.75 1 122 
+A TRP 123 2 97.81 1 123 
+A LEU 124 2 95.69 1 124 
+A ALA 125 2 94.81 1 125 
+A HIS 126 2 96.38 1 126 
+A LYS 127 2 91.31 1 127 
+A ALA 128 2 94.81 1 128 
+A LEU 129 2 96.75 1 129 
+A CYS 130 2 97.31 1 130 
+A SER 131 2 92.94 1 131 
+A GLU 132 2 93.62 1 132 
+A LYS 133 2 94.38 1 133 
+A LEU 134 2 96.31 1 134 
+A ASP 135 2 95.94 1 135 
+A GLN 136 2 95.19 1 136 
+A TRP 137 2 96.62 1 137 
+A LEU 138 2 95.62 1 138 
+A CYS 139 2 93.44 1 139 
+A GLU 140 2 78.50 1 140 
+A LYS 141 2 62.25 1 141 
+A LEU 142 2 55.91 1 142 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+_ma_target_entity.data_id   1
+_ma_target_entity.entity_id 1
+_ma_target_entity.origin    "reference database"
+#
+_ma_target_entity_instance.asym_id   A
+_ma_target_entity_instance.details   .
+_ma_target_entity_instance.entity_id 1
+#
+_ma_target_ref_db_details.db_accession                 L8IIC8
+_ma_target_ref_db_details.db_code                      L8IIC8_9CETA
+_ma_target_ref_db_details.db_name                      UNP
+_ma_target_ref_db_details.gene_name                    M91_03089
+_ma_target_ref_db_details.ncbi_taxonomy_id             72004
+_ma_target_ref_db_details.organism_scientific          "Bos mutus (wild yak)"
+_ma_target_ref_db_details.seq_db_align_begin           1
+_ma_target_ref_db_details.seq_db_align_end             142
+_ma_target_ref_db_details.seq_db_isoform               ?
+_ma_target_ref_db_details.seq_db_sequence_checksum     810CDB1145901405
+_ma_target_ref_db_details.seq_db_sequence_version_date 2013-04-03
+_ma_target_ref_db_details.target_entity_id             1
+#
+loop_
+_ma_template_details.ordinal_id
+_ma_template_details.target_asym_id
+_ma_template_details.template_auth_asym_id
+_ma_template_details.template_data_id
+_ma_template_details.template_entity_type
+_ma_template_details.template_id
+_ma_template_details.template_model_num
+_ma_template_details.template_origin
+_ma_template_details.template_trans_matrix_id
+1 A A 2 polymer 1 1 "reference database" 1 
+2 A A 2 polymer 2 1 "reference database" 1 
+3 A A 2 polymer 3 1 "reference database" 1 
+4 A A 2 polymer 4 1 "reference database" 1 
+#
+loop_
+_ma_template_ref_db_details.db_accession_code
+_ma_template_ref_db_details.db_name
+_ma_template_ref_db_details.template_id
+1A4V PDB 1 
+1B9O PDB 2 
+1HML PDB 3 
+1YRO PDB 4 
+#
+_ma_template_trans_matrix.id               1
+_ma_template_trans_matrix.rot_matrix[1][1] 1.0
+_ma_template_trans_matrix.rot_matrix[1][2] 0.0
+_ma_template_trans_matrix.rot_matrix[1][3] 0.0
+_ma_template_trans_matrix.rot_matrix[2][1] 0.0
+_ma_template_trans_matrix.rot_matrix[2][2] 1.0
+_ma_template_trans_matrix.rot_matrix[2][3] 0.0
+_ma_template_trans_matrix.rot_matrix[3][1] 0.0
+_ma_template_trans_matrix.rot_matrix[3][2] 0.0
+_ma_template_trans_matrix.rot_matrix[3][3] 1.0
+_ma_template_trans_matrix.tr_vector[1]     0.0
+_ma_template_trans_matrix.tr_vector[2]     0.0
+_ma_template_trans_matrix.tr_vector[3]     0.0
+#
+_pdbx_audit_revision_details.data_content_type "Structure model"
+_pdbx_audit_revision_details.description       "Format fixes, new metadata, initial UniProt release"
+_pdbx_audit_revision_details.ordinal           3
+_pdbx_audit_revision_details.provider          repository
+_pdbx_audit_revision_details.revision_ordinal  3
+_pdbx_audit_revision_details.type              Remediation
+#
+_pdbx_audit_revision_history.data_content_type "Structure model"
+_pdbx_audit_revision_history.major_revision    3
+_pdbx_audit_revision_history.minor_revision    0
+_pdbx_audit_revision_history.ordinal           3
+_pdbx_audit_revision_history.revision_date     2022-06-01
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.name
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+"Data in this file is available under a CC-BY-4.0 license." 1 CC-BY-4.0 license    https://creativecommons.org/licenses/by/4.0/ 
+;ALPHAFOLD DATA, COPYRIGHT (2021) DEEPMIND TECHNOLOGIES LIMITED. THE INFORMATION
+PROVIDED IS THEORETICAL MODELLING ONLY AND CAUTION SHOULD BE EXERCISED IN ITS
+USE. IT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESSED
+OR IMPLIED. NO WARRANTY IS GIVEN THAT USE OF THE INFORMATION SHALL NOT INFRINGE
+THE RIGHTS OF ANY THIRD PARTY. DISCLAIMER: THE INFORMATION IS NOT INTENDED TO BE
+A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT, AND DOES
+NOT CONSTITUTE MEDICAL OR OTHER PROFESSIONAL ADVICE. IT IS AVAILABLE FOR
+ACADEMIC AND COMMERCIAL PURPOSES, UNDER CC-BY 4.0 LICENCE.
+;
+2 ?         disclaimer ?                                            
+#
+_pdbx_database_status.entry_id                      AF-L8IIC8-F1
+_pdbx_database_status.recvd_initial_deposition_date 2022-06-01
+_pdbx_database_status.status_code                   REL
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_mon_id
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+A 1   1 n MET . MET 1   A 1   
+A 2   1 n MET . MET 2   A 2   
+A 3   1 n SER . SER 3   A 3   
+A 4   1 n PHE . PHE 4   A 4   
+A 5   1 n VAL . VAL 5   A 5   
+A 6   1 n SER . SER 6   A 6   
+A 7   1 n LEU . LEU 7   A 7   
+A 8   1 n LEU . LEU 8   A 8   
+A 9   1 n LEU . LEU 9   A 9   
+A 10  1 n VAL . VAL 10  A 10  
+A 11  1 n GLY . GLY 11  A 11  
+A 12  1 n ILE . ILE 12  A 12  
+A 13  1 n LEU . LEU 13  A 13  
+A 14  1 n PHE . PHE 14  A 14  
+A 15  1 n HIS . HIS 15  A 15  
+A 16  1 n ALA . ALA 16  A 16  
+A 17  1 n THR . THR 17  A 17  
+A 18  1 n GLN . GLN 18  A 18  
+A 19  1 n ALA . ALA 19  A 19  
+A 20  1 n GLU . GLU 20  A 20  
+A 21  1 n GLN . GLN 21  A 21  
+A 22  1 n LEU . LEU 22  A 22  
+A 23  1 n THR . THR 23  A 23  
+A 24  1 n LYS . LYS 24  A 24  
+A 25  1 n CYS . CYS 25  A 25  
+A 26  1 n GLU . GLU 26  A 26  
+A 27  1 n VAL . VAL 27  A 27  
+A 28  1 n PHE . PHE 28  A 28  
+A 29  1 n ARG . ARG 29  A 29  
+A 30  1 n GLU . GLU 30  A 30  
+A 31  1 n LEU . LEU 31  A 31  
+A 32  1 n LYS . LYS 32  A 32  
+A 33  1 n ASP . ASP 33  A 33  
+A 34  1 n LEU . LEU 34  A 34  
+A 35  1 n LYS . LYS 35  A 35  
+A 36  1 n GLY . GLY 36  A 36  
+A 37  1 n TYR . TYR 37  A 37  
+A 38  1 n GLY . GLY 38  A 38  
+A 39  1 n GLY . GLY 39  A 39  
+A 40  1 n VAL . VAL 40  A 40  
+A 41  1 n SER . SER 41  A 41  
+A 42  1 n LEU . LEU 42  A 42  
+A 43  1 n PRO . PRO 43  A 43  
+A 44  1 n GLU . GLU 44  A 44  
+A 45  1 n TRP . TRP 45  A 45  
+A 46  1 n VAL . VAL 46  A 46  
+A 47  1 n CYS . CYS 47  A 47  
+A 48  1 n THR . THR 48  A 48  
+A 49  1 n THR . THR 49  A 49  
+A 50  1 n PHE . PHE 50  A 50  
+A 51  1 n HIS . HIS 51  A 51  
+A 52  1 n THR . THR 52  A 52  
+A 53  1 n SER . SER 53  A 53  
+A 54  1 n GLY . GLY 54  A 54  
+A 55  1 n TYR . TYR 55  A 55  
+A 56  1 n ASP . ASP 56  A 56  
+A 57  1 n THR . THR 57  A 57  
+A 58  1 n GLN . GLN 58  A 58  
+A 59  1 n ALA . ALA 59  A 59  
+A 60  1 n ILE . ILE 60  A 60  
+A 61  1 n VAL . VAL 61  A 61  
+A 62  1 n GLN . GLN 62  A 62  
+A 63  1 n ASN . ASN 63  A 63  
+A 64  1 n ASN . ASN 64  A 64  
+A 65  1 n ASP . ASP 65  A 65  
+A 66  1 n SER . SER 66  A 66  
+A 67  1 n THR . THR 67  A 67  
+A 68  1 n GLU . GLU 68  A 68  
+A 69  1 n TYR . TYR 69  A 69  
+A 70  1 n GLY . GLY 70  A 70  
+A 71  1 n LEU . LEU 71  A 71  
+A 72  1 n PHE . PHE 72  A 72  
+A 73  1 n GLN . GLN 73  A 73  
+A 74  1 n ILE . ILE 74  A 74  
+A 75  1 n ASN . ASN 75  A 75  
+A 76  1 n ASN . ASN 76  A 76  
+A 77  1 n LYS . LYS 77  A 77  
+A 78  1 n ILE . ILE 78  A 78  
+A 79  1 n TRP . TRP 79  A 79  
+A 80  1 n CYS . CYS 80  A 80  
+A 81  1 n LYS . LYS 81  A 81  
+A 82  1 n ASP . ASP 82  A 82  
+A 83  1 n ASP . ASP 83  A 83  
+A 84  1 n GLN . GLN 84  A 84  
+A 85  1 n ASN . ASN 85  A 85  
+A 86  1 n PRO . PRO 86  A 86  
+A 87  1 n HIS . HIS 87  A 87  
+A 88  1 n SER . SER 88  A 88  
+A 89  1 n SER . SER 89  A 89  
+A 90  1 n ASN . ASN 90  A 90  
+A 91  1 n ILE . ILE 91  A 91  
+A 92  1 n CYS . CYS 92  A 92  
+A 93  1 n ASN . ASN 93  A 93  
+A 94  1 n ILE . ILE 94  A 94  
+A 95  1 n SER . SER 95  A 95  
+A 96  1 n CYS . CYS 96  A 96  
+A 97  1 n ASP . ASP 97  A 97  
+A 98  1 n LYS . LYS 98  A 98  
+A 99  1 n PHE . PHE 99  A 99  
+A 100 1 n LEU . LEU 100 A 100 
+A 101 1 n ASP . ASP 101 A 101 
+A 102 1 n ASP . ASP 102 A 102 
+A 103 1 n ASP . ASP 103 A 103 
+A 104 1 n LEU . LEU 104 A 104 
+A 105 1 n THR . THR 105 A 105 
+A 106 1 n ASP . ASP 106 A 106 
+A 107 1 n ASP . ASP 107 A 107 
+A 108 1 n ILE . ILE 108 A 108 
+A 109 1 n MET . MET 109 A 109 
+A 110 1 n CYS . CYS 110 A 110 
+A 111 1 n VAL . VAL 111 A 111 
+A 112 1 n LYS . LYS 112 A 112 
+A 113 1 n LYS . LYS 113 A 113 
+A 114 1 n ILE . ILE 114 A 114 
+A 115 1 n LEU . LEU 115 A 115 
+A 116 1 n ASP . ASP 116 A 116 
+A 117 1 n LYS . LYS 117 A 117 
+A 118 1 n VAL . VAL 118 A 118 
+A 119 1 n GLY . GLY 119 A 119 
+A 120 1 n ILE . ILE 120 A 120 
+A 121 1 n ASN . ASN 121 A 121 
+A 122 1 n TYR . TYR 122 A 122 
+A 123 1 n TRP . TRP 123 A 123 
+A 124 1 n LEU . LEU 124 A 124 
+A 125 1 n ALA . ALA 125 A 125 
+A 126 1 n HIS . HIS 126 A 126 
+A 127 1 n LYS . LYS 127 A 127 
+A 128 1 n ALA . ALA 128 A 128 
+A 129 1 n LEU . LEU 129 A 129 
+A 130 1 n CYS . CYS 130 A 130 
+A 131 1 n SER . SER 131 A 131 
+A 132 1 n GLU . GLU 132 A 132 
+A 133 1 n LYS . LYS 133 A 133 
+A 134 1 n LEU . LEU 134 A 134 
+A 135 1 n ASP . ASP 135 A 135 
+A 136 1 n GLN . GLN 136 A 136 
+A 137 1 n TRP . TRP 137 A 137 
+A 138 1 n LEU . LEU 138 A 138 
+A 139 1 n CYS . CYS 139 A 139 
+A 140 1 n GLU . GLU 140 A 140 
+A 141 1 n LYS . LYS 141 A 141 
+A 142 1 n LEU . LEU 142 A 142 
+#
+loop_
+_software.classification
+_software.date
+_software.description
+_software.name
+_software.pdbx_ordinal
+_software.type
+_software.version
+other ? "Structure prediction" AlphaFold 1 package v2.0 
+other ? "Secondary structure"  dssp      2 library 4    
+#
+_struct_asym.entity_id 1
+_struct_asym.id        A
+#
+loop_
+_struct_conf.beg_auth_asym_id
+_struct_conf.beg_auth_comp_id
+_struct_conf.beg_auth_seq_id
+_struct_conf.beg_label_asym_id
+_struct_conf.beg_label_comp_id
+_struct_conf.beg_label_seq_id
+_struct_conf.conf_type_id
+_struct_conf.end_auth_asym_id
+_struct_conf.end_auth_comp_id
+_struct_conf.end_auth_seq_id
+_struct_conf.end_label_asym_id
+_struct_conf.end_label_comp_id
+_struct_conf.end_label_seq_id
+_struct_conf.id
+_struct_conf.pdbx_beg_PDB_ins_code
+_struct_conf.pdbx_end_PDB_ins_code
+A GLN 21  A GLN 21  STRN         A GLN 21  A GLN 21  STRN1         ? ? 
+A LYS 24  A LYS 24  HELX_RH_AL_P A GLU 30  A GLU 30  HELX_RH_AL_P1 ? ? 
+A LEU 31  A LEU 31  HELX_RH_3T_P A LEU 34  A LEU 34  HELX_RH_3T_P1 ? ? 
+A LYS 35  A LYS 35  TURN_TY1_P   A GLY 36  A GLY 36  TURN_TY1_P1   ? ? 
+A TYR 37  A TYR 37  HELX_RH_3T_P A GLY 39  A GLY 39  HELX_RH_3T_P2 ? ? 
+A LEU 42  A LEU 42  HELX_RH_AL_P A SER 53  A SER 53  HELX_RH_AL_P2 ? ? 
+A GLY 54  A GLY 54  TURN_TY1_P   A TYR 55  A TYR 55  TURN_TY1_P2   ? ? 
+A ASP 56  A ASP 56  STRN         A ASP 56  A ASP 56  STRN2         ? ? 
+A THR 57  A THR 57  TURN_TY1_P   A GLN 58  A GLN 58  TURN_TY1_P3   ? ? 
+A ILE 60  A ILE 60  STRN         A GLN 62  A GLN 62  STRN3         ? ? 
+A ASN 64  A ASN 64  BEND         A ASP 65  A ASP 65  BEND1         ? ? 
+A THR 67  A THR 67  STRN         A TYR 69  A TYR 69  STRN4         ? ? 
+A GLY 70  A GLY 70  TURN_TY1_P   A GLN 73  A GLN 73  TURN_TY1_P4   ? ? 
+A ILE 74  A ILE 74  STRN         A ASN 75  A ASN 75  STRN5         ? ? 
+A ASN 76  A ASN 76  TURN_TY1_P   A TRP 79  A TRP 79  TURN_TY1_P5   ? ? 
+A CYS 80  A CYS 80  BEND         A CYS 80  A CYS 80  BEND2         ? ? 
+A LYS 81  A LYS 81  STRN         A LYS 81  A LYS 81  STRN6         ? ? 
+A ASP 83  A ASP 83  BEND         A GLN 84  A GLN 84  BEND3         ? ? 
+A PRO 86  A PRO 86  TURN_TY1_P   A HIS 87  A HIS 87  TURN_TY1_P6   ? ? 
+A ILE 91  A ILE 91  TURN_TY1_P   A CYS 92  A CYS 92  TURN_TY1_P7   ? ? 
+A ILE 94  A ILE 94  BEND         A ILE 94  A ILE 94  BEND4         ? ? 
+A SER 95  A SER 95  STRN         A SER 95  A SER 95  STRN7         ? ? 
+A CYS 96  A CYS 96  HELX_RH_3T_P A LEU 100 A LEU 100 HELX_RH_3T_P3 ? ? 
+A ASP 101 A ASP 101 BEND         A ASP 102 A ASP 102 BEND5         ? ? 
+A LEU 104 A LEU 104 HELX_RH_AL_P A LYS 117 A LYS 117 HELX_RH_AL_P3 ? ? 
+A VAL 118 A VAL 118 TURN_TY1_P   A VAL 118 A VAL 118 TURN_TY1_P8   ? ? 
+A ILE 120 A ILE 120 HELX_RH_3T_P A TYR 122 A TYR 122 HELX_RH_3T_P4 ? ? 
+A TRP 123 A TRP 123 BEND         A TRP 123 A TRP 123 BEND6         ? ? 
+A LEU 124 A LEU 124 HELX_RH_AL_P A LEU 129 A LEU 129 HELX_RH_AL_P4 ? ? 
+A CYS 130 A CYS 130 BEND         A GLU 132 A GLU 132 BEND7         ? ? 
+A LEU 134 A LEU 134 HELX_RH_3T_P A TRP 137 A TRP 137 HELX_RH_3T_P5 ? ? 
+A GLU 140 A GLU 140 BEND         A GLU 140 A GLU 140 BEND8         ? ? 
+#
+loop_
+_struct_conf_type.criteria
+_struct_conf_type.id
+DSSP STRN         
+DSSP HELX_RH_AL_P 
+DSSP HELX_RH_3T_P 
+DSSP TURN_TY1_P   
+DSSP BEND         
+#
+_struct_ref.db_code                  L8IIC8_9CETA
+_struct_ref.db_name                  UNP
+_struct_ref.entity_id                1
+_struct_ref.id                       1
+_struct_ref.pdbx_align_begin         1
+_struct_ref.pdbx_align_end           142
+_struct_ref.pdbx_db_accession        L8IIC8
+_struct_ref.pdbx_db_isoform          ?
+_struct_ref.pdbx_seq_one_letter_code 
+;MMSFVSLLLVGILFHATQAEQLTKCEVFRELKDLKGYGGVSLPEWVCTTFHTSGYDTQAIVQNNDSTEYGLFQINNKIWC
+KDDQNPHSSNICNISCDKFLDDDLTDDIMCVKKILDKVGINYWLAHKALCSEKLDQWLCEKL
+;
+#
+_struct_ref_seq.align_id                    1
+_struct_ref_seq.db_align_beg                1
+_struct_ref_seq.db_align_end                142
+_struct_ref_seq.pdbx_PDB_id_code            AF-L8IIC8-F1
+_struct_ref_seq.pdbx_auth_seq_align_beg     1
+_struct_ref_seq.pdbx_auth_seq_align_end     142
+_struct_ref_seq.pdbx_db_accession           L8IIC8
+_struct_ref_seq.pdbx_db_align_beg_ins_code  ?
+_struct_ref_seq.pdbx_db_align_end_ins_code  ?
+_struct_ref_seq.pdbx_seq_align_beg_ins_code ?
+_struct_ref_seq.pdbx_seq_align_end_ins_code ?
+_struct_ref_seq.pdbx_strand_id              A
+_struct_ref_seq.ref_id                      1
+_struct_ref_seq.seq_align_beg               1
+_struct_ref_seq.seq_align_end               142
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+_atom_site.pdbx_sifts_xref_db_acc
+_atom_site.pdbx_sifts_xref_db_name
+_atom_site.pdbx_sifts_xref_db_num
+_atom_site.pdbx_sifts_xref_db_res
+ATOM 1    N N   . MET A 1 1   ? -39.240 19.780  -53.289 1.0 44.22 ? 1   MET A N   1 L8IIC8 UNP 1   M 
+ATOM 2    C CA  . MET A 1 1   ? -38.059 18.896  -53.206 1.0 44.22 ? 1   MET A CA  1 L8IIC8 UNP 1   M 
+ATOM 3    C C   . MET A 1 1   ? -37.469 19.085  -51.814 1.0 44.22 ? 1   MET A C   1 L8IIC8 UNP 1   M 
+ATOM 4    C CB  . MET A 1 1   ? -37.091 19.238  -54.357 1.0 44.22 ? 1   MET A CB  1 L8IIC8 UNP 1   M 
+ATOM 5    O O   . MET A 1 1   ? -36.851 20.109  -51.569 1.0 44.22 ? 1   MET A O   1 L8IIC8 UNP 1   M 
+ATOM 6    C CG  . MET A 1 1   ? -36.092 18.126  -54.683 1.0 44.22 ? 1   MET A CG  1 L8IIC8 UNP 1   M 
+ATOM 7    S SD  . MET A 1 1   ? -35.418 18.255  -56.364 1.0 44.22 ? 1   MET A SD  1 L8IIC8 UNP 1   M 
+ATOM 8    C CE  . MET A 1 1   ? -34.329 19.698  -56.211 1.0 44.22 ? 1   MET A CE  1 L8IIC8 UNP 1   M 
+ATOM 9    N N   . MET A 1 2   ? -37.830 18.221  -50.860 1.0 45.66 ? 2   MET A N   1 L8IIC8 UNP 2   M 
+ATOM 10   C CA  . MET A 1 2   ? -37.459 18.383  -49.446 1.0 45.66 ? 2   MET A CA  1 L8IIC8 UNP 2   M 
+ATOM 11   C C   . MET A 1 2   ? -36.102 17.720  -49.208 1.0 45.66 ? 2   MET A C   1 L8IIC8 UNP 2   M 
+ATOM 12   C CB  . MET A 1 2   ? -38.547 17.803  -48.526 1.0 45.66 ? 2   MET A CB  1 L8IIC8 UNP 2   M 
+ATOM 13   O O   . MET A 1 2   ? -35.964 16.515  -49.389 1.0 45.66 ? 2   MET A O   1 L8IIC8 UNP 2   M 
+ATOM 14   C CG  . MET A 1 2   ? -39.808 18.680  -48.526 1.0 45.66 ? 2   MET A CG  1 L8IIC8 UNP 2   M 
+ATOM 15   S SD  . MET A 1 2   ? -41.240 17.971  -47.671 1.0 45.66 ? 2   MET A SD  1 L8IIC8 UNP 2   M 
+ATOM 16   C CE  . MET A 1 2   ? -40.656 17.968  -45.951 1.0 45.66 ? 2   MET A CE  1 L8IIC8 UNP 2   M 
+ATOM 17   N N   . SER A 1 3   ? -35.105 18.534  -48.866 1.0 53.97 ? 3   SER A N   1 L8IIC8 UNP 3   S 
+ATOM 18   C CA  . SER A 1 3   ? -33.762 18.084  -48.506 1.0 53.97 ? 3   SER A CA  1 L8IIC8 UNP 3   S 
+ATOM 19   C C   . SER A 1 3   ? -33.770 17.618  -47.051 1.0 53.97 ? 3   SER A C   1 L8IIC8 UNP 3   S 
+ATOM 20   C CB  . SER A 1 3   ? -32.766 19.232  -48.709 1.0 53.97 ? 3   SER A CB  1 L8IIC8 UNP 3   S 
+ATOM 21   O O   . SER A 1 3   ? -34.046 18.413  -46.153 1.0 53.97 ? 3   SER A O   1 L8IIC8 UNP 3   S 
+ATOM 22   O OG  . SER A 1 3   ? -31.449 18.745  -48.583 1.0 53.97 ? 3   SER A OG  1 L8IIC8 UNP 3   S 
+ATOM 23   N N   . PHE A 1 4   ? -33.505 16.333  -46.821 1.0 53.66 ? 4   PHE A N   1 L8IIC8 UNP 4   F 
+ATOM 24   C CA  . PHE A 1 4   ? -33.342 15.764  -45.486 1.0 53.66 ? 4   PHE A CA  1 L8IIC8 UNP 4   F 
+ATOM 25   C C   . PHE A 1 4   ? -31.849 15.727  -45.154 1.0 53.66 ? 4   PHE A C   1 L8IIC8 UNP 4   F 
+ATOM 26   C CB  . PHE A 1 4   ? -34.000 14.377  -45.414 1.0 53.66 ? 4   PHE A CB  1 L8IIC8 UNP 4   F 
+ATOM 27   O O   . PHE A 1 4   ? -31.125 14.838  -45.593 1.0 53.66 ? 4   PHE A O   1 L8IIC8 UNP 4   F 
+ATOM 28   C CG  . PHE A 1 4   ? -35.517 14.408  -45.461 1.0 53.66 ? 4   PHE A CG  1 L8IIC8 UNP 4   F 
+ATOM 29   C CD1 . PHE A 1 4   ? -36.252 14.643  -44.283 1.0 53.66 ? 4   PHE A CD1 1 L8IIC8 UNP 4   F 
+ATOM 30   C CD2 . PHE A 1 4   ? -36.199 14.200  -46.675 1.0 53.66 ? 4   PHE A CD2 1 L8IIC8 UNP 4   F 
+ATOM 31   C CE1 . PHE A 1 4   ? -37.658 14.663  -44.317 1.0 53.66 ? 4   PHE A CE1 1 L8IIC8 UNP 4   F 
+ATOM 32   C CE2 . PHE A 1 4   ? -37.605 14.218  -46.709 1.0 53.66 ? 4   PHE A CE2 1 L8IIC8 UNP 4   F 
+ATOM 33   C CZ  . PHE A 1 4   ? -38.335 14.448  -45.530 1.0 53.66 ? 4   PHE A CZ  1 L8IIC8 UNP 4   F 
+ATOM 34   N N   . VAL A 1 5   ? -31.379 16.718  -44.397 1.0 56.69 ? 5   VAL A N   1 L8IIC8 UNP 5   V 
+ATOM 35   C CA  . VAL A 1 5   ? -30.040 16.699  -43.798 1.0 56.69 ? 5   VAL A CA  1 L8IIC8 UNP 5   V 
+ATOM 36   C C   . VAL A 1 5   ? -30.147 15.922  -42.488 1.0 56.69 ? 5   VAL A C   1 L8IIC8 UNP 5   V 
+ATOM 37   C CB  . VAL A 1 5   ? -29.490 18.127  -43.600 1.0 56.69 ? 5   VAL A CB  1 L8IIC8 UNP 5   V 
+ATOM 38   O O   . VAL A 1 5   ? -30.640 16.441  -41.489 1.0 56.69 ? 5   VAL A O   1 L8IIC8 UNP 5   V 
+ATOM 39   C CG1 . VAL A 1 5   ? -28.097 18.113  -42.956 1.0 56.69 ? 5   VAL A CG1 1 L8IIC8 UNP 5   V 
+ATOM 40   C CG2 . VAL A 1 5   ? -29.376 18.860  -44.945 1.0 56.69 ? 5   VAL A CG2 1 L8IIC8 UNP 5   V 
+ATOM 41   N N   . SER A 1 6   ? -29.736 14.655  -42.496 1.0 59.50 ? 6   SER A N   1 L8IIC8 UNP 6   S 
+ATOM 42   C CA  . SER A 1 6   ? -29.632 13.849  -41.277 1.0 59.50 ? 6   SER A CA  1 L8IIC8 UNP 6   S 
+ATOM 43   C C   . SER A 1 6   ? -28.472 14.357  -40.417 1.0 59.50 ? 6   SER A C   1 L8IIC8 UNP 6   S 
+ATOM 44   C CB  . SER A 1 6   ? -29.438 12.367  -41.624 1.0 59.50 ? 6   SER A CB  1 L8IIC8 UNP 6   S 
+ATOM 45   O O   . SER A 1 6   ? -27.309 14.109  -40.727 1.0 59.50 ? 6   SER A O   1 L8IIC8 UNP 6   S 
+ATOM 46   O OG  . SER A 1 6   ? -30.630 11.830  -42.167 1.0 59.50 ? 6   SER A OG  1 L8IIC8 UNP 6   S 
+ATOM 47   N N   . LEU A 1 7   ? -28.784 15.065  -39.327 1.0 56.62 ? 7   LEU A N   1 L8IIC8 UNP 7   L 
+ATOM 48   C CA  . LEU A 1 7   ? -27.827 15.350  -38.256 1.0 56.62 ? 7   LEU A CA  1 L8IIC8 UNP 7   L 
+ATOM 49   C C   . LEU A 1 7   ? -27.570 14.068  -37.450 1.0 56.62 ? 7   LEU A C   1 L8IIC8 UNP 7   L 
+ATOM 50   C CB  . LEU A 1 7   ? -28.344 16.478  -37.335 1.0 56.62 ? 7   LEU A CB  1 L8IIC8 UNP 7   L 
+ATOM 51   O O   . LEU A 1 7   ? -28.408 13.644  -36.657 1.0 56.62 ? 7   LEU A O   1 L8IIC8 UNP 7   L 
+ATOM 52   C CG  . LEU A 1 7   ? -27.907 17.899  -37.749 1.0 56.62 ? 7   LEU A CG  1 L8IIC8 UNP 7   L 
+ATOM 53   C CD1 . LEU A 1 7   ? -29.061 18.696  -38.357 1.0 56.62 ? 7   LEU A CD1 1 L8IIC8 UNP 7   L 
+ATOM 54   C CD2 . LEU A 1 7   ? -27.384 18.667  -36.532 1.0 56.62 ? 7   LEU A CD2 1 L8IIC8 UNP 7   L 
+ATOM 55   N N   . LEU A 1 8   ? -26.399 13.460  -37.637 1.0 57.00 ? 8   LEU A N   1 L8IIC8 UNP 8   L 
+ATOM 56   C CA  . LEU A 1 8   ? -25.864 12.443  -36.732 1.0 57.00 ? 8   LEU A CA  1 L8IIC8 UNP 8   L 
+ATOM 57   C C   . LEU A 1 8   ? -25.287 13.141  -35.490 1.0 57.00 ? 8   LEU A C   1 L8IIC8 UNP 8   L 
+ATOM 58   C CB  . LEU A 1 8   ? -24.808 11.599  -37.480 1.0 57.00 ? 8   LEU A CB  1 L8IIC8 UNP 8   L 
+ATOM 59   O O   . LEU A 1 8   ? -24.184 13.681  -35.530 1.0 57.00 ? 8   LEU A O   1 L8IIC8 UNP 8   L 
+ATOM 60   C CG  . LEU A 1 8   ? -25.416 10.421  -38.264 1.0 57.00 ? 8   LEU A CG  1 L8IIC8 UNP 8   L 
+ATOM 61   C CD1 . LEU A 1 8   ? -24.500 10.005  -39.415 1.0 57.00 ? 8   LEU A CD1 1 L8IIC8 UNP 8   L 
+ATOM 62   C CD2 . LEU A 1 8   ? -25.618 9.206   -37.354 1.0 57.00 ? 8   LEU A CD2 1 L8IIC8 UNP 8   L 
+ATOM 63   N N   . LEU A 1 9   ? -26.037 13.139  -34.385 1.0 57.91 ? 9   LEU A N   1 L8IIC8 UNP 9   L 
+ATOM 64   C CA  . LEU A 1 9   ? -25.507 13.456  -33.058 1.0 57.91 ? 9   LEU A CA  1 L8IIC8 UNP 9   L 
+ATOM 65   C C   . LEU A 1 9   ? -24.659 12.271  -32.577 1.0 57.91 ? 9   LEU A C   1 L8IIC8 UNP 9   L 
+ATOM 66   C CB  . LEU A 1 9   ? -26.659 13.775  -32.073 1.0 57.91 ? 9   LEU A CB  1 L8IIC8 UNP 9   L 
+ATOM 67   O O   . LEU A 1 9   ? -25.185 11.281  -32.073 1.0 57.91 ? 9   LEU A O   1 L8IIC8 UNP 9   L 
+ATOM 68   C CG  . LEU A 1 9   ? -26.897 15.283  -31.841 1.0 57.91 ? 9   LEU A CG  1 L8IIC8 UNP 9   L 
+ATOM 69   C CD1 . LEU A 1 9   ? -28.312 15.694  -32.248 1.0 57.91 ? 9   LEU A CD1 1 L8IIC8 UNP 9   L 
+ATOM 70   C CD2 . LEU A 1 9   ? -26.701 15.642  -30.365 1.0 57.91 ? 9   LEU A CD2 1 L8IIC8 UNP 9   L 
+ATOM 71   N N   . VAL A 1 10  ? -23.339 12.368  -32.731 1.0 61.38 ? 10  VAL A N   1 L8IIC8 UNP 10  V 
+ATOM 72   C CA  . VAL A 1 10  ? -22.399 11.487  -32.028 1.0 61.38 ? 10  VAL A CA  1 L8IIC8 UNP 10  V 
+ATOM 73   C C   . VAL A 1 10  ? -22.293 12.007  -30.596 1.0 61.38 ? 10  VAL A C   1 L8IIC8 UNP 10  V 
+ATOM 74   C CB  . VAL A 1 10  ? -21.036 11.413  -32.746 1.0 61.38 ? 10  VAL A CB  1 L8IIC8 UNP 10  V 
+ATOM 75   O O   . VAL A 1 10  ? -21.566 12.957  -30.317 1.0 61.38 ? 10  VAL A O   1 L8IIC8 UNP 10  V 
+ATOM 76   C CG1 . VAL A 1 10  ? -20.060 10.489  -32.005 1.0 61.38 ? 10  VAL A CG1 1 L8IIC8 UNP 10  V 
+ATOM 77   C CG2 . VAL A 1 10  ? -21.205 10.866  -34.172 1.0 61.38 ? 10  VAL A CG2 1 L8IIC8 UNP 10  V 
+ATOM 78   N N   . GLY A 1 11  ? -23.088 11.434  -29.691 1.0 62.12 ? 11  GLY A N   1 L8IIC8 UNP 11  G 
+ATOM 79   C CA  . GLY A 1 11  ? -22.960 11.685  -28.259 1.0 62.12 ? 11  GLY A CA  1 L8IIC8 UNP 11  G 
+ATOM 80   C C   . GLY A 1 11  ? -21.658 11.072  -27.755 1.0 62.12 ? 11  GLY A C   1 L8IIC8 UNP 11  G 
+ATOM 81   O O   . GLY A 1 11  ? -21.529 9.852   -27.710 1.0 62.12 ? 11  GLY A O   1 L8IIC8 UNP 11  G 
+ATOM 82   N N   . ILE A 1 12  ? -20.684 11.909  -27.402 1.0 61.25 ? 12  ILE A N   1 L8IIC8 UNP 12  I 
+ATOM 83   C CA  . ILE A 1 12  ? -19.464 11.459  -26.732 1.0 61.25 ? 12  ILE A CA  1 L8IIC8 UNP 12  I 
+ATOM 84   C C   . ILE A 1 12  ? -19.866 11.069  -25.306 1.0 61.25 ? 12  ILE A C   1 L8IIC8 UNP 12  I 
+ATOM 85   C CB  . ILE A 1 12  ? -18.357 12.541  -26.773 1.0 61.25 ? 12  ILE A CB  1 L8IIC8 UNP 12  I 
+ATOM 86   O O   . ILE A 1 12  ? -20.156 11.934  -24.481 1.0 61.25 ? 12  ILE A O   1 L8IIC8 UNP 12  I 
+ATOM 87   C CG1 . ILE A 1 12  ? -18.060 12.991  -28.226 1.0 61.25 ? 12  ILE A CG1 1 L8IIC8 UNP 12  I 
+ATOM 88   C CG2 . ILE A 1 12  ? -17.080 11.985  -26.114 1.0 61.25 ? 12  ILE A CG2 1 L8IIC8 UNP 12  I 
+ATOM 89   C CD1 . ILE A 1 12  ? -17.113 14.193  -28.330 1.0 61.25 ? 12  ILE A CD1 1 L8IIC8 UNP 12  I 
+ATOM 90   N N   . LEU A 1 13  ? -19.919 9.765   -25.025 1.0 60.16 ? 13  LEU A N   1 L8IIC8 UNP 13  L 
+ATOM 91   C CA  . LEU A 1 13  ? -20.008 9.243   -23.662 1.0 60.16 ? 13  LEU A CA  1 L8IIC8 UNP 13  L 
+ATOM 92   C C   . LEU A 1 13  ? -18.653 9.474   -22.987 1.0 60.16 ? 13  LEU A C   1 L8IIC8 UNP 13  L 
+ATOM 93   C CB  . LEU A 1 13  ? -20.400 7.750   -23.682 1.0 60.16 ? 13  LEU A CB  1 L8IIC8 UNP 13  L 
+ATOM 94   O O   . LEU A 1 13  ? -17.794 8.594   -22.979 1.0 60.16 ? 13  LEU A O   1 L8IIC8 UNP 13  L 
+ATOM 95   C CG  . LEU A 1 13  ? -21.878 7.472   -24.011 1.0 60.16 ? 13  LEU A CG  1 L8IIC8 UNP 13  L 
+ATOM 96   C CD1 . LEU A 1 13  ? -22.059 5.997   -24.373 1.0 60.16 ? 13  LEU A CD1 1 L8IIC8 UNP 13  L 
+ATOM 97   C CD2 . LEU A 1 13  ? -22.795 7.782   -22.824 1.0 60.16 ? 13  LEU A CD2 1 L8IIC8 UNP 13  L 
+ATOM 98   N N   . PHE A 1 14  ? -18.445 10.673  -22.444 1.0 53.97 ? 14  PHE A N   1 L8IIC8 UNP 14  F 
+ATOM 99   C CA  . PHE A 1 14  ? -17.411 10.878  -21.439 1.0 53.97 ? 14  PHE A CA  1 L8IIC8 UNP 14  F 
+ATOM 100  C C   . PHE A 1 14  ? -17.822 10.057  -20.216 1.0 53.97 ? 14  PHE A C   1 L8IIC8 UNP 14  F 
+ATOM 101  C CB  . PHE A 1 14  ? -17.252 12.370  -21.108 1.0 53.97 ? 14  PHE A CB  1 L8IIC8 UNP 14  F 
+ATOM 102  O O   . PHE A 1 14  ? -18.693 10.470  -19.451 1.0 53.97 ? 14  PHE A O   1 L8IIC8 UNP 14  F 
+ATOM 103  C CG  . PHE A 1 14  ? -16.490 13.163  -22.154 1.0 53.97 ? 14  PHE A CG  1 L8IIC8 UNP 14  F 
+ATOM 104  C CD1 . PHE A 1 14  ? -15.083 13.190  -22.122 1.0 53.97 ? 14  PHE A CD1 1 L8IIC8 UNP 14  F 
+ATOM 105  C CD2 . PHE A 1 14  ? -17.179 13.878  -23.152 1.0 53.97 ? 14  PHE A CD2 1 L8IIC8 UNP 14  F 
+ATOM 106  C CE1 . PHE A 1 14  ? -14.367 13.924  -23.084 1.0 53.97 ? 14  PHE A CE1 1 L8IIC8 UNP 14  F 
+ATOM 107  C CE2 . PHE A 1 14  ? -16.463 14.620  -24.109 1.0 53.97 ? 14  PHE A CE2 1 L8IIC8 UNP 14  F 
+ATOM 108  C CZ  . PHE A 1 14  ? -15.057 14.639  -24.078 1.0 53.97 ? 14  PHE A CZ  1 L8IIC8 UNP 14  F 
+ATOM 109  N N   . HIS A 1 15  ? -17.231 8.873   -20.052 1.0 50.47 ? 15  HIS A N   1 L8IIC8 UNP 15  H 
+ATOM 110  C CA  . HIS A 1 15  ? -17.200 8.249   -18.739 1.0 50.47 ? 15  HIS A CA  1 L8IIC8 UNP 15  H 
+ATOM 111  C C   . HIS A 1 15  ? -16.348 9.174   -17.878 1.0 50.47 ? 15  HIS A C   1 L8IIC8 UNP 15  H 
+ATOM 112  C CB  . HIS A 1 15  ? -16.645 6.819   -18.806 1.0 50.47 ? 15  HIS A CB  1 L8IIC8 UNP 15  H 
+ATOM 113  O O   . HIS A 1 15  ? -15.134 9.249   -18.049 1.0 50.47 ? 15  HIS A O   1 L8IIC8 UNP 15  H 
+ATOM 114  C CG  . HIS A 1 15  ? -17.652 5.832   -19.339 1.0 50.47 ? 15  HIS A CG  1 L8IIC8 UNP 15  H 
+ATOM 115  C CD2 . HIS A 1 15  ? -18.336 4.888   -18.616 1.0 50.47 ? 15  HIS A CD2 1 L8IIC8 UNP 15  H 
+ATOM 116  N ND1 . HIS A 1 15  ? -18.085 5.738   -20.642 1.0 50.47 ? 15  HIS A ND1 1 L8IIC8 UNP 15  H 
+ATOM 117  C CE1 . HIS A 1 15  ? -19.001 4.758   -20.703 1.0 50.47 ? 15  HIS A CE1 1 L8IIC8 UNP 15  H 
+ATOM 118  N NE2 . HIS A 1 15  ? -19.199 4.219   -19.493 1.0 50.47 ? 15  HIS A NE2 1 L8IIC8 UNP 15  H 
+ATOM 119  N N   . ALA A 1 16  ? -17.005 9.958   -17.027 1.0 53.31 ? 16  ALA A N   1 L8IIC8 UNP 16  A 
+ATOM 120  C CA  . ALA A 1 16  ? -16.317 10.631  -15.947 1.0 53.31 ? 16  ALA A CA  1 L8IIC8 UNP 16  A 
+ATOM 121  C C   . ALA A 1 16  ? -15.814 9.523   -15.018 1.0 53.31 ? 16  ALA A C   1 L8IIC8 UNP 16  A 
+ATOM 122  C CB  . ALA A 1 16  ? -17.283 11.613  -15.269 1.0 53.31 ? 16  ALA A CB  1 L8IIC8 UNP 16  A 
+ATOM 123  O O   . ALA A 1 16  ? -16.591 8.976   -14.239 1.0 53.31 ? 16  ALA A O   1 L8IIC8 UNP 16  A 
+ATOM 124  N N   . THR A 1 17  ? -14.544 9.145   -15.157 1.0 56.84 ? 17  THR A N   1 L8IIC8 UNP 17  T 
+ATOM 125  C CA  . THR A 1 17  ? -13.839 8.382   -14.131 1.0 56.84 ? 17  THR A CA  1 L8IIC8 UNP 17  T 
+ATOM 126  C C   . THR A 1 17  ? -13.761 9.316   -12.931 1.0 56.84 ? 17  THR A C   1 L8IIC8 UNP 17  T 
+ATOM 127  C CB  . THR A 1 17  ? -12.445 7.942   -14.620 1.0 56.84 ? 17  THR A CB  1 L8IIC8 UNP 17  T 
+ATOM 128  O O   . THR A 1 17  ? -12.978 10.268  -12.926 1.0 56.84 ? 17  THR A O   1 L8IIC8 UNP 17  T 
+ATOM 129  C CG2 . THR A 1 17  ? -12.550 6.939   -15.770 1.0 56.84 ? 17  THR A CG2 1 L8IIC8 UNP 17  T 
+ATOM 130  O OG1 . THR A 1 17  ? -11.723 9.049   -15.113 1.0 56.84 ? 17  THR A OG1 1 L8IIC8 UNP 17  T 
+ATOM 131  N N   . GLN A 1 18  ? -14.675 9.159   -11.972 1.0 56.44 ? 18  GLN A N   1 L8IIC8 UNP 18  Q 
+ATOM 132  C CA  . GLN A 1 18  ? -14.492 9.823   -10.690 1.0 56.44 ? 18  GLN A CA  1 L8IIC8 UNP 18  Q 
+ATOM 133  C C   . GLN A 1 18  ? -13.218 9.228   -10.093 1.0 56.44 ? 18  GLN A C   1 L8IIC8 UNP 18  Q 
+ATOM 134  C CB  . GLN A 1 18  ? -15.717 9.654   -9.774  1.0 56.44 ? 18  GLN A CB  1 L8IIC8 UNP 18  Q 
+ATOM 135  O O   . GLN A 1 18  ? -13.067 8.012   -10.078 1.0 56.44 ? 18  GLN A O   1 L8IIC8 UNP 18  Q 
+ATOM 136  C CG  . GLN A 1 18  ? -16.910 10.483  -10.278 1.0 56.44 ? 18  GLN A CG  1 L8IIC8 UNP 18  Q 
+ATOM 137  C CD  . GLN A 1 18  ? -18.084 10.522  -9.302  1.0 56.44 ? 18  GLN A CD  1 L8IIC8 UNP 18  Q 
+ATOM 138  N NE2 . GLN A 1 18  ? -19.305 10.440  -9.782  1.0 56.44 ? 18  GLN A NE2 1 L8IIC8 UNP 18  Q 
+ATOM 139  O OE1 . GLN A 1 18  ? -17.960 10.679  -8.103  1.0 56.44 ? 18  GLN A OE1 1 L8IIC8 UNP 18  Q 
+ATOM 140  N N   . ALA A 1 19  ? -12.277 10.081  -9.693  1.0 58.00 ? 19  ALA A N   1 L8IIC8 UNP 19  A 
+ATOM 141  C CA  . ALA A 1 19  ? -11.178 9.635   -8.853  1.0 58.00 ? 19  ALA A CA  1 L8IIC8 UNP 19  A 
+ATOM 142  C C   . ALA A 1 19  ? -11.807 9.081   -7.567  1.0 58.00 ? 19  ALA A C   1 L8IIC8 UNP 19  A 
+ATOM 143  C CB  . ALA A 1 19  ? -10.220 10.806  -8.611  1.0 58.00 ? 19  ALA A CB  1 L8IIC8 UNP 19  A 
+ATOM 144  O O   . ALA A 1 19  ? -12.471 9.836   -6.846  1.0 58.00 ? 19  ALA A O   1 L8IIC8 UNP 19  A 
+ATOM 145  N N   . GLU A 1 20  ? -11.709 7.771   -7.344  1.0 71.12 ? 20  GLU A N   1 L8IIC8 UNP 20  E 
+ATOM 146  C CA  . GLU A 1 20  ? -12.370 7.120   -6.218  1.0 71.12 ? 20  GLU A CA  1 L8IIC8 UNP 20  E 
+ATOM 147  C C   . GLU A 1 20  ? -11.488 7.238   -4.975  1.0 71.12 ? 20  GLU A C   1 L8IIC8 UNP 20  E 
+ATOM 148  C CB  . GLU A 1 20  ? -12.825 5.686   -6.553  1.0 71.12 ? 20  GLU A CB  1 L8IIC8 UNP 20  E 
+ATOM 149  O O   . GLU A 1 20  ? -10.551 6.477   -4.741  1.0 71.12 ? 20  GLU A O   1 L8IIC8 UNP 20  E 
+ATOM 150  C CG  . GLU A 1 20  ? -13.742 5.164   -5.427  1.0 71.12 ? 20  GLU A CG  1 L8IIC8 UNP 20  E 
+ATOM 151  C CD  . GLU A 1 20  ? -14.572 3.909   -5.758  1.0 71.12 ? 20  GLU A CD  1 L8IIC8 UNP 20  E 
+ATOM 152  O OE1 . GLU A 1 20  ? -15.248 3.424   -4.820  1.0 71.12 ? 20  GLU A OE1 1 L8IIC8 UNP 20  E 
+ATOM 153  O OE2 . GLU A 1 20  ? -14.656 3.515   -6.937  1.0 71.12 ? 20  GLU A OE2 1 L8IIC8 UNP 20  E 
+ATOM 154  N N   . GLN A 1 21  ? -11.788 8.245   -4.158  1.0 89.69 ? 21  GLN A N   1 L8IIC8 UNP 21  Q 
+ATOM 155  C CA  . GLN A 1 21  ? -11.262 8.309   -2.806  1.0 89.69 ? 21  GLN A CA  1 L8IIC8 UNP 21  Q 
+ATOM 156  C C   . GLN A 1 21  ? -12.192 7.523   -1.882  1.0 89.69 ? 21  GLN A C   1 L8IIC8 UNP 21  Q 
+ATOM 157  C CB  . GLN A 1 21  ? -11.072 9.767   -2.378  1.0 89.69 ? 21  GLN A CB  1 L8IIC8 UNP 21  Q 
+ATOM 158  O O   . GLN A 1 21  ? -13.312 7.957   -1.598  1.0 89.69 ? 21  GLN A O   1 L8IIC8 UNP 21  Q 
+ATOM 159  C CG  . GLN A 1 21  ? -10.330 9.814   -1.037  1.0 89.69 ? 21  GLN A CG  1 L8IIC8 UNP 21  Q 
+ATOM 160  C CD  . GLN A 1 21  ? -9.941  11.220  -0.605  1.0 89.69 ? 21  GLN A CD  1 L8IIC8 UNP 21  Q 
+ATOM 161  N NE2 . GLN A 1 21  ? -9.105  11.331  0.401   1.0 89.69 ? 21  GLN A NE2 1 L8IIC8 UNP 21  Q 
+ATOM 162  O OE1 . GLN A 1 21  ? -10.366 12.243  -1.121  1.0 89.69 ? 21  GLN A OE1 1 L8IIC8 UNP 21  Q 
+ATOM 163  N N   . LEU A 1 22  ? -11.714 6.385   -1.385  1.0 94.19 ? 22  LEU A N   1 L8IIC8 UNP 22  L 
+ATOM 164  C CA  . LEU A 1 22  ? -12.491 5.526   -0.501  1.0 94.19 ? 22  LEU A CA  1 L8IIC8 UNP 22  L 
+ATOM 165  C C   . LEU A 1 22  ? -12.666 6.167   0.881   1.0 94.19 ? 22  LEU A C   1 L8IIC8 UNP 22  L 
+ATOM 166  C CB  . LEU A 1 22  ? -11.840 4.135   -0.398  1.0 94.19 ? 22  LEU A CB  1 L8IIC8 UNP 22  L 
+ATOM 167  O O   . LEU A 1 22  ? -11.806 6.875   1.414   1.0 94.19 ? 22  LEU A O   1 L8IIC8 UNP 22  L 
+ATOM 168  C CG  . LEU A 1 22  ? -11.716 3.365   -1.724  1.0 94.19 ? 22  LEU A CG  1 L8IIC8 UNP 22  L 
+ATOM 169  C CD1 . LEU A 1 22  ? -10.881 2.104   -1.492  1.0 94.19 ? 22  LEU A CD1 1 L8IIC8 UNP 22  L 
+ATOM 170  C CD2 . LEU A 1 22  ? -13.081 2.940   -2.258  1.0 94.19 ? 22  LEU A CD2 1 L8IIC8 UNP 22  L 
+ATOM 171  N N   . THR A 1 23  ? -13.782 5.867   1.533   1.0 95.38 ? 23  THR A N   1 L8IIC8 UNP 23  T 
+ATOM 172  C CA  . THR A 1 23  ? -13.984 6.186   2.945   1.0 95.38 ? 23  THR A CA  1 L8IIC8 UNP 23  T 
+ATOM 173  C C   . THR A 1 23  ? -13.304 5.156   3.846   1.0 95.38 ? 23  THR A C   1 L8IIC8 UNP 23  T 
+ATOM 174  C CB  . THR A 1 23  ? -15.468 6.303   3.312   1.0 95.38 ? 23  THR A CB  1 L8IIC8 UNP 23  T 
+ATOM 175  O O   . THR A 1 23  ? -13.096 3.998   3.486   1.0 95.38 ? 23  THR A O   1 L8IIC8 UNP 23  T 
+ATOM 176  C CG2 . THR A 1 23  ? -16.238 7.319   2.469   1.0 95.38 ? 23  THR A CG2 1 L8IIC8 UNP 23  T 
+ATOM 177  O OG1 . THR A 1 23  ? -16.102 5.054   3.236   1.0 95.38 ? 23  THR A OG1 1 L8IIC8 UNP 23  T 
+ATOM 178  N N   . LYS A 1 24  ? -13.053 5.536   5.107   1.0 95.88 ? 24  LYS A N   1 L8IIC8 UNP 24  K 
+ATOM 179  C CA  . LYS A 1 24  ? -12.495 4.644   6.143   1.0 95.88 ? 24  LYS A CA  1 L8IIC8 UNP 24  K 
+ATOM 180  C C   . LYS A 1 24  ? -13.208 3.284   6.221   1.0 95.88 ? 24  LYS A C   1 L8IIC8 UNP 24  K 
+ATOM 181  C CB  . LYS A 1 24  ? -12.576 5.367   7.500   1.0 95.88 ? 24  LYS A CB  1 L8IIC8 UNP 24  K 
+ATOM 182  O O   . LYS A 1 24  ? -12.570 2.255   6.412   1.0 95.88 ? 24  LYS A O   1 L8IIC8 UNP 24  K 
+ATOM 183  C CG  . LYS A 1 24  ? -11.810 4.619   8.599   1.0 95.88 ? 24  LYS A CG  1 L8IIC8 UNP 24  K 
+ATOM 184  C CD  . LYS A 1 24  ? -11.914 5.271   9.982   1.0 95.88 ? 24  LYS A CD  1 L8IIC8 UNP 24  K 
+ATOM 185  C CE  . LYS A 1 24  ? -13.276 5.003   10.631  1.0 95.88 ? 24  LYS A CE  1 L8IIC8 UNP 24  K 
+ATOM 186  N NZ  . LYS A 1 24  ? -13.285 5.415   12.056  1.0 95.88 ? 24  LYS A NZ  1 L8IIC8 UNP 24  K 
+ATOM 187  N N   . CYS A 1 25  ? -14.538 3.285   6.127   1.0 96.31 ? 25  CYS A N   1 L8IIC8 UNP 25  C 
+ATOM 188  C CA  . CYS A 1 25  ? -15.338 2.068   6.244   1.0 96.31 ? 25  CYS A CA  1 L8IIC8 UNP 25  C 
+ATOM 189  C C   . CYS A 1 25  ? -15.360 1.236   4.956   1.0 96.31 ? 25  CYS A C   1 L8IIC8 UNP 25  C 
+ATOM 190  C CB  . CYS A 1 25  ? -16.756 2.438   6.681   1.0 96.31 ? 25  CYS A CB  1 L8IIC8 UNP 25  C 
+ATOM 191  O O   . CYS A 1 25  ? -15.456 0.017   5.056   1.0 96.31 ? 25  CYS A O   1 L8IIC8 UNP 25  C 
+ATOM 192  S SG  . CYS A 1 25  ? -16.952 2.737   8.459   1.0 96.31 ? 25  CYS A SG  1 L8IIC8 UNP 25  C 
+ATOM 193  N N   . GLU A 1 26  ? -15.254 1.856   3.779   1.0 95.56 ? 26  GLU A N   1 L8IIC8 UNP 26  E 
+ATOM 194  C CA  . GLU A 1 26  ? -15.067 1.128   2.517   1.0 95.56 ? 26  GLU A CA  1 L8IIC8 UNP 26  E 
+ATOM 195  C C   . GLU A 1 26  ? -13.723 0.412   2.527   1.0 95.56 ? 26  GLU A C   1 L8IIC8 UNP 26  E 
+ATOM 196  C CB  . GLU A 1 26  ? -15.191 2.081   1.326   1.0 95.56 ? 26  GLU A CB  1 L8IIC8 UNP 26  E 
+ATOM 197  O O   . GLU A 1 26  ? -13.704 -0.807  2.416   1.0 95.56 ? 26  GLU A O   1 L8IIC8 UNP 26  E 
+ATOM 198  C CG  . GLU A 1 26  ? -16.676 2.410   1.089   1.0 95.56 ? 26  GLU A CG  1 L8IIC8 UNP 26  E 
+ATOM 199  C CD  . GLU A 1 26  ? -16.923 3.762   0.419   1.0 95.56 ? 26  GLU A CD  1 L8IIC8 UNP 26  E 
+ATOM 200  O OE1 . GLU A 1 26  ? -18.081 3.963   -0.003  1.0 95.56 ? 26  GLU A OE1 1 L8IIC8 UNP 26  E 
+ATOM 201  O OE2 . GLU A 1 26  ? -16.078 4.663   0.616   1.0 95.56 ? 26  GLU A OE2 1 L8IIC8 UNP 26  E 
+ATOM 202  N N   . VAL A 1 27  ? -12.630 1.106   2.861   1.0 96.38 ? 27  VAL A N   1 L8IIC8 UNP 27  V 
+ATOM 203  C CA  . VAL A 1 27  ? -11.314 0.467   3.033   1.0 96.38 ? 27  VAL A CA  1 L8IIC8 UNP 27  V 
+ATOM 204  C C   . VAL A 1 27  ? -11.374 -0.665  4.062   1.0 96.38 ? 27  VAL A C   1 L8IIC8 UNP 27  V 
+ATOM 205  C CB  . VAL A 1 27  ? -10.252 1.507   3.429   1.0 96.38 ? 27  VAL A CB  1 L8IIC8 UNP 27  V 
+ATOM 206  O O   . VAL A 1 27  ? -10.869 -1.758  3.824   1.0 96.38 ? 27  VAL A O   1 L8IIC8 UNP 27  V 
+ATOM 207  C CG1 . VAL A 1 27  ? -8.872  0.879   3.648   1.0 96.38 ? 27  VAL A CG1 1 L8IIC8 UNP 27  V 
+ATOM 208  C CG2 . VAL A 1 27  ? -10.106 2.550   2.320   1.0 96.38 ? 27  VAL A CG2 1 L8IIC8 UNP 27  V 
+ATOM 209  N N   . PHE A 1 28  ? -12.053 -0.468  5.195   1.0 95.88 ? 28  PHE A N   1 L8IIC8 UNP 28  F 
+ATOM 210  C CA  . PHE A 1 28  ? -12.222 -1.534  6.188   1.0 95.88 ? 28  PHE A CA  1 L8IIC8 UNP 28  F 
+ATOM 211  C C   . PHE A 1 28  ? -12.926 -2.781  5.609   1.0 95.88 ? 28  PHE A C   1 L8IIC8 UNP 28  F 
+ATOM 212  C CB  . PHE A 1 28  ? -12.977 -0.977  7.408   1.0 95.88 ? 28  PHE A CB  1 L8IIC8 UNP 28  F 
+ATOM 213  O O   . PHE A 1 28  ? -12.630 -3.902  6.032   1.0 95.88 ? 28  PHE A O   1 L8IIC8 UNP 28  F 
+ATOM 214  C CG  . PHE A 1 28  ? -12.852 -1.815  8.670   1.0 95.88 ? 28  PHE A CG  1 L8IIC8 UNP 28  F 
+ATOM 215  C CD1 . PHE A 1 28  ? -13.553 -3.027  8.795   1.0 95.88 ? 28  PHE A CD1 1 L8IIC8 UNP 28  F 
+ATOM 216  C CD2 . PHE A 1 28  ? -12.034 -1.385  9.732   1.0 95.88 ? 28  PHE A CD2 1 L8IIC8 UNP 28  F 
+ATOM 217  C CE1 . PHE A 1 28  ? -13.408 -3.821  9.946   1.0 95.88 ? 28  PHE A CE1 1 L8IIC8 UNP 28  F 
+ATOM 218  C CE2 . PHE A 1 28  ? -11.874 -2.181  10.877  1.0 95.88 ? 28  PHE A CE2 1 L8IIC8 UNP 28  F 
+ATOM 219  C CZ  . PHE A 1 28  ? -12.560 -3.402  10.986  1.0 95.88 ? 28  PHE A CZ  1 L8IIC8 UNP 28  F 
+ATOM 220  N N   . ARG A 1 29  ? -13.874 -2.611  4.673   1.0 95.50 ? 29  ARG A N   1 L8IIC8 UNP 29  R 
+ATOM 221  C CA  . ARG A 1 29  ? -14.586 -3.712  4.001   1.0 95.50 ? 29  ARG A CA  1 L8IIC8 UNP 29  R 
+ATOM 222  C C   . ARG A 1 29  ? -13.737 -4.367  2.921   1.0 95.50 ? 29  ARG A C   1 L8IIC8 UNP 29  R 
+ATOM 223  C CB  . ARG A 1 29  ? -15.897 -3.225  3.368   1.0 95.50 ? 29  ARG A CB  1 L8IIC8 UNP 29  R 
+ATOM 224  O O   . ARG A 1 29  ? -13.618 -5.590  2.959   1.0 95.50 ? 29  ARG A O   1 L8IIC8 UNP 29  R 
+ATOM 225  C CG  . ARG A 1 29  ? -16.994 -2.911  4.387   1.0 95.50 ? 29  ARG A CG  1 L8IIC8 UNP 29  R 
+ATOM 226  C CD  . ARG A 1 29  ? -18.223 -2.381  3.645   1.0 95.50 ? 29  ARG A CD  1 L8IIC8 UNP 29  R 
+ATOM 227  N NE  . ARG A 1 29  ? -19.113 -1.576  4.507   1.0 95.50 ? 29  ARG A NE  1 L8IIC8 UNP 29  R 
+ATOM 228  N NH1 . ARG A 1 29  ? -19.638 0.000   2.917   1.0 95.50 ? 29  ARG A NH1 1 L8IIC8 UNP 29  R 
+ATOM 229  N NH2 . ARG A 1 29  ? -20.267 0.303   5.038   1.0 95.50 ? 29  ARG A NH2 1 L8IIC8 UNP 29  R 
+ATOM 230  C CZ  . ARG A 1 29  ? -19.665 -0.432  4.149   1.0 95.50 ? 29  ARG A CZ  1 L8IIC8 UNP 29  R 
+ATOM 231  N N   . GLU A 1 30  ? -13.155 -3.577  2.027   1.0 96.00 ? 30  GLU A N   1 L8IIC8 UNP 30  E 
+ATOM 232  C CA  . GLU A 1 30  ? -12.360 -4.073  0.901   1.0 96.00 ? 30  GLU A CA  1 L8IIC8 UNP 30  E 
+ATOM 233  C C   . GLU A 1 30  ? -11.120 -4.831  1.387   1.0 96.00 ? 30  GLU A C   1 L8IIC8 UNP 30  E 
+ATOM 234  C CB  . GLU A 1 30  ? -11.950 -2.900  -0.008  1.0 96.00 ? 30  GLU A CB  1 L8IIC8 UNP 30  E 
+ATOM 235  O O   . GLU A 1 30  ? -10.760 -5.880  0.862   1.0 96.00 ? 30  GLU A O   1 L8IIC8 UNP 30  E 
+ATOM 236  C CG  . GLU A 1 30  ? -13.120 -2.166  -0.695  1.0 96.00 ? 30  GLU A CG  1 L8IIC8 UNP 30  E 
+ATOM 237  C CD  . GLU A 1 30  ? -14.119 -3.136  -1.341  1.0 96.00 ? 30  GLU A CD  1 L8IIC8 UNP 30  E 
+ATOM 238  O OE1 . GLU A 1 30  ? -15.333 -2.988  -1.055  1.0 96.00 ? 30  GLU A OE1 1 L8IIC8 UNP 30  E 
+ATOM 239  O OE2 . GLU A 1 30  ? -13.659 -4.119  -1.958  1.0 96.00 ? 30  GLU A OE2 1 L8IIC8 UNP 30  E 
+ATOM 240  N N   . LEU A 1 31  ? -10.508 -4.382  2.487   1.0 96.62 ? 31  LEU A N   1 L8IIC8 UNP 31  L 
+ATOM 241  C CA  . LEU A 1 31  ? -9.284  -4.995  3.003   1.0 96.62 ? 31  LEU A CA  1 L8IIC8 UNP 31  L 
+ATOM 242  C C   . LEU A 1 31  ? -9.519  -6.196  3.926   1.0 96.62 ? 31  LEU A C   1 L8IIC8 UNP 31  L 
+ATOM 243  C CB  . LEU A 1 31  ? -8.378  -3.919  3.625   1.0 96.62 ? 31  LEU A CB  1 L8IIC8 UNP 31  L 
+ATOM 244  O O   . LEU A 1 31  ? -8.567  -6.688  4.537   1.0 96.62 ? 31  LEU A O   1 L8IIC8 UNP 31  L 
+ATOM 245  C CG  . LEU A 1 31  ? -8.010  -2.759  2.677   1.0 96.62 ? 31  LEU A CG  1 L8IIC8 UNP 31  L 
+ATOM 246  C CD1 . LEU A 1 31  ? -6.834  -1.990  3.277   1.0 96.62 ? 31  LEU A CD1 1 L8IIC8 UNP 31  L 
+ATOM 247  C CD2 . LEU A 1 31  ? -7.652  -3.225  1.270   1.0 96.62 ? 31  LEU A CD2 1 L8IIC8 UNP 31  L 
+ATOM 248  N N   . LYS A 1 32  ? -10.752 -6.714  4.038   1.0 95.31 ? 32  LYS A N   1 L8IIC8 UNP 32  K 
+ATOM 249  C CA  . LYS A 1 32  ? -11.083 -7.859  4.915   1.0 95.31 ? 32  LYS A CA  1 L8IIC8 UNP 32  K 
+ATOM 250  C C   . LYS A 1 32  ? -10.173 -9.070  4.698   1.0 95.31 ? 32  LYS A C   1 L8IIC8 UNP 32  K 
+ATOM 251  C CB  . LYS A 1 32  ? -12.547 -8.262  4.718   1.0 95.31 ? 32  LYS A CB  1 L8IIC8 UNP 32  K 
+ATOM 252  O O   . LYS A 1 32  ? -9.820  -9.732  5.676   1.0 95.31 ? 32  LYS A O   1 L8IIC8 UNP 32  K 
+ATOM 253  C CG  . LYS A 1 32  ? -13.476 -7.411  5.592   1.0 95.31 ? 32  LYS A CG  1 L8IIC8 UNP 32  K 
+ATOM 254  C CD  . LYS A 1 32  ? -14.930 -7.765  5.278   1.0 95.31 ? 32  LYS A CD  1 L8IIC8 UNP 32  K 
+ATOM 255  C CE  . LYS A 1 32  ? -15.886 -6.922  6.122   1.0 95.31 ? 32  LYS A CE  1 L8IIC8 UNP 32  K 
+ATOM 256  N NZ  . LYS A 1 32  ? -17.288 -7.150  5.698   1.0 95.31 ? 32  LYS A NZ  1 L8IIC8 UNP 32  K 
+ATOM 257  N N   . ASP A 1 33  ? -9.736  -9.304  3.465   1.0 95.25 ? 33  ASP A N   1 L8IIC8 UNP 33  D 
+ATOM 258  C CA  . ASP A 1 33  ? -8.862  -10.418 3.081   1.0 95.25 ? 33  ASP A CA  1 L8IIC8 UNP 33  D 
+ATOM 259  C C   . ASP A 1 33  ? -7.405  -10.282 3.554   1.0 95.25 ? 33  ASP A C   1 L8IIC8 UNP 33  D 
+ATOM 260  C CB  . ASP A 1 33  ? -8.918  -10.573 1.556   1.0 95.25 ? 33  ASP A CB  1 L8IIC8 UNP 33  D 
+ATOM 261  O O   . ASP A 1 33  ? -6.626  -11.239 3.449   1.0 95.25 ? 33  ASP A O   1 L8IIC8 UNP 33  D 
+ATOM 262  C CG  . ASP A 1 33  ? -10.171 -11.309 1.075   1.0 95.25 ? 33  ASP A CG  1 L8IIC8 UNP 33  D 
+ATOM 263  O OD1 . ASP A 1 33  ? -11.047 -11.618 1.918   1.0 95.25 ? 33  ASP A OD1 1 L8IIC8 UNP 33  D 
+ATOM 264  O OD2 . ASP A 1 33  ? -10.165 -11.662 -0.119  1.0 95.25 ? 33  ASP A OD2 1 L8IIC8 UNP 33  D 
+ATOM 265  N N   . LEU A 1 34  ? -7.029  -9.115  4.084   1.0 96.88 ? 34  LEU A N   1 L8IIC8 UNP 34  L 
+ATOM 266  C CA  . LEU A 1 34  ? -5.743  -8.860  4.736   1.0 96.88 ? 34  LEU A CA  1 L8IIC8 UNP 34  L 
+ATOM 267  C C   . LEU A 1 34  ? -5.808  -9.006  6.261   1.0 96.88 ? 34  LEU A C   1 L8IIC8 UNP 34  L 
+ATOM 268  C CB  . LEU A 1 34  ? -5.226  -7.464  4.340   1.0 96.88 ? 34  LEU A CB  1 L8IIC8 UNP 34  L 
+ATOM 269  O O   . LEU A 1 34  ? -4.770  -8.934  6.920   1.0 96.88 ? 34  LEU A O   1 L8IIC8 UNP 34  L 
+ATOM 270  C CG  . LEU A 1 34  ? -4.805  -7.321  2.868   1.0 96.88 ? 34  LEU A CG  1 L8IIC8 UNP 34  L 
+ATOM 271  C CD1 . LEU A 1 34  ? -4.445  -5.865  2.580   1.0 96.88 ? 34  LEU A CD1 1 L8IIC8 UNP 34  L 
+ATOM 272  C CD2 . LEU A 1 34  ? -3.577  -8.184  2.554   1.0 96.88 ? 34  LEU A CD2 1 L8IIC8 UNP 34  L 
+ATOM 273  N N   . LYS A 1 35  ? -6.989  -9.238  6.852   1.0 95.94 ? 35  LYS A N   1 L8IIC8 UNP 35  K 
+ATOM 274  C CA  . LYS A 1 35  ? -7.148  -9.339  8.309   1.0 95.94 ? 35  LYS A CA  1 L8IIC8 UNP 35  K 
+ATOM 275  C C   . LYS A 1 35  ? -6.249  -10.432 8.898   1.0 95.94 ? 35  LYS A C   1 L8IIC8 UNP 35  K 
+ATOM 276  C CB  . LYS A 1 35  ? -8.622  -9.598  8.649   1.0 95.94 ? 35  LYS A CB  1 L8IIC8 UNP 35  K 
+ATOM 277  O O   . LYS A 1 35  ? -6.505  -11.621 8.726   1.0 95.94 ? 35  LYS A O   1 L8IIC8 UNP 35  K 
+ATOM 278  C CG  . LYS A 1 35  ? -8.847  -9.618  10.170  1.0 95.94 ? 35  LYS A CG  1 L8IIC8 UNP 35  K 
+ATOM 279  C CD  . LYS A 1 35  ? -10.312 -9.901  10.499  1.0 95.94 ? 35  LYS A CD  1 L8IIC8 UNP 35  K 
+ATOM 280  C CE  . LYS A 1 35  ? -10.481 -9.973  12.019  1.0 95.94 ? 35  LYS A CE  1 L8IIC8 UNP 35  K 
+ATOM 281  N NZ  . LYS A 1 35  ? -11.883 -10.285 12.387  1.0 95.94 ? 35  LYS A NZ  1 L8IIC8 UNP 35  K 
+ATOM 282  N N   . GLY A 1 36  ? -5.246  -10.022 9.671   1.0 96.25 ? 36  GLY A N   1 L8IIC8 UNP 36  G 
+ATOM 283  C CA  . GLY A 1 36  ? -4.304  -10.917 10.345  1.0 96.25 ? 36  GLY A CA  1 L8IIC8 UNP 36  G 
+ATOM 284  C C   . GLY A 1 36  ? -3.202  -11.469 9.438   1.0 96.25 ? 36  GLY A C   1 L8IIC8 UNP 36  G 
+ATOM 285  O O   . GLY A 1 36  ? -2.308  -12.157 9.934   1.0 96.25 ? 36  GLY A O   1 L8IIC8 UNP 36  G 
+ATOM 286  N N   . TYR A 1 37  ? -3.221  -11.168 8.135   1.0 97.81 ? 37  TYR A N   1 L8IIC8 UNP 37  Y 
+ATOM 287  C CA  . TYR A 1 37  ? -2.152  -11.575 7.229   1.0 97.81 ? 37  TYR A CA  1 L8IIC8 UNP 37  Y 
+ATOM 288  C C   . TYR A 1 37  ? -0.855  -10.856 7.613   1.0 97.81 ? 37  TYR A C   1 L8IIC8 UNP 37  Y 
+ATOM 289  C CB  . TYR A 1 37  ? -2.540  -11.312 5.769   1.0 97.81 ? 37  TYR A CB  1 L8IIC8 UNP 37  Y 
+ATOM 290  O O   . TYR A 1 37  ? -0.853  -9.653  7.870   1.0 97.81 ? 37  TYR A O   1 L8IIC8 UNP 37  Y 
+ATOM 291  C CG  . TYR A 1 37  ? -1.658  -12.068 4.792   1.0 97.81 ? 37  TYR A CG  1 L8IIC8 UNP 37  Y 
+ATOM 292  C CD1 . TYR A 1 37  ? -0.358  -11.609 4.499   1.0 97.81 ? 37  TYR A CD1 1 L8IIC8 UNP 37  Y 
+ATOM 293  C CD2 . TYR A 1 37  ? -2.119  -13.268 4.219   1.0 97.81 ? 37  TYR A CD2 1 L8IIC8 UNP 37  Y 
+ATOM 294  C CE1 . TYR A 1 37  ? 0.484   -12.344 3.641   1.0 97.81 ? 37  TYR A CE1 1 L8IIC8 UNP 37  Y 
+ATOM 295  C CE2 . TYR A 1 37  ? -1.286  -13.997 3.349   1.0 97.81 ? 37  TYR A CE2 1 L8IIC8 UNP 37  Y 
+ATOM 296  O OH  . TYR A 1 37  ? 0.800   -14.290 2.250   1.0 97.81 ? 37  TYR A OH  1 L8IIC8 UNP 37  Y 
+ATOM 297  C CZ  . TYR A 1 37  ? 0.018   -13.543 3.065   1.0 97.81 ? 37  TYR A CZ  1 L8IIC8 UNP 37  Y 
+ATOM 298  N N   . GLY A 1 38  ? 0.252   -11.598 7.709   1.0 95.25 ? 38  GLY A N   1 L8IIC8 UNP 38  G 
+ATOM 299  C CA  . GLY A 1 38  ? 1.531   -11.044 8.166   1.0 95.25 ? 38  GLY A CA  1 L8IIC8 UNP 38  G 
+ATOM 300  C C   . GLY A 1 38  ? 1.509   -10.509 9.606   1.0 95.25 ? 38  GLY A C   1 L8IIC8 UNP 38  G 
+ATOM 301  O O   . GLY A 1 38  ? 2.389   -9.738  9.972   1.0 95.25 ? 38  GLY A O   1 L8IIC8 UNP 38  G 
+ATOM 302  N N   . GLY A 1 39  ? 0.508   -10.887 10.415  1.0 96.38 ? 39  GLY A N   1 L8IIC8 UNP 39  G 
+ATOM 303  C CA  . GLY A 1 39  ? 0.336   -10.391 11.783  1.0 96.38 ? 39  GLY A CA  1 L8IIC8 UNP 39  G 
+ATOM 304  C C   . GLY A 1 39  ? -0.249  -8.978  11.886  1.0 96.38 ? 39  GLY A C   1 L8IIC8 UNP 39  G 
+ATOM 305  O O   . GLY A 1 39  ? -0.208  -8.406  12.969  1.0 96.38 ? 39  GLY A O   1 L8IIC8 UNP 39  G 
+ATOM 306  N N   . VAL A 1 40  ? -0.794  -8.427  10.795  1.0 97.56 ? 40  VAL A N   1 L8IIC8 UNP 40  V 
+ATOM 307  C CA  . VAL A 1 40  ? -1.319  -7.053  10.730  1.0 97.56 ? 40  VAL A CA  1 L8IIC8 UNP 40  V 
+ATOM 308  C C   . VAL A 1 40  ? -2.846  -7.062  10.805  1.0 97.56 ? 40  VAL A C   1 L8IIC8 UNP 40  V 
+ATOM 309  C CB  . VAL A 1 40  ? -0.834  -6.341  9.455   1.0 97.56 ? 40  VAL A CB  1 L8IIC8 UNP 40  V 
+ATOM 310  O O   . VAL A 1 40  ? -3.524  -7.794  10.078  1.0 97.56 ? 40  VAL A O   1 L8IIC8 UNP 40  V 
+ATOM 311  C CG1 . VAL A 1 40  ? -1.200  -4.852  9.467   1.0 97.56 ? 40  VAL A CG1 1 L8IIC8 UNP 40  V 
+ATOM 312  C CG2 . VAL A 1 40  ? 0.686   -6.449  9.290   1.0 97.56 ? 40  VAL A CG2 1 L8IIC8 UNP 40  V 
+ATOM 313  N N   . SER A 1 41  ? -3.419  -6.264  11.697  1.0 97.31 ? 41  SER A N   1 L8IIC8 UNP 41  S 
+ATOM 314  C CA  . SER A 1 41  ? -4.866  -6.152  11.894  1.0 97.31 ? 41  SER A CA  1 L8IIC8 UNP 41  S 
+ATOM 315  C C   . SER A 1 41  ? -5.534  -5.186  10.901  1.0 97.31 ? 41  SER A C   1 L8IIC8 UNP 41  S 
+ATOM 316  C CB  . SER A 1 41  ? -5.155  -5.779  13.350  1.0 97.31 ? 41  SER A CB  1 L8IIC8 UNP 41  S 
+ATOM 317  O O   . SER A 1 41  ? -4.884  -4.361  10.266  1.0 97.31 ? 41  SER A O   1 L8IIC8 UNP 41  S 
+ATOM 318  O OG  . SER A 1 41  ? -4.772  -4.455  13.613  1.0 97.31 ? 41  SER A OG  1 L8IIC8 UNP 41  S 
+ATOM 319  N N   . LEU A 1 42  ? -6.865  -5.264  10.762  1.0 96.88 ? 42  LEU A N   1 L8IIC8 UNP 42  L 
+ATOM 320  C CA  . LEU A 1 42  ? -7.610  -4.342  9.886   1.0 96.88 ? 42  LEU A CA  1 L8IIC8 UNP 42  L 
+ATOM 321  C C   . LEU A 1 42  ? -7.481  -2.864  10.288  1.0 96.88 ? 42  LEU A C   1 L8IIC8 UNP 42  L 
+ATOM 322  C CB  . LEU A 1 42  ? -9.098  -4.729  9.779   1.0 96.88 ? 42  LEU A CB  1 L8IIC8 UNP 42  L 
+ATOM 323  O O   . LEU A 1 42  ? -7.245  -2.050  9.401   1.0 96.88 ? 42  LEU A O   1 L8IIC8 UNP 42  L 
+ATOM 324  C CG  . LEU A 1 42  ? -9.369  -5.941  8.889   1.0 96.88 ? 42  LEU A CG  1 L8IIC8 UNP 42  L 
+ATOM 325  C CD1 . LEU A 1 42  ? -10.850 -6.320  8.976   1.0 96.88 ? 42  LEU A CD1 1 L8IIC8 UNP 42  L 
+ATOM 326  C CD2 . LEU A 1 42  ? -9.034  -5.687  7.429   1.0 96.88 ? 42  LEU A CD2 1 L8IIC8 UNP 42  L 
+ATOM 327  N N   . PRO A 1 43  ? -7.591  -2.480  11.576  1.0 97.69 ? 43  PRO A N   1 L8IIC8 UNP 43  P 
+ATOM 328  C CA  . PRO A 1 43  ? -7.380  -1.088  11.978  1.0 97.69 ? 43  PRO A CA  1 L8IIC8 UNP 43  P 
+ATOM 329  C C   . PRO A 1 43  ? -5.991  -0.557  11.605  1.0 97.69 ? 43  PRO A C   1 L8IIC8 UNP 43  P 
+ATOM 330  C CB  . PRO A 1 43  ? -7.578  -1.073  13.494  1.0 97.69 ? 43  PRO A CB  1 L8IIC8 UNP 43  P 
+ATOM 331  O O   . PRO A 1 43  ? -5.864  0.605   11.229  1.0 97.69 ? 43  PRO A O   1 L8IIC8 UNP 43  P 
+ATOM 332  C CG  . PRO A 1 43  ? -8.531  -2.234  13.727  1.0 97.69 ? 43  PRO A CG  1 L8IIC8 UNP 43  P 
+ATOM 333  C CD  . PRO A 1 43  ? -8.042  -3.261  12.719  1.0 97.69 ? 43  PRO A CD  1 L8IIC8 UNP 43  P 
+ATOM 334  N N   . GLU A 1 44  ? -4.959  -1.404  11.664  1.0 98.19 ? 44  GLU A N   1 L8IIC8 UNP 44  E 
+ATOM 335  C CA  . GLU A 1 44  ? -3.610  -1.035  11.222  1.0 98.19 ? 44  GLU A CA  1 L8IIC8 UNP 44  E 
+ATOM 336  C C   . GLU A 1 44  ? -3.559  -0.790  9.714   1.0 98.19 ? 44  GLU A C   1 L8IIC8 UNP 44  E 
+ATOM 337  C CB  . GLU A 1 44  ? -2.599  -2.124  11.588  1.0 98.19 ? 44  GLU A CB  1 L8IIC8 UNP 44  E 
+ATOM 338  O O   . GLU A 1 44  ? -2.965  0.198   9.289   1.0 98.19 ? 44  GLU A O   1 L8IIC8 UNP 44  E 
+ATOM 339  C CG  . GLU A 1 44  ? -2.408  -2.258  13.095  1.0 98.19 ? 44  GLU A CG  1 L8IIC8 UNP 44  E 
+ATOM 340  C CD  . GLU A 1 44  ? -1.529  -3.464  13.401  1.0 98.19 ? 44  GLU A CD  1 L8IIC8 UNP 44  E 
+ATOM 341  O OE1 . GLU A 1 44  ? -0.297  -3.295  13.516  1.0 98.19 ? 44  GLU A OE1 1 L8IIC8 UNP 44  E 
+ATOM 342  O OE2 . GLU A 1 44  ? -2.118  -4.571  13.449  1.0 98.19 ? 44  GLU A OE2 1 L8IIC8 UNP 44  E 
+ATOM 343  N N   . TRP A 1 45  ? -4.212  -1.629  8.902   1.0 98.06 ? 45  TRP A N   1 L8IIC8 UNP 45  W 
+ATOM 344  C CA  . TRP A 1 45  ? -4.315  -1.419  7.452   1.0 98.06 ? 45  TRP A CA  1 L8IIC8 UNP 45  W 
+ATOM 345  C C   . TRP A 1 45  ? -5.056  -0.140  7.088   1.0 98.06 ? 45  TRP A C   1 L8IIC8 UNP 45  W 
+ATOM 346  C CB  . TRP A 1 45  ? -4.999  -2.617  6.784   1.0 98.06 ? 45  TRP A CB  1 L8IIC8 UNP 45  W 
+ATOM 347  O O   . TRP A 1 45  ? -4.597  0.615   6.231   1.0 98.06 ? 45  TRP A O   1 L8IIC8 UNP 45  W 
+ATOM 348  C CG  . TRP A 1 45  ? -4.043  -3.713  6.488   1.0 98.06 ? 45  TRP A CG  1 L8IIC8 UNP 45  W 
+ATOM 349  C CD1 . TRP A 1 45  ? -4.025  -4.943  7.045   1.0 98.06 ? 45  TRP A CD1 1 L8IIC8 UNP 45  W 
+ATOM 350  C CD2 . TRP A 1 45  ? -2.885  -3.635  5.611   1.0 98.06 ? 45  TRP A CD2 1 L8IIC8 UNP 45  W 
+ATOM 351  C CE2 . TRP A 1 45  ? -2.164  -4.853  5.739   1.0 98.06 ? 45  TRP A CE2 1 L8IIC8 UNP 45  W 
+ATOM 352  C CE3 . TRP A 1 45  ? -2.343  -2.635  4.771   1.0 98.06 ? 45  TRP A CE3 1 L8IIC8 UNP 45  W 
+ATOM 353  N NE1 . TRP A 1 45  ? -2.922  -5.632  6.587   1.0 98.06 ? 45  TRP A NE1 1 L8IIC8 UNP 45  W 
+ATOM 354  C CH2 . TRP A 1 45  ? -0.427  -4.052  4.266   1.0 98.06 ? 45  TRP A CH2 1 L8IIC8 UNP 45  W 
+ATOM 355  C CZ2 . TRP A 1 45  ? -0.938  -5.051  5.109   1.0 98.06 ? 45  TRP A CZ2 1 L8IIC8 UNP 45  W 
+ATOM 356  C CZ3 . TRP A 1 45  ? -1.129  -2.848  4.092   1.0 98.06 ? 45  TRP A CZ3 1 L8IIC8 UNP 45  W 
+ATOM 357  N N   . VAL A 1 46  ? -6.167  0.129   7.768   1.0 97.94 ? 46  VAL A N   1 L8IIC8 UNP 46  V 
+ATOM 358  C CA  . VAL A 1 46  ? -6.948  1.353   7.578   1.0 97.94 ? 46  VAL A CA  1 L8IIC8 UNP 46  V 
+ATOM 359  C C   . VAL A 1 46  ? -6.113  2.582   7.955   1.0 97.94 ? 46  VAL A C   1 L8IIC8 UNP 46  V 
+ATOM 360  C CB  . VAL A 1 46  ? -8.265  1.242   8.363   1.0 97.94 ? 46  VAL A CB  1 L8IIC8 UNP 46  V 
+ATOM 361  O O   . VAL A 1 46  ? -6.012  3.519   7.175   1.0 97.94 ? 46  VAL A O   1 L8IIC8 UNP 46  V 
+ATOM 362  C CG1 . VAL A 1 46  ? -9.074  2.532   8.355   1.0 97.94 ? 46  VAL A CG1 1 L8IIC8 UNP 46  V 
+ATOM 363  C CG2 . VAL A 1 46  ? -9.163  0.171   7.731   1.0 97.94 ? 46  VAL A CG2 1 L8IIC8 UNP 46  V 
+ATOM 364  N N   . CYS A 1 47  ? -5.407  2.560   9.085   1.0 98.56 ? 47  CYS A N   1 L8IIC8 UNP 47  C 
+ATOM 365  C CA  . CYS A 1 47  ? -4.468  3.630   9.433   1.0 98.56 ? 47  CYS A CA  1 L8IIC8 UNP 47  C 
+ATOM 366  C C   . CYS A 1 47  ? -3.340  3.796   8.399   1.0 98.56 ? 47  CYS A C   1 L8IIC8 UNP 47  C 
+ATOM 367  C CB  . CYS A 1 47  ? -3.885  3.309   10.807  1.0 98.56 ? 47  CYS A CB  1 L8IIC8 UNP 47  C 
+ATOM 368  O O   . CYS A 1 47  ? -3.007  4.911   7.998   1.0 98.56 ? 47  CYS A O   1 L8IIC8 UNP 47  C 
+ATOM 369  S SG  . CYS A 1 47  ? -2.649  4.492   11.404  1.0 98.56 ? 47  CYS A SG  1 L8IIC8 UNP 47  C 
+ATOM 370  N N   . THR A 1 48  ? -2.744  2.684   7.964   1.0 98.44 ? 48  THR A N   1 L8IIC8 UNP 48  T 
+ATOM 371  C CA  . THR A 1 48  ? -1.576  2.694   7.075   1.0 98.44 ? 48  THR A CA  1 L8IIC8 UNP 48  T 
+ATOM 372  C C   . THR A 1 48  ? -1.945  3.285   5.723   1.0 98.44 ? 48  THR A C   1 L8IIC8 UNP 48  T 
+ATOM 373  C CB  . THR A 1 48  ? -0.985  1.286   6.917   1.0 98.44 ? 48  THR A CB  1 L8IIC8 UNP 48  T 
+ATOM 374  O O   . THR A 1 48  ? -1.306  4.229   5.277   1.0 98.44 ? 48  THR A O   1 L8IIC8 UNP 48  T 
+ATOM 375  C CG2 . THR A 1 48  ? 0.258   1.259   6.035   1.0 98.44 ? 48  THR A CG2 1 L8IIC8 UNP 48  T 
+ATOM 376  O OG1 . THR A 1 48  ? -0.596  0.802   8.183   1.0 98.44 ? 48  THR A OG1 1 L8IIC8 UNP 48  T 
+ATOM 377  N N   . THR A 1 49  ? -3.025  2.802   5.109   1.0 98.19 ? 49  THR A N   1 L8IIC8 UNP 49  T 
+ATOM 378  C CA  . THR A 1 49  ? -3.500  3.298   3.807   1.0 98.19 ? 49  THR A CA  1 L8IIC8 UNP 49  T 
+ATOM 379  C C   . THR A 1 49  ? -3.950  4.759   3.866   1.0 98.19 ? 49  THR A C   1 L8IIC8 UNP 49  T 
+ATOM 380  C CB  . THR A 1 49  ? -4.617  2.413   3.242   1.0 98.19 ? 49  THR A CB  1 L8IIC8 UNP 49  T 
+ATOM 381  O O   . THR A 1 49  ? -3.659  5.514   2.941   1.0 98.19 ? 49  THR A O   1 L8IIC8 UNP 49  T 
+ATOM 382  C CG2 . THR A 1 49  ? -4.089  1.041   2.825   1.0 98.19 ? 49  THR A CG2 1 L8IIC8 UNP 49  T 
+ATOM 383  O OG1 . THR A 1 49  ? -5.618  2.199   4.208   1.0 98.19 ? 49  THR A OG1 1 L8IIC8 UNP 49  T 
+ATOM 384  N N   . PHE A 1 50  ? -4.531  5.220   4.981   1.0 98.19 ? 50  PHE A N   1 L8IIC8 UNP 50  F 
+ATOM 385  C CA  . PHE A 1 50  ? -4.828  6.644   5.172   1.0 98.19 ? 50  PHE A CA  1 L8IIC8 UNP 50  F 
+ATOM 386  C C   . PHE A 1 50  ? -3.573  7.513   5.083   1.0 98.19 ? 50  PHE A C   1 L8IIC8 UNP 50  F 
+ATOM 387  C CB  . PHE A 1 50  ? -5.451  6.878   6.549   1.0 98.19 ? 50  PHE A CB  1 L8IIC8 UNP 50  F 
+ATOM 388  O O   . PHE A 1 50  ? -3.551  8.521   4.384   1.0 98.19 ? 50  PHE A O   1 L8IIC8 UNP 50  F 
+ATOM 389  C CG  . PHE A 1 50  ? -5.817  8.326   6.795   1.0 98.19 ? 50  PHE A CG  1 L8IIC8 UNP 50  F 
+ATOM 390  C CD1 . PHE A 1 50  ? -5.033  9.103   7.664   1.0 98.19 ? 50  PHE A CD1 1 L8IIC8 UNP 50  F 
+ATOM 391  C CD2 . PHE A 1 50  ? -6.895  8.918   6.114   1.0 98.19 ? 50  PHE A CD2 1 L8IIC8 UNP 50  F 
+ATOM 392  C CE1 . PHE A 1 50  ? -5.355  10.451  7.896   1.0 98.19 ? 50  PHE A CE1 1 L8IIC8 UNP 50  F 
+ATOM 393  C CE2 . PHE A 1 50  ? -7.218  10.267  6.340   1.0 98.19 ? 50  PHE A CE2 1 L8IIC8 UNP 50  F 
+ATOM 394  C CZ  . PHE A 1 50  ? -6.453  11.032  7.238   1.0 98.19 ? 50  PHE A CZ  1 L8IIC8 UNP 50  F 
+ATOM 395  N N   . HIS A 1 51  ? -2.520  7.130   5.802   1.0 98.19 ? 51  HIS A N   1 L8IIC8 UNP 51  H 
+ATOM 396  C CA  . HIS A 1 51  ? -1.282  7.902   5.853   1.0 98.19 ? 51  HIS A CA  1 L8IIC8 UNP 51  H 
+ATOM 397  C C   . HIS A 1 51  ? -0.373  7.688   4.638   1.0 98.19 ? 51  HIS A C   1 L8IIC8 UNP 51  H 
+ATOM 398  C CB  . HIS A 1 51  ? -0.568  7.581   7.167   1.0 98.19 ? 51  HIS A CB  1 L8IIC8 UNP 51  H 
+ATOM 399  O O   . HIS A 1 51  ? 0.542   8.481   4.427   1.0 98.19 ? 51  HIS A O   1 L8IIC8 UNP 51  H 
+ATOM 400  C CG  . HIS A 1 51  ? -1.224  8.233   8.353   1.0 98.19 ? 51  HIS A CG  1 L8IIC8 UNP 51  H 
+ATOM 401  C CD2 . HIS A 1 51  ? -1.770  7.612   9.444   1.0 98.19 ? 51  HIS A CD2 1 L8IIC8 UNP 51  H 
+ATOM 402  N ND1 . HIS A 1 51  ? -1.376  9.587   8.535   1.0 98.19 ? 51  HIS A ND1 1 L8IIC8 UNP 51  H 
+ATOM 403  C CE1 . HIS A 1 51  ? -1.996  9.780   9.710   1.0 98.19 ? 51  HIS A CE1 1 L8IIC8 UNP 51  H 
+ATOM 404  N NE2 . HIS A 1 51  ? -2.251  8.607   10.307  1.0 98.19 ? 51  HIS A NE2 1 L8IIC8 UNP 51  H 
+ATOM 405  N N   . THR A 1 52  ? -0.612  6.636   3.858   1.0 97.81 ? 52  THR A N   1 L8IIC8 UNP 52  T 
+ATOM 406  C CA  . THR A 1 52  ? 0.148   6.307   2.652   1.0 97.81 ? 52  THR A CA  1 L8IIC8 UNP 52  T 
+ATOM 407  C C   . THR A 1 52  ? -0.422  6.989   1.408   1.0 97.81 ? 52  THR A C   1 L8IIC8 UNP 52  T 
+ATOM 408  C CB  . THR A 1 52  ? 0.229   4.779   2.510   1.0 97.81 ? 52  THR A CB  1 L8IIC8 UNP 52  T 
+ATOM 409  O O   . THR A 1 52  ? 0.336   7.615   0.677   1.0 97.81 ? 52  THR A O   1 L8IIC8 UNP 52  T 
+ATOM 410  C CG2 . THR A 1 52  ? 0.749   4.304   1.166   1.0 97.81 ? 52  THR A CG2 1 L8IIC8 UNP 52  T 
+ATOM 411  O OG1 . THR A 1 52  ? 1.144   4.272   3.456   1.0 97.81 ? 52  THR A OG1 1 L8IIC8 UNP 52  T 
+ATOM 412  N N   . SER A 1 53  ? -1.732  6.906   1.174   1.0 97.75 ? 53  SER A N   1 L8IIC8 UNP 53  S 
+ATOM 413  C CA  . SER A 1 53  ? -2.378  7.403   -0.055  1.0 97.75 ? 53  SER A CA  1 L8IIC8 UNP 53  S 
+ATOM 414  C C   . SER A 1 53  ? -3.596  8.287   0.209   1.0 97.75 ? 53  SER A C   1 L8IIC8 UNP 53  S 
+ATOM 415  C CB  . SER A 1 53  ? -2.801  6.213   -0.919  1.0 97.75 ? 53  SER A CB  1 L8IIC8 UNP 53  S 
+ATOM 416  O O   . SER A 1 53  ? -4.176  8.827   -0.724  1.0 97.75 ? 53  SER A O   1 L8IIC8 UNP 53  S 
+ATOM 417  O OG  . SER A 1 53  ? -3.643  5.376   -0.149  1.0 97.75 ? 53  SER A OG  1 L8IIC8 UNP 53  S 
+ATOM 418  N N   . GLY A 1 54  ? -4.027  8.440   1.464   1.0 97.62 ? 54  GLY A N   1 L8IIC8 UNP 54  G 
+ATOM 419  C CA  . GLY A 1 54  ? -5.278  9.138   1.765   1.0 97.62 ? 54  GLY A CA  1 L8IIC8 UNP 54  G 
+ATOM 420  C C   . GLY A 1 54  ? -6.519  8.386   1.281   1.0 97.62 ? 54  GLY A C   1 L8IIC8 UNP 54  G 
+ATOM 421  O O   . GLY A 1 54  ? -7.555  9.022   1.090   1.0 97.62 ? 54  GLY A O   1 L8IIC8 UNP 54  G 
+ATOM 422  N N   . TYR A 1 55  ? -6.410  7.062   1.109   1.0 97.62 ? 55  TYR A N   1 L8IIC8 UNP 55  Y 
+ATOM 423  C CA  . TYR A 1 55  ? -7.441  6.181   0.546   1.0 97.62 ? 55  TYR A CA  1 L8IIC8 UNP 55  Y 
+ATOM 424  C C   . TYR A 1 55  ? -7.757  6.393   -0.940  1.0 97.62 ? 55  TYR A C   1 L8IIC8 UNP 55  Y 
+ATOM 425  C CB  . TYR A 1 55  ? -8.721  6.207   1.385   1.0 97.62 ? 55  TYR A CB  1 L8IIC8 UNP 55  Y 
+ATOM 426  O O   . TYR A 1 55  ? -8.810  5.966   -1.409  1.0 97.62 ? 55  TYR A O   1 L8IIC8 UNP 55  Y 
+ATOM 427  C CG  . TYR A 1 55  ? -8.572  6.048   2.878   1.0 97.62 ? 55  TYR A CG  1 L8IIC8 UNP 55  Y 
+ATOM 428  C CD1 . TYR A 1 55  ? -7.751  5.039   3.409   1.0 97.62 ? 55  TYR A CD1 1 L8IIC8 UNP 55  Y 
+ATOM 429  C CD2 . TYR A 1 55  ? -9.361  6.843   3.728   1.0 97.62 ? 55  TYR A CD2 1 L8IIC8 UNP 55  Y 
+ATOM 430  C CE1 . TYR A 1 55  ? -7.773  4.783   4.787   1.0 97.62 ? 55  TYR A CE1 1 L8IIC8 UNP 55  Y 
+ATOM 431  C CE2 . TYR A 1 55  ? -9.350  6.620   5.114   1.0 97.62 ? 55  TYR A CE2 1 L8IIC8 UNP 55  Y 
+ATOM 432  O OH  . TYR A 1 55  ? -8.575  5.367   6.981   1.0 97.62 ? 55  TYR A OH  1 L8IIC8 UNP 55  Y 
+ATOM 433  C CZ  . TYR A 1 55  ? -8.565  5.575   5.640   1.0 97.62 ? 55  TYR A CZ  1 L8IIC8 UNP 55  Y 
+ATOM 434  N N   . ASP A 1 56  ? -6.871  7.055   -1.674  1.0 97.25 ? 56  ASP A N   1 L8IIC8 UNP 56  D 
+ATOM 435  C CA  . ASP A 1 56  ? -7.026  7.284   -3.106  1.0 97.25 ? 56  ASP A CA  1 L8IIC8 UNP 56  D 
+ATOM 436  C C   . ASP A 1 56  ? -6.465  6.087   -3.894  1.0 97.25 ? 56  ASP A C   1 L8IIC8 UNP 56  D 
+ATOM 437  C CB  . ASP A 1 56  ? -6.363  8.633   -3.417  1.0 97.25 ? 56  ASP A CB  1 L8IIC8 UNP 56  D 
+ATOM 438  O O   . ASP A 1 56  ? -5.263  5.799   -3.835  1.0 97.25 ? 56  ASP A O   1 L8IIC8 UNP 56  D 
+ATOM 439  C CG  . ASP A 1 56  ? -6.459  9.081   -4.875  1.0 97.25 ? 56  ASP A CG  1 L8IIC8 UNP 56  D 
+ATOM 440  O OD1 . ASP A 1 56  ? -7.000  8.315   -5.699  1.0 97.25 ? 56  ASP A OD1 1 L8IIC8 UNP 56  D 
+ATOM 441  O OD2 . ASP A 1 56  ? -5.986  10.207  -5.150  1.0 97.25 ? 56  ASP A OD2 1 L8IIC8 UNP 56  D 
+ATOM 442  N N   . THR A 1 57  ? -7.338  5.367   -4.609  1.0 97.44 ? 57  THR A N   1 L8IIC8 UNP 57  T 
+ATOM 443  C CA  . THR A 1 57  ? -6.955  4.230   -5.468  1.0 97.44 ? 57  THR A CA  1 L8IIC8 UNP 57  T 
+ATOM 444  C C   . THR A 1 57  ? -6.175  4.677   -6.699  1.0 97.44 ? 57  THR A C   1 L8IIC8 UNP 57  T 
+ATOM 445  C CB  . THR A 1 57  ? -8.171  3.411   -5.935  1.0 97.44 ? 57  THR A CB  1 L8IIC8 UNP 57  T 
+ATOM 446  O O   . THR A 1 57  ? -5.463  3.881   -7.289  1.0 97.44 ? 57  THR A O   1 L8IIC8 UNP 57  T 
+ATOM 447  C CG2 . THR A 1 57  ? -8.946  2.839   -4.746  1.0 97.44 ? 57  THR A CG2 1 L8IIC8 UNP 57  T 
+ATOM 448  O OG1 . THR A 1 57  ? -9.049  4.232   -6.671  1.0 97.44 ? 57  THR A OG1 1 L8IIC8 UNP 57  T 
+ATOM 449  N N   . GLN A 1 58  ? -6.216  5.961   -7.051  1.0 97.19 ? 58  GLN A N   1 L8IIC8 UNP 58  Q 
+ATOM 450  C CA  . GLN A 1 58  ? -5.523  6.541   -8.201  1.0 97.19 ? 58  GLN A CA  1 L8IIC8 UNP 58  Q 
+ATOM 451  C C   . GLN A 1 58  ? -4.300  7.372   -7.783  1.0 97.19 ? 58  GLN A C   1 L8IIC8 UNP 58  Q 
+ATOM 452  C CB  . GLN A 1 58  ? -6.540  7.325   -9.044  1.0 97.19 ? 58  GLN A CB  1 L8IIC8 UNP 58  Q 
+ATOM 453  O O   . GLN A 1 58  ? -3.718  8.089   -8.603  1.0 97.19 ? 58  GLN A O   1 L8IIC8 UNP 58  Q 
+ATOM 454  C CG  . GLN A 1 58  ? -7.540  6.364   -9.704  1.0 97.19 ? 58  GLN A CG  1 L8IIC8 UNP 58  Q 
+ATOM 455  C CD  . GLN A 1 58  ? -8.720  7.071   -10.353 1.0 97.19 ? 58  GLN A CD  1 L8IIC8 UNP 58  Q 
+ATOM 456  N NE2 . GLN A 1 58  ? -9.927  6.599   -10.104 1.0 97.19 ? 58  GLN A NE2 1 L8IIC8 UNP 58  Q 
+ATOM 457  O OE1 . GLN A 1 58  ? -8.585  8.042   -11.092 1.0 97.19 ? 58  GLN A OE1 1 L8IIC8 UNP 58  Q 
+ATOM 458  N N   . ALA A 1 59  ? -3.869  7.267   -6.521  1.0 97.81 ? 59  ALA A N   1 L8IIC8 UNP 59  A 
+ATOM 459  C CA  . ALA A 1 59  ? -2.703  7.976   -6.015  1.0 97.81 ? 59  ALA A CA  1 L8IIC8 UNP 59  A 
+ATOM 460  C C   . ALA A 1 59  ? -1.426  7.581   -6.774  1.0 97.81 ? 59  ALA A C   1 L8IIC8 UNP 59  A 
+ATOM 461  C CB  . ALA A 1 59  ? -2.556  7.713   -4.513  1.0 97.81 ? 59  ALA A CB  1 L8IIC8 UNP 59  A 
+ATOM 462  O O   . ALA A 1 59  ? -1.030  6.414   -6.806  1.0 97.81 ? 59  ALA A O   1 L8IIC8 UNP 59  A 
+ATOM 463  N N   . ILE A 1 60  ? -0.727  8.573   -7.327  1.0 97.94 ? 60  ILE A N   1 L8IIC8 UNP 60  I 
+ATOM 464  C CA  . ILE A 1 60  ? 0.568   8.391   -7.990  1.0 97.94 ? 60  ILE A CA  1 L8IIC8 UNP 60  I 
+ATOM 465  C C   . ILE A 1 60  ? 1.588   9.322   -7.346  1.0 97.94 ? 60  ILE A C   1 L8IIC8 UNP 60  I 
+ATOM 466  C CB  . ILE A 1 60  ? 0.466   8.619   -9.515  1.0 97.94 ? 60  ILE A CB  1 L8IIC8 UNP 60  I 
+ATOM 467  O O   . ILE A 1 60  ? 1.432   10.545  -7.378  1.0 97.94 ? 60  ILE A O   1 L8IIC8 UNP 60  I 
+ATOM 468  C CG1 . ILE A 1 60  ? -0.497  7.599   -10.160 1.0 97.94 ? 60  ILE A CG1 1 L8IIC8 UNP 60  I 
+ATOM 469  C CG2 . ILE A 1 60  ? 1.856   8.503   -10.174 1.0 97.94 ? 60  ILE A CG2 1 L8IIC8 UNP 60  I 
+ATOM 470  C CD1 . ILE A 1 60  ? -0.781  7.868   -11.642 1.0 97.94 ? 60  ILE A CD1 1 L8IIC8 UNP 60  I 
+ATOM 471  N N   . VAL A 1 61  ? 2.672   8.750   -6.824  1.0 97.94 ? 61  VAL A N   1 L8IIC8 UNP 61  V 
+ATOM 472  C CA  . VAL A 1 61  ? 3.797   9.512   -6.272  1.0 97.94 ? 61  VAL A CA  1 L8IIC8 UNP 61  V 
+ATOM 473  C C   . VAL A 1 61  ? 5.055   9.208   -7.071  1.0 97.94 ? 61  VAL A C   1 L8IIC8 UNP 61  V 
+ATOM 474  C CB  . VAL A 1 61  ? 3.970   9.261   -4.765  1.0 97.94 ? 61  VAL A CB  1 L8IIC8 UNP 61  V 
+ATOM 475  O O   . VAL A 1 61  ? 5.549   8.082   -7.101  1.0 97.94 ? 61  VAL A O   1 L8IIC8 UNP 61  V 
+ATOM 476  C CG1 . VAL A 1 61  ? 5.185   10.020  -4.210  1.0 97.94 ? 61  VAL A CG1 1 L8IIC8 UNP 61  V 
+ATOM 477  C CG2 . VAL A 1 61  ? 2.734   9.754   -3.997  1.0 97.94 ? 61  VAL A CG2 1 L8IIC8 UNP 61  V 
+ATOM 478  N N   . GLN A 1 62  ? 5.587   10.233  -7.736  1.0 97.25 ? 62  GLN A N   1 L8IIC8 UNP 62  Q 
+ATOM 479  C CA  . GLN A 1 62  ? 6.856   10.146  -8.453  1.0 97.25 ? 62  GLN A CA  1 L8IIC8 UNP 62  Q 
+ATOM 480  C C   . GLN A 1 62  ? 8.021   10.444  -7.508  1.0 97.25 ? 62  GLN A C   1 L8IIC8 UNP 62  Q 
+ATOM 481  C CB  . GLN A 1 62  ? 6.870   11.092  -9.660  1.0 97.25 ? 62  GLN A CB  1 L8IIC8 UNP 62  Q 
+ATOM 482  O O   . GLN A 1 62  ? 8.074   11.497  -6.874  1.0 97.25 ? 62  GLN A O   1 L8IIC8 UNP 62  Q 
+ATOM 483  C CG  . GLN A 1 62  ? 5.865   10.665  -10.741 1.0 97.25 ? 62  GLN A CG  1 L8IIC8 UNP 62  Q 
+ATOM 484  C CD  . GLN A 1 62  ? 5.889   11.568  -11.970 1.0 97.25 ? 62  GLN A CD  1 L8IIC8 UNP 62  Q 
+ATOM 485  N NE2 . GLN A 1 62  ? 5.002   11.344  -12.913 1.0 97.25 ? 62  GLN A NE2 1 L8IIC8 UNP 62  Q 
+ATOM 486  O OE1 . GLN A 1 62  ? 6.673   12.493  -12.115 1.0 97.25 ? 62  GLN A OE1 1 L8IIC8 UNP 62  Q 
+ATOM 487  N N   . ASN A 1 63  ? 8.976   9.523   -7.462  1.0 94.00 ? 63  ASN A N   1 L8IIC8 UNP 63  N 
+ATOM 488  C CA  . ASN A 1 63  ? 10.259  9.660   -6.787  1.0 94.00 ? 63  ASN A CA  1 L8IIC8 UNP 63  N 
+ATOM 489  C C   . ASN A 1 63  ? 11.379  9.813   -7.832  1.0 94.00 ? 63  ASN A C   1 L8IIC8 UNP 63  N 
+ATOM 490  C CB  . ASN A 1 63  ? 10.450  8.440   -5.867  1.0 94.00 ? 63  ASN A CB  1 L8IIC8 UNP 63  N 
+ATOM 491  O O   . ASN A 1 63  ? 11.152  9.713   -9.036  1.0 94.00 ? 63  ASN A O   1 L8IIC8 UNP 63  N 
+ATOM 492  C CG  . ASN A 1 63  ? 9.449   8.424   -4.726  1.0 94.00 ? 63  ASN A CG  1 L8IIC8 UNP 63  N 
+ATOM 493  N ND2 . ASN A 1 63  ? 8.575   7.445   -4.669  1.0 94.00 ? 63  ASN A ND2 1 L8IIC8 UNP 63  N 
+ATOM 494  O OD1 . ASN A 1 63  ? 9.482   9.289   -3.866  1.0 94.00 ? 63  ASN A OD1 1 L8IIC8 UNP 63  N 
+ATOM 495  N N   . ASN A 1 64  ? 12.616  10.037  -7.383  1.0 91.75 ? 64  ASN A N   1 L8IIC8 UNP 64  N 
+ATOM 496  C CA  . ASN A 1 64  ? 13.749  10.270  -8.290  1.0 91.75 ? 64  ASN A CA  1 L8IIC8 UNP 64  N 
+ATOM 497  C C   . ASN A 1 64  ? 14.014  9.110   -9.270  1.0 91.75 ? 64  ASN A C   1 L8IIC8 UNP 64  N 
+ATOM 498  C CB  . ASN A 1 64  ? 15.013  10.521  -7.451  1.0 91.75 ? 64  ASN A CB  1 L8IIC8 UNP 64  N 
+ATOM 499  O O   . ASN A 1 64  ? 14.465  9.347   -10.386 1.0 91.75 ? 64  ASN A O   1 L8IIC8 UNP 64  N 
+ATOM 500  C CG  . ASN A 1 64  ? 15.001  11.837  -6.699  1.0 91.75 ? 64  ASN A CG  1 L8IIC8 UNP 64  N 
+ATOM 501  N ND2 . ASN A 1 64  ? 15.792  11.947  -5.658  1.0 91.75 ? 64  ASN A ND2 1 L8IIC8 UNP 64  N 
+ATOM 502  O OD1 . ASN A 1 64  ? 14.313  12.785  -7.020  1.0 91.75 ? 64  ASN A OD1 1 L8IIC8 UNP 64  N 
+ATOM 503  N N   . ASP A 1 65  ? 13.797  7.867   -8.839  1.0 93.25 ? 65  ASP A N   1 L8IIC8 UNP 65  D 
+ATOM 504  C CA  . ASP A 1 65  ? 14.154  6.650   -9.579  1.0 93.25 ? 65  ASP A CA  1 L8IIC8 UNP 65  D 
+ATOM 505  C C   . ASP A 1 65  ? 13.017  5.620   -9.648  1.0 93.25 ? 65  ASP A C   1 L8IIC8 UNP 65  D 
+ATOM 506  C CB  . ASP A 1 65  ? 15.409  6.043   -8.936  1.0 93.25 ? 65  ASP A CB  1 L8IIC8 UNP 65  D 
+ATOM 507  O O   . ASP A 1 65  ? 13.228  4.477   -10.046 1.0 93.25 ? 65  ASP A O   1 L8IIC8 UNP 65  D 
+ATOM 508  C CG  . ASP A 1 65  ? 15.171  5.444   -7.542  1.0 93.25 ? 65  ASP A CG  1 L8IIC8 UNP 65  D 
+ATOM 509  O OD1 . ASP A 1 65  ? 14.181  5.799   -6.861  1.0 93.25 ? 65  ASP A OD1 1 L8IIC8 UNP 65  D 
+ATOM 510  O OD2 . ASP A 1 65  ? 16.013  4.607   -7.134  1.0 93.25 ? 65  ASP A OD2 1 L8IIC8 UNP 65  D 
+ATOM 511  N N   . SER A 1 66  ? 11.821  5.995   -9.204  1.0 97.00 ? 66  SER A N   1 L8IIC8 UNP 66  S 
+ATOM 512  C CA  . SER A 1 66  ? 10.677  5.097   -9.100  1.0 97.00 ? 66  SER A CA  1 L8IIC8 UNP 66  S 
+ATOM 513  C C   . SER A 1 66  ? 9.377   5.884   -9.036  1.0 97.00 ? 66  SER A C   1 L8IIC8 UNP 66  S 
+ATOM 514  C CB  . SER A 1 66  ? 10.825  4.186   -7.875  1.0 97.00 ? 66  SER A CB  1 L8IIC8 UNP 66  S 
+ATOM 515  O O   . SER A 1 66  ? 9.357   7.092   -8.817  1.0 97.00 ? 66  SER A O   1 L8IIC8 UNP 66  S 
+ATOM 516  O OG  . SER A 1 66  ? 11.051  4.911   -6.685  1.0 97.00 ? 66  SER A OG  1 L8IIC8 UNP 66  S 
+ATOM 517  N N   . THR A 1 67  ? 8.268   5.201   -9.248  1.0 98.31 ? 67  THR A N   1 L8IIC8 UNP 67  T 
+ATOM 518  C CA  . THR A 1 67  ? 6.921   5.729   -9.046  1.0 98.31 ? 67  THR A CA  1 L8IIC8 UNP 67  T 
+ATOM 519  C C   . THR A 1 67  ? 6.148   4.721   -8.215  1.0 98.31 ? 67  THR A C   1 L8IIC8 UNP 67  T 
+ATOM 520  C CB  . THR A 1 67  ? 6.245   6.001   -10.390 1.0 98.31 ? 67  THR A CB  1 L8IIC8 UNP 67  T 
+ATOM 521  O O   . THR A 1 67  ? 6.339   3.515   -8.379  1.0 98.31 ? 67  THR A O   1 L8IIC8 UNP 67  T 
+ATOM 522  C CG2 . THR A 1 67  ? 4.857   6.620   -10.268 1.0 98.31 ? 67  THR A CG2 1 L8IIC8 UNP 67  T 
+ATOM 523  O OG1 . THR A 1 67  ? 7.032   6.908   -11.131 1.0 98.31 ? 67  THR A OG1 1 L8IIC8 UNP 67  T 
+ATOM 524  N N   . GLU A 1 68  ? 5.331   5.219   -7.299  1.0 98.50 ? 68  GLU A N   1 L8IIC8 UNP 68  E 
+ATOM 525  C CA  . GLU A 1 68  ? 4.444   4.451   -6.432  1.0 98.50 ? 68  GLU A CA  1 L8IIC8 UNP 68  E 
+ATOM 526  C C   . GLU A 1 68  ? 2.994   4.651   -6.869  1.0 98.50 ? 68  GLU A C   1 L8IIC8 UNP 68  E 
+ATOM 527  C CB  . GLU A 1 68  ? 4.655   4.875   -4.974  1.0 98.50 ? 68  GLU A CB  1 L8IIC8 UNP 68  E 
+ATOM 528  O O   . GLU A 1 68  ? 2.604   5.761   -7.236  1.0 98.50 ? 68  GLU A O   1 L8IIC8 UNP 68  E 
+ATOM 529  C CG  . GLU A 1 68  ? 5.973   4.315   -4.424  1.0 98.50 ? 68  GLU A CG  1 L8IIC8 UNP 68  E 
+ATOM 530  C CD  . GLU A 1 68  ? 6.368   4.823   -3.028  1.0 98.50 ? 68  GLU A CD  1 L8IIC8 UNP 68  E 
+ATOM 531  O OE1 . GLU A 1 68  ? 7.519   4.513   -2.637  1.0 98.50 ? 68  GLU A OE1 1 L8IIC8 UNP 68  E 
+ATOM 532  O OE2 . GLU A 1 68  ? 5.571   5.519   -2.365  1.0 98.50 ? 68  GLU A OE2 1 L8IIC8 UNP 68  E 
+ATOM 533  N N   . TYR A 1 69  ? 2.223   3.563   -6.854  1.0 98.62 ? 69  TYR A N   1 L8IIC8 UNP 69  Y 
+ATOM 534  C CA  . TYR A 1 69  ? 0.885   3.509   -7.437  1.0 98.62 ? 69  TYR A CA  1 L8IIC8 UNP 69  Y 
+ATOM 535  C C   . TYR A 1 69  ? -0.144  3.026   -6.424  1.0 98.62 ? 69  TYR A C   1 L8IIC8 UNP 69  Y 
+ATOM 536  C CB  . TYR A 1 69  ? 0.867   2.586   -8.666  1.0 98.62 ? 69  TYR A CB  1 L8IIC8 UNP 69  Y 
+ATOM 537  O O   . TYR A 1 69  ? 0.116   2.104   -5.640  1.0 98.62 ? 69  TYR A O   1 L8IIC8 UNP 69  Y 
+ATOM 538  C CG  . TYR A 1 69  ? 1.846   2.973   -9.755  1.0 98.62 ? 69  TYR A CG  1 L8IIC8 UNP 69  Y 
+ATOM 539  C CD1 . TYR A 1 69  ? 1.421   3.694   -10.885 1.0 98.62 ? 69  TYR A CD1 1 L8IIC8 UNP 69  Y 
+ATOM 540  C CD2 . TYR A 1 69  ? 3.198   2.624   -9.620  1.0 98.62 ? 69  TYR A CD2 1 L8IIC8 UNP 69  Y 
+ATOM 541  C CE1 . TYR A 1 69  ? 2.350   4.074   -11.876 1.0 98.62 ? 69  TYR A CE1 1 L8IIC8 UNP 69  Y 
+ATOM 542  C CE2 . TYR A 1 69  ? 4.131   3.041   -10.569 1.0 98.62 ? 69  TYR A CE2 1 L8IIC8 UNP 69  Y 
+ATOM 543  O OH  . TYR A 1 69  ? 4.658   4.125   -12.586 1.0 98.62 ? 69  TYR A OH  1 L8IIC8 UNP 69  Y 
+ATOM 544  C CZ  . TYR A 1 69  ? 3.711   3.753   -11.700 1.0 98.62 ? 69  TYR A CZ  1 L8IIC8 UNP 69  Y 
+ATOM 545  N N   . GLY A 1 70  ? -1.316  3.639   -6.499  1.0 98.25 ? 70  GLY A N   1 L8IIC8 UNP 70  G 
+ATOM 546  C CA  . GLY A 1 70  ? -2.546  3.150   -5.915  1.0 98.25 ? 70  GLY A CA  1 L8IIC8 UNP 70  G 
+ATOM 547  C C   . GLY A 1 70  ? -2.662  3.302   -4.413  1.0 98.25 ? 70  GLY A C   1 L8IIC8 UNP 70  G 
+ATOM 548  O O   . GLY A 1 70  ? -1.824  3.909   -3.733  1.0 98.25 ? 70  GLY A O   1 L8IIC8 UNP 70  G 
+ATOM 549  N N   . LEU A 1 71  ? -3.696  2.656   -3.880  1.0 98.25 ? 71  LEU A N   1 L8IIC8 UNP 71  L 
+ATOM 550  C CA  . LEU A 1 71  ? -4.045  2.674   -2.461  1.0 98.25 ? 71  LEU A CA  1 L8IIC8 UNP 71  L 
+ATOM 551  C C   . LEU A 1 71  ? -2.855  2.301   -1.562  1.0 98.25 ? 71  LEU A C   1 L8IIC8 UNP 71  L 
+ATOM 552  C CB  . LEU A 1 71  ? -5.210  1.686   -2.268  1.0 98.25 ? 71  LEU A CB  1 L8IIC8 UNP 71  L 
+ATOM 553  O O   . LEU A 1 71  ? -2.684  2.865   -0.478  1.0 98.25 ? 71  LEU A O   1 L8IIC8 UNP 71  L 
+ATOM 554  C CG  . LEU A 1 71  ? -5.712  1.566   -0.818  1.0 98.25 ? 71  LEU A CG  1 L8IIC8 UNP 71  L 
+ATOM 555  C CD1 . LEU A 1 71  ? -6.312  2.874   -0.310  1.0 98.25 ? 71  LEU A CD1 1 L8IIC8 UNP 71  L 
+ATOM 556  C CD2 . LEU A 1 71  ? -6.792  0.496   -0.719  1.0 98.25 ? 71  LEU A CD2 1 L8IIC8 UNP 71  L 
+ATOM 557  N N   . PHE A 1 72  ? -2.020  1.366   -2.018  1.0 98.56 ? 72  PHE A N   1 L8IIC8 UNP 72  F 
+ATOM 558  C CA  . PHE A 1 72  ? -0.902  0.815   -1.255  1.0 98.56 ? 72  PHE A CA  1 L8IIC8 UNP 72  F 
+ATOM 559  C C   . PHE A 1 72  ? 0.465   1.397   -1.618  1.0 98.56 ? 72  PHE A C   1 L8IIC8 UNP 72  F 
+ATOM 560  C CB  . PHE A 1 72  ? -0.907  -0.704  -1.404  1.0 98.56 ? 72  PHE A CB  1 L8IIC8 UNP 72  F 
+ATOM 561  O O   . PHE A 1 72  ? 1.453   0.971   -1.015  1.0 98.56 ? 72  PHE A O   1 L8IIC8 UNP 72  F 
+ATOM 562  C CG  . PHE A 1 72  ? -2.149  -1.356  -0.857  1.0 98.56 ? 72  PHE A CG  1 L8IIC8 UNP 72  F 
+ATOM 563  C CD1 . PHE A 1 72  ? -2.278  -1.579  0.527   1.0 98.56 ? 72  PHE A CD1 1 L8IIC8 UNP 72  F 
+ATOM 564  C CD2 . PHE A 1 72  ? -3.162  -1.760  -1.741  1.0 98.56 ? 72  PHE A CD2 1 L8IIC8 UNP 72  F 
+ATOM 565  C CE1 . PHE A 1 72  ? -3.397  -2.271  1.017   1.0 98.56 ? 72  PHE A CE1 1 L8IIC8 UNP 72  F 
+ATOM 566  C CE2 . PHE A 1 72  ? -4.274  -2.462  -1.253  1.0 98.56 ? 72  PHE A CE2 1 L8IIC8 UNP 72  F 
+ATOM 567  C CZ  . PHE A 1 72  ? -4.371  -2.737  0.119   1.0 98.56 ? 72  PHE A CZ  1 L8IIC8 UNP 72  F 
+ATOM 568  N N   . GLN A 1 73  ? 0.542   2.338   -2.566  1.0 98.69 ? 73  GLN A N   1 L8IIC8 UNP 73  Q 
+ATOM 569  C CA  . GLN A 1 73  ? 1.798   2.949   -3.024  1.0 98.69 ? 73  GLN A CA  1 L8IIC8 UNP 73  Q 
+ATOM 570  C C   . GLN A 1 73  ? 2.861   1.887   -3.376  1.0 98.69 ? 73  GLN A C   1 L8IIC8 UNP 73  Q 
+ATOM 571  C CB  . GLN A 1 73  ? 2.249   4.027   -2.024  1.0 98.69 ? 73  GLN A CB  1 L8IIC8 UNP 73  Q 
+ATOM 572  O O   . GLN A 1 73  ? 3.976   1.826   -2.846  1.0 98.69 ? 73  GLN A O   1 L8IIC8 UNP 73  Q 
+ATOM 573  C CG  . GLN A 1 73  ? 1.290   5.233   -1.978  1.0 98.69 ? 73  GLN A CG  1 L8IIC8 UNP 73  Q 
+ATOM 574  C CD  . GLN A 1 73  ? 1.225   5.993   -3.295  1.0 98.69 ? 73  GLN A CD  1 L8IIC8 UNP 73  Q 
+ATOM 575  N NE2 . GLN A 1 73  ? 0.185   5.826   -4.079  1.0 98.69 ? 73  GLN A NE2 1 L8IIC8 UNP 73  Q 
+ATOM 576  O OE1 . GLN A 1 73  ? 2.125   6.723   -3.659  1.0 98.69 ? 73  GLN A OE1 1 L8IIC8 UNP 73  Q 
+ATOM 577  N N   . ILE A 1 74  ? 2.484   0.968   -4.266  1.0 98.69 ? 74  ILE A N   1 L8IIC8 UNP 74  I 
+ATOM 578  C CA  . ILE A 1 74  ? 3.339   -0.134  -4.718  1.0 98.69 ? 74  ILE A CA  1 L8IIC8 UNP 74  I 
+ATOM 579  C C   . ILE A 1 74  ? 4.278   0.396   -5.801  1.0 98.69 ? 74  ILE A C   1 L8IIC8 UNP 74  I 
+ATOM 580  C CB  . ILE A 1 74  ? 2.476   -1.311  -5.221  1.0 98.69 ? 74  ILE A CB  1 L8IIC8 UNP 74  I 
+ATOM 581  O O   . ILE A 1 74  ? 3.805   0.943   -6.787  1.0 98.69 ? 74  ILE A O   1 L8IIC8 UNP 74  I 
+ATOM 582  C CG1 . ILE A 1 74  ? 1.578   -1.863  -4.092  1.0 98.69 ? 74  ILE A CG1 1 L8IIC8 UNP 74  I 
+ATOM 583  C CG2 . ILE A 1 74  ? 3.401   -2.415  -5.753  1.0 98.69 ? 74  ILE A CG2 1 L8IIC8 UNP 74  I 
+ATOM 584  C CD1 . ILE A 1 74  ? 0.496   -2.837  -4.575  1.0 98.69 ? 74  ILE A CD1 1 L8IIC8 UNP 74  I 
+ATOM 585  N N   . ASN A 1 75  ? 5.601   0.253   -5.649  1.0 98.25 ? 75  ASN A N   1 L8IIC8 UNP 75  N 
+ATOM 586  C CA  . ASN A 1 75  ? 6.544   0.864   -6.597  1.0 98.25 ? 75  ASN A CA  1 L8IIC8 UNP 75  N 
+ATOM 587  C C   . ASN A 1 75  ? 6.846   0.029   -7.862  1.0 98.25 ? 75  ASN A C   1 L8IIC8 UNP 75  N 
+ATOM 588  C CB  . ASN A 1 75  ? 7.819   1.349   -5.889  1.0 98.25 ? 75  ASN A CB  1 L8IIC8 UNP 75  N 
+ATOM 589  O O   . ASN A 1 75  ? 7.010   -1.196  -7.805  1.0 98.25 ? 75  ASN A O   1 L8IIC8 UNP 75  N 
+ATOM 590  C CG  . ASN A 1 75  ? 8.720   0.224   -5.432  1.0 98.25 ? 75  ASN A CG  1 L8IIC8 UNP 75  N 
+ATOM 591  N ND2 . ASN A 1 75  ? 8.742   -0.064  -4.155  1.0 98.25 ? 75  ASN A ND2 1 L8IIC8 UNP 75  N 
+ATOM 592  O OD1 . ASN A 1 75  ? 9.413   -0.423  -6.203  1.0 98.25 ? 75  ASN A OD1 1 L8IIC8 UNP 75  N 
+ATOM 593  N N   . ASN A 1 76  ? 7.045   0.719   -8.992  1.0 98.25 ? 76  ASN A N   1 L8IIC8 UNP 76  N 
+ATOM 594  C CA  . ASN A 1 76  ? 7.472   0.139   -10.279 1.0 98.25 ? 76  ASN A CA  1 L8IIC8 UNP 76  N 
+ATOM 595  C C   . ASN A 1 76  ? 8.944   -0.301  -10.325 1.0 98.25 ? 76  ASN A C   1 L8IIC8 UNP 76  N 
+ATOM 596  C CB  . ASN A 1 76  ? 7.192   1.107   -11.447 1.0 98.25 ? 76  ASN A CB  1 L8IIC8 UNP 76  N 
+ATOM 597  O O   . ASN A 1 76  ? 9.356   -0.932  -11.291 1.0 98.25 ? 76  ASN A O   1 L8IIC8 UNP 76  N 
+ATOM 598  C CG  . ASN A 1 76  ? 7.931   2.431   -11.368 1.0 98.25 ? 76  ASN A CG  1 L8IIC8 UNP 76  N 
+ATOM 599  N ND2 . ASN A 1 76  ? 7.725   3.324   -12.308 1.0 98.25 ? 76  ASN A ND2 1 L8IIC8 UNP 76  N 
+ATOM 600  O OD1 . ASN A 1 76  ? 8.703   2.690   -10.455 1.0 98.25 ? 76  ASN A OD1 1 L8IIC8 UNP 76  N 
+ATOM 601  N N   . LYS A 1 77  ? 9.762   0.003   -9.314  1.0 97.50 ? 77  LYS A N   1 L8IIC8 UNP 77  K 
+ATOM 602  C CA  . LYS A 1 77  ? 11.175  -0.409  -9.294  1.0 97.50 ? 77  LYS A CA  1 L8IIC8 UNP 77  K 
+ATOM 603  C C   . LYS A 1 77  ? 11.331  -1.899  -8.983  1.0 97.50 ? 77  LYS A C   1 L8IIC8 UNP 77  K 
+ATOM 604  C CB  . LYS A 1 77  ? 11.922  0.500   -8.315  1.0 97.50 ? 77  LYS A CB  1 L8IIC8 UNP 77  K 
+ATOM 605  O O   . LYS A 1 77  ? 12.256  -2.547  -9.474  1.0 97.50 ? 77  LYS A O   1 L8IIC8 UNP 77  K 
+ATOM 606  C CG  . LYS A 1 77  ? 13.433  0.253   -8.277  1.0 97.50 ? 77  LYS A CG  1 L8IIC8 UNP 77  K 
+ATOM 607  C CD  . LYS A 1 77  ? 14.083  1.286   -7.355  1.0 97.50 ? 77  LYS A CD  1 L8IIC8 UNP 77  K 
+ATOM 608  C CE  . LYS A 1 77  ? 15.591  1.056   -7.278  1.0 97.50 ? 77  LYS A CE  1 L8IIC8 UNP 77  K 
+ATOM 609  N NZ  . LYS A 1 77  ? 16.210  2.077   -6.406  1.0 97.50 ? 77  LYS A NZ  1 L8IIC8 UNP 77  K 
+ATOM 610  N N   . ILE A 1 78  ? 10.442  -2.447  -8.153  1.0 98.31 ? 78  ILE A N   1 L8IIC8 UNP 78  I 
+ATOM 611  C CA  . ILE A 1 78  ? 10.546  -3.820  -7.640  1.0 98.31 ? 78  ILE A CA  1 L8IIC8 UNP 78  I 
+ATOM 612  C C   . ILE A 1 78  ? 9.285   -4.643  -7.928  1.0 98.31 ? 78  ILE A C   1 L8IIC8 UNP 78  I 
+ATOM 613  C CB  . ILE A 1 78  ? 10.889  -3.785  -6.128  1.0 98.31 ? 78  ILE A CB  1 L8IIC8 UNP 78  I 
+ATOM 614  O O   . ILE A 1 78  ? 9.391   -5.820  -8.286  1.0 98.31 ? 78  ILE A O   1 L8IIC8 UNP 78  I 
+ATOM 615  C CG1 . ILE A 1 78  ? 12.222  -3.034  -5.881  1.0 98.31 ? 78  ILE A CG1 1 L8IIC8 UNP 78  I 
+ATOM 616  C CG2 . ILE A 1 78  ? 10.959  -5.212  -5.553  1.0 98.31 ? 78  ILE A CG2 1 L8IIC8 UNP 78  I 
+ATOM 617  C CD1 . ILE A 1 78  ? 12.627  -2.901  -4.407  1.0 98.31 ? 78  ILE A CD1 1 L8IIC8 UNP 78  I 
+ATOM 618  N N   . TRP A 1 79  ? 8.096   -4.068  -7.748  1.0 98.75 ? 79  TRP A N   1 L8IIC8 UNP 79  W 
+ATOM 619  C CA  . TRP A 1 79  ? 6.880   -4.861  -7.557  1.0 98.75 ? 79  TRP A CA  1 L8IIC8 UNP 79  W 
+ATOM 620  C C   . TRP A 1 79  ? 6.045   -5.023  -8.819  1.0 98.75 ? 79  TRP A C   1 L8IIC8 UNP 79  W 
+ATOM 621  C CB  . TRP A 1 79  ? 6.074   -4.251  -6.419  1.0 98.75 ? 79  TRP A CB  1 L8IIC8 UNP 79  W 
+ATOM 622  O O   . TRP A 1 79  ? 5.665   -6.150  -9.128  1.0 98.75 ? 79  TRP A O   1 L8IIC8 UNP 79  W 
+ATOM 623  C CG  . TRP A 1 79  ? 6.799   -4.238  -5.115  1.0 98.75 ? 79  TRP A CG  1 L8IIC8 UNP 79  W 
+ATOM 624  C CD1 . TRP A 1 79  ? 7.248   -3.137  -4.475  1.0 98.75 ? 79  TRP A CD1 1 L8IIC8 UNP 79  W 
+ATOM 625  C CD2 . TRP A 1 79  ? 7.161   -5.370  -4.275  1.0 98.75 ? 79  TRP A CD2 1 L8IIC8 UNP 79  W 
+ATOM 626  C CE2 . TRP A 1 79  ? 7.880   -4.876  -3.147  1.0 98.75 ? 79  TRP A CE2 1 L8IIC8 UNP 79  W 
+ATOM 627  C CE3 . TRP A 1 79  ? 6.915   -6.759  -4.330  1.0 98.75 ? 79  TRP A CE3 1 L8IIC8 UNP 79  W 
+ATOM 628  N NE1 . TRP A 1 79  ? 7.863   -3.508  -3.297  1.0 98.75 ? 79  TRP A NE1 1 L8IIC8 UNP 79  W 
+ATOM 629  C CH2 . TRP A 1 79  ? 8.113   -7.101  -2.230  1.0 98.75 ? 79  TRP A CH2 1 L8IIC8 UNP 79  W 
+ATOM 630  C CZ2 . TRP A 1 79  ? 8.362   -5.721  -2.139  1.0 98.75 ? 79  TRP A CZ2 1 L8IIC8 UNP 79  W 
+ATOM 631  C CZ3 . TRP A 1 79  ? 7.374   -7.615  -3.311  1.0 98.75 ? 79  TRP A CZ3 1 L8IIC8 UNP 79  W 
+ATOM 632  N N   . CYS A 1 80  ? 5.818   -3.948  -9.567  1.0 98.75 ? 80  CYS A N   1 L8IIC8 UNP 80  C 
+ATOM 633  C CA  . CYS A 1 80  ? 5.088   -3.967  -10.836 1.0 98.75 ? 80  CYS A CA  1 L8IIC8 UNP 80  C 
+ATOM 634  C C   . CYS A 1 80  ? 5.952   -3.446  -11.984 1.0 98.75 ? 80  CYS A C   1 L8IIC8 UNP 80  C 
+ATOM 635  C CB  . CYS A 1 80  ? 3.793   -3.171  -10.680 1.0 98.75 ? 80  CYS A CB  1 L8IIC8 UNP 80  C 
+ATOM 636  O O   . CYS A 1 80  ? 7.072   -2.974  -11.768 1.0 98.75 ? 80  CYS A O   1 L8IIC8 UNP 80  C 
+ATOM 637  S SG  . CYS A 1 80  ? 4.033   -1.423  -10.265 1.0 98.75 ? 80  CYS A SG  1 L8IIC8 UNP 80  C 
+ATOM 638  N N   . LYS A 1 81  ? 5.446   -3.560  -13.212 1.0 98.44 ? 81  LYS A N   1 L8IIC8 UNP 81  K 
+ATOM 639  C CA  . LYS A 1 81  ? 6.118   -3.077  -14.420 1.0 98.44 ? 81  LYS A CA  1 L8IIC8 UNP 81  K 
+ATOM 640  C C   . LYS A 1 81  ? 5.349   -1.939  -15.080 1.0 98.44 ? 81  LYS A C   1 L8IIC8 UNP 81  K 
+ATOM 641  C CB  . LYS A 1 81  ? 6.323   -4.261  -15.365 1.0 98.44 ? 81  LYS A CB  1 L8IIC8 UNP 81  K 
+ATOM 642  O O   . LYS A 1 81  ? 4.135   -2.012  -15.217 1.0 98.44 ? 81  LYS A O   1 L8IIC8 UNP 81  K 
+ATOM 643  C CG  . LYS A 1 81  ? 7.164   -3.867  -16.580 1.0 98.44 ? 81  LYS A CG  1 L8IIC8 UNP 81  K 
+ATOM 644  C CD  . LYS A 1 81  ? 7.601   -5.107  -17.358 1.0 98.44 ? 81  LYS A CD  1 L8IIC8 UNP 81  K 
+ATOM 645  C CE  . LYS A 1 81  ? 8.480   -4.631  -18.513 1.0 98.44 ? 81  LYS A CE  1 L8IIC8 UNP 81  K 
+ATOM 646  N NZ  . LYS A 1 81  ? 9.085   -5.770  -19.238 1.0 98.44 ? 81  LYS A NZ  1 L8IIC8 UNP 81  K 
+ATOM 647  N N   . ASP A 1 82  ? 6.085   -0.947  -15.555 1.0 96.25 ? 82  ASP A N   1 L8IIC8 UNP 82  D 
+ATOM 648  C CA  . ASP A 1 82  ? 5.614   0.111   -16.440 1.0 96.25 ? 82  ASP A CA  1 L8IIC8 UNP 82  D 
+ATOM 649  C C   . ASP A 1 82  ? 6.721   0.491   -17.442 1.0 96.25 ? 82  ASP A C   1 L8IIC8 UNP 82  D 
+ATOM 650  C CB  . ASP A 1 82  ? 5.157   1.309   -15.594 1.0 96.25 ? 82  ASP A CB  1 L8IIC8 UNP 82  D 
+ATOM 651  O O   . ASP A 1 82  ? 7.810   -0.097  -17.444 1.0 96.25 ? 82  ASP A O   1 L8IIC8 UNP 82  D 
+ATOM 652  C CG  . ASP A 1 82  ? 6.305   2.133   -15.005 1.0 96.25 ? 82  ASP A CG  1 L8IIC8 UNP 82  D 
+ATOM 653  O OD1 . ASP A 1 82  ? 7.445   1.641   -14.857 1.0 96.25 ? 82  ASP A OD1 1 L8IIC8 UNP 82  D 
+ATOM 654  O OD2 . ASP A 1 82  ? 6.067   3.323   -14.736 1.0 96.25 ? 82  ASP A OD2 1 L8IIC8 UNP 82  D 
+ATOM 655  N N   . ASP A 1 83  ? 6.448   1.473   -18.302 1.0 93.62 ? 83  ASP A N   1 L8IIC8 UNP 83  D 
+ATOM 656  C CA  . ASP A 1 83  ? 7.410   1.933   -19.310 1.0 93.62 ? 83  ASP A CA  1 L8IIC8 UNP 83  D 
+ATOM 657  C C   . ASP A 1 83  ? 8.529   2.812   -18.722 1.0 93.62 ? 83  ASP A C   1 L8IIC8 UNP 83  D 
+ATOM 658  C CB  . ASP A 1 83  ? 6.663   2.680   -20.427 1.0 93.62 ? 83  ASP A CB  1 L8IIC8 UNP 83  D 
+ATOM 659  O O   . ASP A 1 83  ? 9.589   2.946   -19.337 1.0 93.62 ? 83  ASP A O   1 L8IIC8 UNP 83  D 
+ATOM 660  C CG  . ASP A 1 83  ? 5.792   1.773   -21.307 1.0 93.62 ? 83  ASP A CG  1 L8IIC8 UNP 83  D 
+ATOM 661  O OD1 . ASP A 1 83  ? 6.074   0.554   -21.379 1.0 93.62 ? 83  ASP A OD1 1 L8IIC8 UNP 83  D 
+ATOM 662  O OD2 . ASP A 1 83  ? 4.871   2.328   -21.945 1.0 93.62 ? 83  ASP A OD2 1 L8IIC8 UNP 83  D 
+ATOM 663  N N   . GLN A 1 84  ? 8.327   3.399   -17.535 1.0 93.00 ? 84  GLN A N   1 L8IIC8 UNP 84  Q 
+ATOM 664  C CA  . GLN A 1 84  ? 9.324   4.261   -16.891 1.0 93.00 ? 84  GLN A CA  1 L8IIC8 UNP 84  Q 
+ATOM 665  C C   . GLN A 1 84  ? 10.476  3.450   -16.290 1.0 93.00 ? 84  GLN A C   1 L8IIC8 UNP 84  Q 
+ATOM 666  C CB  . GLN A 1 84  ? 8.680   5.130   -15.802 1.0 93.00 ? 84  GLN A CB  1 L8IIC8 UNP 84  Q 
+ATOM 667  O O   . GLN A 1 84  ? 11.624  3.895   -16.327 1.0 93.00 ? 84  GLN A O   1 L8IIC8 UNP 84  Q 
+ATOM 668  C CG  . GLN A 1 84  ? 7.525   6.005   -16.311 1.0 93.00 ? 84  GLN A CG  1 L8IIC8 UNP 84  Q 
+ATOM 669  C CD  . GLN A 1 84  ? 7.007   6.938   -15.222 1.0 93.00 ? 84  GLN A CD  1 L8IIC8 UNP 84  Q 
+ATOM 670  N NE2 . GLN A 1 84  ? 5.711   7.028   -15.029 1.0 93.00 ? 84  GLN A NE2 1 L8IIC8 UNP 84  Q 
+ATOM 671  O OE1 . GLN A 1 84  ? 7.752   7.614   -14.536 1.0 93.00 ? 84  GLN A OE1 1 L8IIC8 UNP 84  Q 
+ATOM 672  N N   . ASN A 1 85  ? 10.195  2.249   -15.770 1.0 92.94 ? 85  ASN A N   1 L8IIC8 UNP 85  N 
+ATOM 673  C CA  . ASN A 1 85  ? 11.184  1.360   -15.164 1.0 92.94 ? 85  ASN A CA  1 L8IIC8 UNP 85  N 
+ATOM 674  C C   . ASN A 1 85  ? 11.293  0.017   -15.912 1.0 92.94 ? 85  ASN A C   1 L8IIC8 UNP 85  N 
+ATOM 675  C CB  . ASN A 1 85  ? 10.895  1.238   -13.659 1.0 92.94 ? 85  ASN A CB  1 L8IIC8 UNP 85  N 
+ATOM 676  O O   . ASN A 1 85  ? 10.906  -1.036  -15.394 1.0 92.94 ? 85  ASN A O   1 L8IIC8 UNP 85  N 
+ATOM 677  C CG  . ASN A 1 85  ? 11.500  2.421   -12.936 1.0 92.94 ? 85  ASN A CG  1 L8IIC8 UNP 85  N 
+ATOM 678  N ND2 . ASN A 1 85  ? 10.725  3.398   -12.550 1.0 92.94 ? 85  ASN A ND2 1 L8IIC8 UNP 85  N 
+ATOM 679  O OD1 . ASN A 1 85  ? 12.704  2.487   -12.758 1.0 92.94 ? 85  ASN A OD1 1 L8IIC8 UNP 85  N 
+ATOM 680  N N   . PRO A 1 86  ? 11.914  -0.009  -17.112 1.0 91.06 ? 86  PRO A N   1 L8IIC8 UNP 86  P 
+ATOM 681  C CA  . PRO A 1 86  ? 12.009  -1.223  -17.930 1.0 91.06 ? 86  PRO A CA  1 L8IIC8 UNP 86  P 
+ATOM 682  C C   . PRO A 1 86  ? 12.828  -2.345  -17.271 1.0 91.06 ? 86  PRO A C   1 L8IIC8 UNP 86  P 
+ATOM 683  C CB  . PRO A 1 86  ? 12.648  -0.764  -19.247 1.0 91.06 ? 86  PRO A CB  1 L8IIC8 UNP 86  P 
+ATOM 684  O O   . PRO A 1 86  ? 12.682  -3.513  -17.637 1.0 91.06 ? 86  PRO A O   1 L8IIC8 UNP 86  P 
+ATOM 685  C CG  . PRO A 1 86  ? 13.459  0.469   -18.851 1.0 91.06 ? 86  PRO A CG  1 L8IIC8 UNP 86  P 
+ATOM 686  C CD  . PRO A 1 86  ? 12.583  1.104   -17.775 1.0 91.06 ? 86  PRO A CD  1 L8IIC8 UNP 86  P 
+ATOM 687  N N   . HIS A 1 87  ? 13.677  -1.999  -16.299 1.0 94.31 ? 87  HIS A N   1 L8IIC8 UNP 87  H 
+ATOM 688  C CA  . HIS A 1 87  ? 14.508  -2.930  -15.531 1.0 94.31 ? 87  HIS A CA  1 L8IIC8 UNP 87  H 
+ATOM 689  C C   . HIS A 1 87  ? 13.857  -3.409  -14.222 1.0 94.31 ? 87  HIS A C   1 L8IIC8 UNP 87  H 
+ATOM 690  C CB  . HIS A 1 87  ? 15.886  -2.297  -15.293 1.0 94.31 ? 87  HIS A CB  1 L8IIC8 UNP 87  H 
+ATOM 691  O O   . HIS A 1 87  ? 14.537  -4.033  -13.406 1.0 94.31 ? 87  HIS A O   1 L8IIC8 UNP 87  H 
+ATOM 692  C CG  . HIS A 1 87  ? 16.600  -1.939  -16.569 1.0 94.31 ? 87  HIS A CG  1 L8IIC8 UNP 87  H 
+ATOM 693  C CD2 . HIS A 1 87  ? 17.018  -0.694  -16.955 1.0 94.31 ? 87  HIS A CD2 1 L8IIC8 UNP 87  H 
+ATOM 694  N ND1 . HIS A 1 87  ? 16.928  -2.811  -17.582 1.0 94.31 ? 87  HIS A ND1 1 L8IIC8 UNP 87  H 
+ATOM 695  C CE1 . HIS A 1 87  ? 17.531  -2.109  -18.554 1.0 94.31 ? 87  HIS A CE1 1 L8IIC8 UNP 87  H 
+ATOM 696  N NE2 . HIS A 1 87  ? 17.613  -0.815  -18.216 1.0 94.31 ? 87  HIS A NE2 1 L8IIC8 UNP 87  H 
+ATOM 697  N N   . SER A 1 88  ? 12.566  -3.129  -14.011 1.0 97.31 ? 88  SER A N   1 L8IIC8 UNP 88  S 
+ATOM 698  C CA  . SER A 1 88  ? 11.818  -3.623  -12.854 1.0 97.31 ? 88  SER A CA  1 L8IIC8 UNP 88  S 
+ATOM 699  C C   . SER A 1 88  ? 11.934  -5.138  -12.699 1.0 97.31 ? 88  SER A C   1 L8IIC8 UNP 88  S 
+ATOM 700  C CB  . SER A 1 88  ? 10.339  -3.269  -12.980 1.0 97.31 ? 88  SER A CB  1 L8IIC8 UNP 88  S 
+ATOM 701  O O   . SER A 1 88  ? 11.857  -5.892  -13.672 1.0 97.31 ? 88  SER A O   1 L8IIC8 UNP 88  S 
+ATOM 702  O OG  . SER A 1 88  ? 9.647   -3.754  -11.842 1.0 97.31 ? 88  SER A OG  1 L8IIC8 UNP 88  S 
+ATOM 703  N N   . SER A 1 89  ? 12.046  -5.593  -11.449 1.0 97.44 ? 89  SER A N   1 L8IIC8 UNP 89  S 
+ATOM 704  C CA  . SER A 1 89  ? 11.963  -7.024  -11.128 1.0 97.44 ? 89  SER A CA  1 L8IIC8 UNP 89  S 
+ATOM 705  C C   . SER A 1 89  ? 10.556  -7.592  -11.328 1.0 97.44 ? 89  SER A C   1 L8IIC8 UNP 89  S 
+ATOM 706  C CB  . SER A 1 89  ? 12.403  -7.269  -9.685  1.0 97.44 ? 89  SER A CB  1 L8IIC8 UNP 89  S 
+ATOM 707  O O   . SER A 1 89  ? 10.419  -8.805  -11.478 1.0 97.44 ? 89  SER A O   1 L8IIC8 UNP 89  S 
+ATOM 708  O OG  . SER A 1 89  ? 13.759  -6.904  -9.534  1.0 97.44 ? 89  SER A OG  1 L8IIC8 UNP 89  S 
+ATOM 709  N N   . ASN A 1 90  ? 9.528   -6.734  -11.324 1.0 98.31 ? 90  ASN A N   1 L8IIC8 UNP 90  N 
+ATOM 710  C CA  . ASN A 1 90  ? 8.120   -7.091  -11.482 1.0 98.31 ? 90  ASN A CA  1 L8IIC8 UNP 90  N 
+ATOM 711  C C   . ASN A 1 90  ? 7.711   -8.329  -10.657 1.0 98.31 ? 90  ASN A C   1 L8IIC8 UNP 90  N 
+ATOM 712  C CB  . ASN A 1 90  ? 7.799   -7.212  -12.980 1.0 98.31 ? 90  ASN A CB  1 L8IIC8 UNP 90  N 
+ATOM 713  O O   . ASN A 1 90  ? 7.168   -9.301  -11.185 1.0 98.31 ? 90  ASN A O   1 L8IIC8 UNP 90  N 
+ATOM 714  C CG  . ASN A 1 90  ? 6.305   -7.316  -13.232 1.0 98.31 ? 90  ASN A CG  1 L8IIC8 UNP 90  N 
+ATOM 715  N ND2 . ASN A 1 90  ? 5.902   -7.719  -14.414 1.0 98.31 ? 90  ASN A ND2 1 L8IIC8 UNP 90  N 
+ATOM 716  O OD1 . ASN A 1 90  ? 5.475   -7.049  -12.383 1.0 98.31 ? 90  ASN A OD1 1 L8IIC8 UNP 90  N 
+ATOM 717  N N   . ILE A 1 91  ? 8.004   -8.327  -9.353  1.0 98.62 ? 91  ILE A N   1 L8IIC8 UNP 91  I 
+ATOM 718  C CA  . ILE A 1 91  ? 7.758   -9.483  -8.470  1.0 98.62 ? 91  ILE A CA  1 L8IIC8 UNP 91  I 
+ATOM 719  C C   . ILE A 1 91  ? 6.269   -9.872  -8.425  1.0 98.62 ? 91  ILE A C   1 L8IIC8 UNP 91  I 
+ATOM 720  C CB  . ILE A 1 91  ? 8.306   -9.175  -7.056  1.0 98.62 ? 91  ILE A CB  1 L8IIC8 UNP 91  I 
+ATOM 721  O O   . ILE A 1 91  ? 5.919   -11.053 -8.289  1.0 98.62 ? 91  ILE A O   1 L8IIC8 UNP 91  I 
+ATOM 722  C CG1 . ILE A 1 91  ? 9.849   -9.078  -7.103  1.0 98.62 ? 91  ILE A CG1 1 L8IIC8 UNP 91  I 
+ATOM 723  C CG2 . ILE A 1 91  ? 7.857   -10.230 -6.025  1.0 98.62 ? 91  ILE A CG2 1 L8IIC8 UNP 91  I 
+ATOM 724  C CD1 . ILE A 1 91  ? 10.503  -8.759  -5.753  1.0 98.62 ? 91  ILE A CD1 1 L8IIC8 UNP 91  I 
+ATOM 725  N N   . CYS A 1 92  ? 5.371   -8.896  -8.539  1.0 98.69 ? 92  CYS A N   1 L8IIC8 UNP 92  C 
+ATOM 726  C CA  . CYS A 1 92  ? 3.939   -9.151  -8.575  1.0 98.69 ? 92  CYS A CA  1 L8IIC8 UNP 92  C 
+ATOM 727  C C   . CYS A 1 92  ? 3.473   -9.715  -9.922  1.0 98.69 ? 92  CYS A C   1 L8IIC8 UNP 92  C 
+ATOM 728  C CB  . CYS A 1 92  ? 3.173   -7.929  -8.071  1.0 98.69 ? 92  CYS A CB  1 L8IIC8 UNP 92  C 
+ATOM 729  O O   . CYS A 1 92  ? 2.441   -10.382 -9.938  1.0 98.69 ? 92  CYS A O   1 L8IIC8 UNP 92  C 
+ATOM 730  S SG  . CYS A 1 92  ? 3.536   -7.681  -6.313  1.0 98.69 ? 92  CYS A SG  1 L8IIC8 UNP 92  C 
+ATOM 731  N N   . ASN A 1 93  ? 4.302   -9.617  -10.969 1.0 98.31 ? 93  ASN A N   1 L8IIC8 UNP 93  N 
+ATOM 732  C CA  . ASN A 1 93  ? 4.029   -10.052 -12.337 1.0 98.31 ? 93  ASN A CA  1 L8IIC8 UNP 93  N 
+ATOM 733  C C   . ASN A 1 93  ? 2.768   -9.389  -12.906 1.0 98.31 ? 93  ASN A C   1 L8IIC8 UNP 93  N 
+ATOM 734  C CB  . ASN A 1 93  ? 4.068   -11.584 -12.441 1.0 98.31 ? 93  ASN A CB  1 L8IIC8 UNP 93  N 
+ATOM 735  O O   . ASN A 1 93  ? 1.879   -10.060 -13.426 1.0 98.31 ? 93  ASN A O   1 L8IIC8 UNP 93  N 
+ATOM 736  C CG  . ASN A 1 93  ? 4.025   -12.033 -13.891 1.0 98.31 ? 93  ASN A CG  1 L8IIC8 UNP 93  N 
+ATOM 737  N ND2 . ASN A 1 93  ? 3.114   -12.907 -14.245 1.0 98.31 ? 93  ASN A ND2 1 L8IIC8 UNP 93  N 
+ATOM 738  O OD1 . ASN A 1 93  ? 4.810   -11.610 -14.723 1.0 98.31 ? 93  ASN A OD1 1 L8IIC8 UNP 93  N 
+ATOM 739  N N   . ILE A 1 94  ? 2.696   -8.067  -12.763 1.0 98.50 ? 94  ILE A N   1 L8IIC8 UNP 94  I 
+ATOM 740  C CA  . ILE A 1 94  ? 1.535   -7.253  -13.119 1.0 98.50 ? 94  ILE A CA  1 L8IIC8 UNP 94  I 
+ATOM 741  C C   . ILE A 1 94  ? 1.984   -5.881  -13.631 1.0 98.50 ? 94  ILE A C   1 L8IIC8 UNP 94  I 
+ATOM 742  C CB  . ILE A 1 94  ? 0.571   -7.166  -11.917 1.0 98.50 ? 94  ILE A CB  1 L8IIC8 UNP 94  I 
+ATOM 743  O O   . ILE A 1 94  ? 3.080   -5.410  -13.311 1.0 98.50 ? 94  ILE A O   1 L8IIC8 UNP 94  I 
+ATOM 744  C CG1 . ILE A 1 94  ? -0.814  -6.665  -12.369 1.0 98.50 ? 94  ILE A CG1 1 L8IIC8 UNP 94  I 
+ATOM 745  C CG2 . ILE A 1 94  ? 1.148   -6.317  -10.772 1.0 98.50 ? 94  ILE A CG2 1 L8IIC8 UNP 94  I 
+ATOM 746  C CD1 . ILE A 1 94  ? -1.885  -6.810  -11.290 1.0 98.50 ? 94  ILE A CD1 1 L8IIC8 UNP 94  I 
+ATOM 747  N N   . SER A 1 95  ? 1.154   -5.266  -14.465 1.0 98.44 ? 95  SER A N   1 L8IIC8 UNP 95  S 
+ATOM 748  C CA  . SER A 1 95  ? 1.371   -3.900  -14.930 1.0 98.44 ? 95  SER A CA  1 L8IIC8 UNP 95  S 
+ATOM 749  C C   . SER A 1 95  ? 0.946   -2.901  -13.852 1.0 98.44 ? 95  SER A C   1 L8IIC8 UNP 95  S 
+ATOM 750  C CB  . SER A 1 95  ? 0.604   -3.687  -16.226 1.0 98.44 ? 95  SER A CB  1 L8IIC8 UNP 95  S 
+ATOM 751  O O   . SER A 1 95  ? -0.052  -3.134  -13.177 1.0 98.44 ? 95  SER A O   1 L8IIC8 UNP 95  S 
+ATOM 752  O OG  . SER A 1 95  ? 1.103   -2.545  -16.864 1.0 98.44 ? 95  SER A OG  1 L8IIC8 UNP 95  S 
+ATOM 753  N N   . CYS A 1 96  ? 1.699   -1.817  -13.654 1.0 98.56 ? 96  CYS A N   1 L8IIC8 UNP 96  C 
+ATOM 754  C CA  . CYS A 1 96  ? 1.434   -0.872  -12.560 1.0 98.56 ? 96  CYS A CA  1 L8IIC8 UNP 96  C 
+ATOM 755  C C   . CYS A 1 96  ? 0.108   -0.109  -12.706 1.0 98.56 ? 96  CYS A C   1 L8IIC8 UNP 96  C 
+ATOM 756  C CB  . CYS A 1 96  ? 2.582   0.134   -12.447 1.0 98.56 ? 96  CYS A CB  1 L8IIC8 UNP 96  C 
+ATOM 757  O O   . CYS A 1 96  ? -0.418  0.362   -11.706 1.0 98.56 ? 96  CYS A O   1 L8IIC8 UNP 96  C 
+ATOM 758  S SG  . CYS A 1 96  ? 4.221   -0.547  -12.092 1.0 98.56 ? 96  CYS A SG  1 L8IIC8 UNP 96  C 
+ATOM 759  N N   . ASP A 1 97  ? -0.447  0.002   -13.919 1.0 97.69 ? 97  ASP A N   1 L8IIC8 UNP 97  D 
+ATOM 760  C CA  . ASP A 1 97  ? -1.762  0.617   -14.155 1.0 97.69 ? 97  ASP A CA  1 L8IIC8 UNP 97  D 
+ATOM 761  C C   . ASP A 1 97  ? -2.915  -0.156  -13.511 1.0 97.69 ? 97  ASP A C   1 L8IIC8 UNP 97  D 
+ATOM 762  C CB  . ASP A 1 97  ? -2.026  0.765   -15.664 1.0 97.69 ? 97  ASP A CB  1 L8IIC8 UNP 97  D 
+ATOM 763  O O   . ASP A 1 97  ? -3.969  0.426   -13.289 1.0 97.69 ? 97  ASP A O   1 L8IIC8 UNP 97  D 
+ATOM 764  C CG  . ASP A 1 97  ? -2.036  -0.580  -16.395 1.0 97.69 ? 97  ASP A CG  1 L8IIC8 UNP 97  D 
+ATOM 765  O OD1 . ASP A 1 97  ? -0.920  -1.126  -16.537 1.0 97.69 ? 97  ASP A OD1 1 L8IIC8 UNP 97  D 
+ATOM 766  O OD2 . ASP A 1 97  ? -3.101  -1.072  -16.826 1.0 97.69 ? 97  ASP A OD2 1 L8IIC8 UNP 97  D 
+ATOM 767  N N   . LYS A 1 98  ? -2.710  -1.436  -13.179 1.0 98.38 ? 98  LYS A N   1 L8IIC8 UNP 98  K 
+ATOM 768  C CA  . LYS A 1 98  ? -3.712  -2.240  -12.475 1.0 98.38 ? 98  LYS A CA  1 L8IIC8 UNP 98  K 
+ATOM 769  C C   . LYS A 1 98  ? -3.975  -1.776  -11.054 1.0 98.38 ? 98  LYS A C   1 L8IIC8 UNP 98  K 
+ATOM 770  C CB  . LYS A 1 98  ? -3.321  -3.725  -12.526 1.0 98.38 ? 98  LYS A CB  1 L8IIC8 UNP 98  K 
+ATOM 771  O O   . LYS A 1 98  ? -5.113  -1.779  -10.629 1.0 98.38 ? 98  LYS A O   1 L8IIC8 UNP 98  K 
+ATOM 772  C CG  . LYS A 1 98  ? -3.405  -4.334  -13.939 1.0 98.38 ? 98  LYS A CG  1 L8IIC8 UNP 98  K 
+ATOM 773  C CD  . LYS A 1 98  ? -4.781  -3.989  -14.505 1.0 98.38 ? 98  LYS A CD  1 L8IIC8 UNP 98  K 
+ATOM 774  C CE  . LYS A 1 98  ? -5.265  -4.782  -15.698 1.0 98.38 ? 98  LYS A CE  1 L8IIC8 UNP 98  K 
+ATOM 775  N NZ  . LYS A 1 98  ? -6.665  -4.343  -15.888 1.0 98.38 ? 98  LYS A NZ  1 L8IIC8 UNP 98  K 
+ATOM 776  N N   . PHE A 1 99  ? -2.968  -1.209  -10.404 1.0 98.44 ? 99  PHE A N   1 L8IIC8 UNP 99  F 
+ATOM 777  C CA  . PHE A 1 99  ? -3.131  -0.620  -9.076  1.0 98.44 ? 99  PHE A CA  1 L8IIC8 UNP 99  F 
+ATOM 778  C C   . PHE A 1 99  ? -3.827  0.748   -9.089  1.0 98.44 ? 99  PHE A C   1 L8IIC8 UNP 99  F 
+ATOM 779  C CB  . PHE A 1 99  ? -1.750  -0.523  -8.420  1.0 98.44 ? 99  PHE A CB  1 L8IIC8 UNP 99  F 
+ATOM 780  O O   . PHE A 1 99  ? -3.832  1.430   -8.071  1.0 98.44 ? 99  PHE A O   1 L8IIC8 UNP 99  F 
+ATOM 781  C CG  . PHE A 1 99  ? -0.949  -1.809  -8.378  1.0 98.44 ? 99  PHE A CG  1 L8IIC8 UNP 99  F 
+ATOM 782  C CD1 . PHE A 1 99  ? -1.579  -3.059  -8.209  1.0 98.44 ? 99  PHE A CD1 1 L8IIC8 UNP 99  F 
+ATOM 783  C CD2 . PHE A 1 99  ? 0.452   -1.741  -8.453  1.0 98.44 ? 99  PHE A CD2 1 L8IIC8 UNP 99  F 
+ATOM 784  C CE1 . PHE A 1 99  ? -0.813  -4.231  -8.121  1.0 98.44 ? 99  PHE A CE1 1 L8IIC8 UNP 99  F 
+ATOM 785  C CE2 . PHE A 1 99  ? 1.217   -2.909  -8.327  1.0 98.44 ? 99  PHE A CE2 1 L8IIC8 UNP 99  F 
+ATOM 786  C CZ  . PHE A 1 99  ? 0.589   -4.156  -8.173  1.0 98.44 ? 99  PHE A CZ  1 L8IIC8 UNP 99  F 
+ATOM 787  N N   . LEU A 1 100 ? -4.311  1.212   -10.247 1.0 97.75 ? 100 LEU A N   1 L8IIC8 UNP 100 L 
+ATOM 788  C CA  . LEU A 1 100 ? -4.990  2.502   -10.404 1.0 97.75 ? 100 LEU A CA  1 L8IIC8 UNP 100 L 
+ATOM 789  C C   . LEU A 1 100 ? -6.474  2.352   -10.756 1.0 97.75 ? 100 LEU A C   1 L8IIC8 UNP 100 L 
+ATOM 790  C CB  . LEU A 1 100 ? -4.267  3.358   -11.458 1.0 97.75 ? 100 LEU A CB  1 L8IIC8 UNP 100 L 
+ATOM 791  O O   . LEU A 1 100 ? -7.116  3.350   -11.086 1.0 97.75 ? 100 LEU A O   1 L8IIC8 UNP 100 L 
+ATOM 792  C CG  . LEU A 1 100 ? -2.789  3.666   -11.180 1.0 97.75 ? 100 LEU A CG  1 L8IIC8 UNP 100 L 
+ATOM 793  C CD1 . LEU A 1 100 ? -2.255  4.462   -12.376 1.0 97.75 ? 100 LEU A CD1 1 L8IIC8 UNP 100 L 
+ATOM 794  C CD2 . LEU A 1 100 ? -2.589  4.499   -9.910  1.0 97.75 ? 100 LEU A CD2 1 L8IIC8 UNP 100 L 
+ATOM 795  N N   . ASP A 1 101 ? -7.001  1.128   -10.759 1.0 94.12 ? 101 ASP A N   1 L8IIC8 UNP 101 D 
+ATOM 796  C CA  . ASP A 1 101 ? -8.429  0.884   -10.921 1.0 94.12 ? 101 ASP A CA  1 L8IIC8 UNP 101 D 
+ATOM 797  C C   . ASP A 1 101 ? -9.115  0.638   -9.565  1.0 94.12 ? 101 ASP A C   1 L8IIC8 UNP 101 D 
+ATOM 798  C CB  . ASP A 1 101 ? -8.677  -0.148  -12.045 1.0 94.12 ? 101 ASP A CB  1 L8IIC8 UNP 101 D 
+ATOM 799  O O   . ASP A 1 101 ? -8.492  0.708   -8.503  1.0 94.12 ? 101 ASP A O   1 L8IIC8 UNP 101 D 
+ATOM 800  C CG  . ASP A 1 101 ? -8.324  -1.612  -11.760 1.0 94.12 ? 101 ASP A CG  1 L8IIC8 UNP 101 D 
+ATOM 801  O OD1 . ASP A 1 101 ? -8.664  -2.059  -10.650 1.0 94.12 ? 101 ASP A OD1 1 L8IIC8 UNP 101 D 
+ATOM 802  O OD2 . ASP A 1 101 ? -7.915  -2.298  -12.742 1.0 94.12 ? 101 ASP A OD2 1 L8IIC8 UNP 101 D 
+ATOM 803  N N   . ASP A 1 102 ? -10.435 0.460   -9.594  1.0 88.75 ? 102 ASP A N   1 L8IIC8 UNP 102 D 
+ATOM 804  C CA  . ASP A 1 102 ? -11.241 0.335   -8.377  1.0 88.75 ? 102 ASP A CA  1 L8IIC8 UNP 102 D 
+ATOM 805  C C   . ASP A 1 102 ? -11.295 -1.126  -7.860  1.0 88.75 ? 102 ASP A C   1 L8IIC8 UNP 102 D 
+ATOM 806  C CB  . ASP A 1 102 ? -12.634 0.960   -8.612  1.0 88.75 ? 102 ASP A CB  1 L8IIC8 UNP 102 D 
+ATOM 807  O O   . ASP A 1 102 ? -11.871 -1.391  -6.802  1.0 88.75 ? 102 ASP A O   1 L8IIC8 UNP 102 D 
+ATOM 808  C CG  . ASP A 1 102 ? -12.599 2.386   -9.207  1.0 88.75 ? 102 ASP A CG  1 L8IIC8 UNP 102 D 
+ATOM 809  O OD1 . ASP A 1 102 ? -11.706 3.188   -8.830  1.0 88.75 ? 102 ASP A OD1 1 L8IIC8 UNP 102 D 
+ATOM 810  O OD2 . ASP A 1 102 ? -13.403 2.629   -10.145 1.0 88.75 ? 102 ASP A OD2 1 L8IIC8 UNP 102 D 
+ATOM 811  N N   . ASP A 1 103 ? -10.703 -2.096  -8.577  1.0 94.62 ? 103 ASP A N   1 L8IIC8 UNP 103 D 
+ATOM 812  C CA  . ASP A 1 103 ? -10.637 -3.508  -8.177  1.0 94.62 ? 103 ASP A CA  1 L8IIC8 UNP 103 D 
+ATOM 813  C C   . ASP A 1 103 ? -9.352  -3.818  -7.397  1.0 94.62 ? 103 ASP A C   1 L8IIC8 UNP 103 D 
+ATOM 814  C CB  . ASP A 1 103 ? -10.813 -4.452  -9.384  1.0 94.62 ? 103 ASP A CB  1 L8IIC8 UNP 103 D 
+ATOM 815  O O   . ASP A 1 103 ? -8.350  -4.289  -7.928  1.0 94.62 ? 103 ASP A O   1 L8IIC8 UNP 103 D 
+ATOM 816  C CG  . ASP A 1 103 ? -10.785 -5.944  -8.996  1.0 94.62 ? 103 ASP A CG  1 L8IIC8 UNP 103 D 
+ATOM 817  O OD1 . ASP A 1 103 ? -10.826 -6.278  -7.782  1.0 94.62 ? 103 ASP A OD1 1 L8IIC8 UNP 103 D 
+ATOM 818  O OD2 . ASP A 1 103 ? -10.817 -6.802  -9.913  1.0 94.62 ? 103 ASP A OD2 1 L8IIC8 UNP 103 D 
+ATOM 819  N N   . LEU A 1 104 ? -9.435  -3.692  -6.073  1.0 97.12 ? 104 LEU A N   1 L8IIC8 UNP 104 L 
+ATOM 820  C CA  . LEU A 1 104 ? -8.311  -3.949  -5.166  1.0 97.12 ? 104 LEU A CA  1 L8IIC8 UNP 104 L 
+ATOM 821  C C   . LEU A 1 104 ? -7.894  -5.428  -5.059  1.0 97.12 ? 104 LEU A C   1 L8IIC8 UNP 104 L 
+ATOM 822  C CB  . LEU A 1 104 ? -8.650  -3.375  -3.780  1.0 97.12 ? 104 LEU A CB  1 L8IIC8 UNP 104 L 
+ATOM 823  O O   . LEU A 1 104 ? -7.016  -5.769  -4.256  1.0 97.12 ? 104 LEU A O   1 L8IIC8 UNP 104 L 
+ATOM 824  C CG  . LEU A 1 104 ? -8.905  -1.858  -3.774  1.0 97.12 ? 104 LEU A CG  1 L8IIC8 UNP 104 L 
+ATOM 825  C CD1 . LEU A 1 104 ? -9.297  -1.442  -2.357  1.0 97.12 ? 104 LEU A CD1 1 L8IIC8 UNP 104 L 
+ATOM 826  C CD2 . LEU A 1 104 ? -7.666  -1.064  -4.188  1.0 97.12 ? 104 LEU A CD2 1 L8IIC8 UNP 104 L 
+ATOM 827  N N   . THR A 1 105 ? -8.522  -6.346  -5.800  1.0 97.94 ? 105 THR A N   1 L8IIC8 UNP 105 T 
+ATOM 828  C CA  . THR A 1 105 ? -8.208  -7.777  -5.717  1.0 97.94 ? 105 THR A CA  1 L8IIC8 UNP 105 T 
+ATOM 829  C C   . THR A 1 105 ? -6.745  -8.040  -6.069  1.0 97.94 ? 105 THR A C   1 L8IIC8 UNP 105 T 
+ATOM 830  C CB  . THR A 1 105 ? -9.112  -8.606  -6.644  1.0 97.94 ? 105 THR A CB  1 L8IIC8 UNP 105 T 
+ATOM 831  O O   . THR A 1 105 ? -6.066  -8.811  -5.375  1.0 97.94 ? 105 THR A O   1 L8IIC8 UNP 105 T 
+ATOM 832  C CG2 . THR A 1 105 ? -8.874  -10.110 -6.491  1.0 97.94 ? 105 THR A CG2 1 L8IIC8 UNP 105 T 
+ATOM 833  O OG1 . THR A 1 105 ? -10.464 -8.410  -6.324  1.0 97.94 ? 105 THR A OG1 1 L8IIC8 UNP 105 T 
+ATOM 834  N N   . ASP A 1 106 ? -6.236  -7.414  -7.131  1.0 98.31 ? 106 ASP A N   1 L8IIC8 UNP 106 D 
+ATOM 835  C CA  . ASP A 1 106 ? -4.862  -7.631  -7.576  1.0 98.31 ? 106 ASP A CA  1 L8IIC8 UNP 106 D 
+ATOM 836  C C   . ASP A 1 106 ? -3.820  -6.832  -6.776  1.0 98.31 ? 106 ASP A C   1 L8IIC8 UNP 106 D 
+ATOM 837  C CB  . ASP A 1 106 ? -4.766  -7.570  -9.104  1.0 98.31 ? 106 ASP A CB  1 L8IIC8 UNP 106 D 
+ATOM 838  O O   . ASP A 1 106 ? -2.750  -7.380  -6.461  1.0 98.31 ? 106 ASP A O   1 L8IIC8 UNP 106 D 
+ATOM 839  C CG  . ASP A 1 106 ? -4.885  -6.192  -9.748  1.0 98.31 ? 106 ASP A CG  1 L8IIC8 UNP 106 D 
+ATOM 840  O OD1 . ASP A 1 106 ? -4.341  -5.255  -9.141  1.0 98.31 ? 106 ASP A OD1 1 L8IIC8 UNP 106 D 
+ATOM 841  O OD2 . ASP A 1 106 ? -5.284  -6.187  -10.935 1.0 98.31 ? 106 ASP A OD2 1 L8IIC8 UNP 106 D 
+ATOM 842  N N   . ASP A 1 107 ? -4.189  -5.652  -6.274  1.0 98.62 ? 107 ASP A N   1 L8IIC8 UNP 107 D 
+ATOM 843  C CA  . ASP A 1 107 ? -3.454  -4.917  -5.250  1.0 98.62 ? 107 ASP A CA  1 L8IIC8 UNP 107 D 
+ATOM 844  C C   . ASP A 1 107 ? -3.218  -5.784  -4.016  1.0 98.62 ? 107 ASP A C   1 L8IIC8 UNP 107 D 
+ATOM 845  C CB  . ASP A 1 107 ? -4.236  -3.682  -4.799  1.0 98.62 ? 107 ASP A CB  1 L8IIC8 UNP 107 D 
+ATOM 846  O O   . ASP A 1 107 ? -2.076  -5.990  -3.595  1.0 98.62 ? 107 ASP A O   1 L8IIC8 UNP 107 D 
+ATOM 847  C CG  . ASP A 1 107 ? -4.432  -2.670  -5.907  1.0 98.62 ? 107 ASP A CG  1 L8IIC8 UNP 107 D 
+ATOM 848  O OD1 . ASP A 1 107 ? -3.724  -1.640  -5.844  1.0 98.62 ? 107 ASP A OD1 1 L8IIC8 UNP 107 D 
+ATOM 849  O OD2 . ASP A 1 107 ? -5.273  -2.969  -6.765  1.0 98.62 ? 107 ASP A OD2 1 L8IIC8 UNP 107 D 
+ATOM 850  N N   . ILE A 1 108 ? -4.284  -6.362  -3.451  1.0 98.62 ? 108 ILE A N   1 L8IIC8 UNP 108 I 
+ATOM 851  C CA  . ILE A 1 108 ? -4.229  -7.198  -2.245  1.0 98.62 ? 108 ILE A CA  1 L8IIC8 UNP 108 I 
+ATOM 852  C C   . ILE A 1 108 ? -3.346  -8.430  -2.479  1.0 98.62 ? 108 ILE A C   1 L8IIC8 UNP 108 I 
+ATOM 853  C CB  . ILE A 1 108 ? -5.663  -7.572  -1.795  1.0 98.62 ? 108 ILE A CB  1 L8IIC8 UNP 108 I 
+ATOM 854  O O   . ILE A 1 108 ? -2.581  -8.827  -1.590  1.0 98.62 ? 108 ILE A O   1 L8IIC8 UNP 108 I 
+ATOM 855  C CG1 . ILE A 1 108 ? -6.358  -6.332  -1.183  1.0 98.62 ? 108 ILE A CG1 1 L8IIC8 UNP 108 I 
+ATOM 856  C CG2 . ILE A 1 108 ? -5.659  -8.735  -0.778  1.0 98.62 ? 108 ILE A CG2 1 L8IIC8 UNP 108 I 
+ATOM 857  C CD1 . ILE A 1 108 ? -7.872  -6.502  -0.995  1.0 98.62 ? 108 ILE A CD1 1 L8IIC8 UNP 108 I 
+ATOM 858  N N   . MET A 1 109 ? -3.399  -9.038  -3.669  1.0 98.62 ? 109 MET A N   1 L8IIC8 UNP 109 M 
+ATOM 859  C CA  . MET A 1 109 ? -2.498  -10.139 -4.025  1.0 98.62 ? 109 MET A CA  1 L8IIC8 UNP 109 M 
+ATOM 860  C C   . MET A 1 109 ? -1.030  -9.700  -4.028  1.0 98.62 ? 109 MET A C   1 L8IIC8 UNP 109 M 
+ATOM 861  C CB  . MET A 1 109 ? -2.860  -10.722 -5.398  1.0 98.62 ? 109 MET A CB  1 L8IIC8 UNP 109 M 
+ATOM 862  O O   . MET A 1 109 ? -0.165  -10.439 -3.544  1.0 98.62 ? 109 MET A O   1 L8IIC8 UNP 109 M 
+ATOM 863  C CG  . MET A 1 109 ? -4.112  -11.600 -5.357  1.0 98.62 ? 109 MET A CG  1 L8IIC8 UNP 109 M 
+ATOM 864  S SD  . MET A 1 109 ? -4.403  -12.530 -6.890  1.0 98.62 ? 109 MET A SD  1 L8IIC8 UNP 109 M 
+ATOM 865  C CE  . MET A 1 109 ? -4.870  -11.180 -8.010  1.0 98.62 ? 109 MET A CE  1 L8IIC8 UNP 109 M 
+ATOM 866  N N   . CYS A 1 110 ? -0.727  -8.508  -4.543  1.0 98.81 ? 110 CYS A N   1 L8IIC8 UNP 110 C 
+ATOM 867  C CA  . CYS A 1 110 ? 0.628   -7.968  -4.523  1.0 98.81 ? 110 CYS A CA  1 L8IIC8 UNP 110 C 
+ATOM 868  C C   . CYS A 1 110 ? 1.074   -7.595  -3.100  1.0 98.81 ? 110 CYS A C   1 L8IIC8 UNP 110 C 
+ATOM 869  C CB  . CYS A 1 110 ? 0.711   -6.788  -5.494  1.0 98.81 ? 110 CYS A CB  1 L8IIC8 UNP 110 C 
+ATOM 870  O O   . CYS A 1 110 ? 2.173   -7.967  -2.687  1.0 98.81 ? 110 CYS A O   1 L8IIC8 UNP 110 C 
+ATOM 871  S SG  . CYS A 1 110 ? 2.384   -6.124  -5.729  1.0 98.81 ? 110 CYS A SG  1 L8IIC8 UNP 110 C 
+ATOM 872  N N   . VAL A 1 111 ? 0.203   -6.978  -2.300  1.0 98.75 ? 111 VAL A N   1 L8IIC8 UNP 111 V 
+ATOM 873  C CA  . VAL A 1 111 ? 0.440   -6.655  -0.883  1.0 98.75 ? 111 VAL A CA  1 L8IIC8 UNP 111 V 
+ATOM 874  C C   . VAL A 1 111 ? 0.817   -7.900  -0.084  1.0 98.75 ? 111 VAL A C   1 L8IIC8 UNP 111 V 
+ATOM 875  C CB  . VAL A 1 111 ? -0.805  -5.977  -0.280  1.0 98.75 ? 111 VAL A CB  1 L8IIC8 UNP 111 V 
+ATOM 876  O O   . VAL A 1 111 ? 1.783   -7.866  0.677   1.0 98.75 ? 111 VAL A O   1 L8IIC8 UNP 111 V 
+ATOM 877  C CG1 . VAL A 1 111 ? -0.762  -5.875  1.249   1.0 98.75 ? 111 VAL A CG1 1 L8IIC8 UNP 111 V 
+ATOM 878  C CG2 . VAL A 1 111 ? -0.962  -4.562  -0.834  1.0 98.75 ? 111 VAL A CG2 1 L8IIC8 UNP 111 V 
+ATOM 879  N N   . LYS A 1 112 ? 0.137   -9.033  -0.295  1.0 98.75 ? 112 LYS A N   1 L8IIC8 UNP 112 K 
+ATOM 880  C CA  . LYS A 1 112 ? 0.503   -10.309 0.347   1.0 98.75 ? 112 LYS A CA  1 L8IIC8 UNP 112 K 
+ATOM 881  C C   . LYS A 1 112 ? 1.932   -10.739 -0.003  1.0 98.75 ? 112 LYS A C   1 L8IIC8 UNP 112 K 
+ATOM 882  C CB  . LYS A 1 112 ? -0.533  -11.390 -0.002  1.0 98.75 ? 112 LYS A CB  1 L8IIC8 UNP 112 K 
+ATOM 883  O O   . LYS A 1 112 ? 2.697   -11.079 0.897   1.0 98.75 ? 112 LYS A O   1 L8IIC8 UNP 112 K 
+ATOM 884  C CG  . LYS A 1 112 ? -1.838  -11.153 0.773   1.0 98.75 ? 112 LYS A CG  1 L8IIC8 UNP 112 K 
+ATOM 885  C CD  . LYS A 1 112 ? -2.963  -12.118 0.375   1.0 98.75 ? 112 LYS A CD  1 L8IIC8 UNP 112 K 
+ATOM 886  C CE  . LYS A 1 112 ? -4.171  -11.802 1.270   1.0 98.75 ? 112 LYS A CE  1 L8IIC8 UNP 112 K 
+ATOM 887  N NZ  . LYS A 1 112 ? -5.412  -12.529 0.904   1.0 98.75 ? 112 LYS A NZ  1 L8IIC8 UNP 112 K 
+ATOM 888  N N   . LYS A 1 113 ? 2.349   -10.612 -1.271  1.0 98.75 ? 113 LYS A N   1 L8IIC8 UNP 113 K 
+ATOM 889  C CA  . LYS A 1 113 ? 3.744   -10.872 -1.685  1.0 98.75 ? 113 LYS A CA  1 L8IIC8 UNP 113 K 
+ATOM 890  C C   . LYS A 1 113 ? 4.741   -9.917  -1.019  1.0 98.75 ? 113 LYS A C   1 L8IIC8 UNP 113 K 
+ATOM 891  C CB  . LYS A 1 113 ? 3.900   -10.769 -3.212  1.0 98.75 ? 113 LYS A CB  1 L8IIC8 UNP 113 K 
+ATOM 892  O O   . LYS A 1 113 ? 5.850   -10.340 -0.689  1.0 98.75 ? 113 LYS A O   1 L8IIC8 UNP 113 K 
+ATOM 893  C CG  . LYS A 1 113 ? 3.146   -11.842 -4.008  1.0 98.75 ? 113 LYS A CG  1 L8IIC8 UNP 113 K 
+ATOM 894  C CD  . LYS A 1 113 ? 3.315   -11.563 -5.509  1.0 98.75 ? 113 LYS A CD  1 L8IIC8 UNP 113 K 
+ATOM 895  C CE  . LYS A 1 113 ? 2.670   -12.653 -6.372  1.0 98.75 ? 113 LYS A CE  1 L8IIC8 UNP 113 K 
+ATOM 896  N NZ  . LYS A 1 113 ? 2.896   -12.404 -7.824  1.0 98.75 ? 113 LYS A NZ  1 L8IIC8 UNP 113 K 
+ATOM 897  N N   . ILE A 1 114 ? 4.372   -8.647  -0.838  1.0 98.69 ? 114 ILE A N   1 L8IIC8 UNP 114 I 
+ATOM 898  C CA  . ILE A 1 114 ? 5.196   -7.653  -0.133  1.0 98.69 ? 114 ILE A CA  1 L8IIC8 UNP 114 I 
+ATOM 899  C C   . ILE A 1 114 ? 5.358   -8.054  1.334   1.0 98.69 ? 114 ILE A C   1 L8IIC8 UNP 114 I 
+ATOM 900  C CB  . ILE A 1 114 ? 4.613   -6.226  -0.282  1.0 98.69 ? 114 ILE A CB  1 L8IIC8 UNP 114 I 
+ATOM 901  O O   . ILE A 1 114 ? 6.481   -8.101  1.836   1.0 98.69 ? 114 ILE A O   1 L8IIC8 UNP 114 I 
+ATOM 902  C CG1 . ILE A 1 114 ? 4.644   -5.779  -1.758  1.0 98.69 ? 114 ILE A CG1 1 L8IIC8 UNP 114 I 
+ATOM 903  C CG2 . ILE A 1 114 ? 5.408   -5.226  0.582   1.0 98.69 ? 114 ILE A CG2 1 L8IIC8 UNP 114 I 
+ATOM 904  C CD1 . ILE A 1 114 ? 3.893   -4.482  -2.073  1.0 98.69 ? 114 ILE A CD1 1 L8IIC8 UNP 114 I 
+ATOM 905  N N   . LEU A 1 115 ? 4.265   -8.415  2.008   1.0 98.38 ? 115 LEU A N   1 L8IIC8 UNP 115 L 
+ATOM 906  C CA  . LEU A 1 115 ? 4.284   -8.860  3.402   1.0 98.38 ? 115 LEU A CA  1 L8IIC8 UNP 115 L 
+ATOM 907  C C   . LEU A 1 115 ? 5.138   -10.117 3.594   1.0 98.38 ? 115 LEU A C   1 L8IIC8 UNP 115 L 
+ATOM 908  C CB  . LEU A 1 115 ? 2.847   -9.105  3.883   1.0 98.38 ? 115 LEU A CB  1 L8IIC8 UNP 115 L 
+ATOM 909  O O   . LEU A 1 115 ? 5.929   -10.163 4.531   1.0 98.38 ? 115 LEU A O   1 L8IIC8 UNP 115 L 
+ATOM 910  C CG  . LEU A 1 115 ? 2.016   -7.820  4.020   1.0 98.38 ? 115 LEU A CG  1 L8IIC8 UNP 115 L 
+ATOM 911  C CD1 . LEU A 1 115 ? 0.537   -8.184  4.141   1.0 98.38 ? 115 LEU A CD1 1 L8IIC8 UNP 115 L 
+ATOM 912  C CD2 . LEU A 1 115 ? 2.452   -6.999  5.239   1.0 98.38 ? 115 LEU A CD2 1 L8IIC8 UNP 115 L 
+ATOM 913  N N   . ASP A 1 116 ? 5.052   -11.089 2.686   1.0 98.31 ? 116 ASP A N   1 L8IIC8 UNP 116 D 
+ATOM 914  C CA  . ASP A 1 116 ? 5.837   -12.327 2.772   1.0 98.31 ? 116 ASP A CA  1 L8IIC8 UNP 116 D 
+ATOM 915  C C   . ASP A 1 116 ? 7.346   -12.093 2.597   1.0 98.31 ? 116 ASP A C   1 L8IIC8 UNP 116 D 
+ATOM 916  C CB  . ASP A 1 116 ? 5.370   -13.309 1.688   1.0 98.31 ? 116 ASP A CB  1 L8IIC8 UNP 116 D 
+ATOM 917  O O   . ASP A 1 116 ? 8.164   -12.831 3.146   1.0 98.31 ? 116 ASP A O   1 L8IIC8 UNP 116 D 
+ATOM 918  C CG  . ASP A 1 116 ? 3.949   -13.841 1.876   1.0 98.31 ? 116 ASP A CG  1 L8IIC8 UNP 116 D 
+ATOM 919  O OD1 . ASP A 1 116 ? 3.387   -13.740 2.989   1.0 98.31 ? 116 ASP A OD1 1 L8IIC8 UNP 116 D 
+ATOM 920  O OD2 . ASP A 1 116 ? 3.422   -14.385 0.884   1.0 98.31 ? 116 ASP A OD2 1 L8IIC8 UNP 116 D 
+ATOM 921  N N   . LYS A 1 117 ? 7.734   -11.089 1.798   1.0 98.06 ? 117 LYS A N   1 L8IIC8 UNP 117 K 
+ATOM 922  C CA  . LYS A 1 117 ? 9.140   -10.824 1.445   1.0 98.06 ? 117 LYS A CA  1 L8IIC8 UNP 117 K 
+ATOM 923  C C   . LYS A 1 117 ? 9.810   -9.762  2.311   1.0 98.06 ? 117 LYS A C   1 L8IIC8 UNP 117 K 
+ATOM 924  C CB  . LYS A 1 117 ? 9.224   -10.427 -0.032  1.0 98.06 ? 117 LYS A CB  1 L8IIC8 UNP 117 K 
+ATOM 925  O O   . LYS A 1 117 ? 11.003  -9.870  2.578   1.0 98.06 ? 117 LYS A O   1 L8IIC8 UNP 117 K 
+ATOM 926  C CG  . LYS A 1 117 ? 9.004   -11.629 -0.953  1.0 98.06 ? 117 LYS A CG  1 L8IIC8 UNP 117 K 
+ATOM 927  C CD  . LYS A 1 117 ? 9.117   -11.197 -2.420  1.0 98.06 ? 117 LYS A CD  1 L8IIC8 UNP 117 K 
+ATOM 928  C CE  . LYS A 1 117 ? 9.008   -12.391 -3.373  1.0 98.06 ? 117 LYS A CE  1 L8IIC8 UNP 117 K 
+ATOM 929  N NZ  . LYS A 1 117 ? 10.116  -13.356 -3.172  1.0 98.06 ? 117 LYS A NZ  1 L8IIC8 UNP 117 K 
+ATOM 930  N N   . VAL A 1 118 ? 9.072   -8.721  2.683   1.0 97.88 ? 118 VAL A N   1 L8IIC8 UNP 118 V 
+ATOM 931  C CA  . VAL A 1 118 ? 9.583   -7.516  3.361   1.0 97.88 ? 118 VAL A CA  1 L8IIC8 UNP 118 V 
+ATOM 932  C C   . VAL A 1 118 ? 8.883   -7.291  4.700   1.0 97.88 ? 118 VAL A C   1 L8IIC8 UNP 118 V 
+ATOM 933  C CB  . VAL A 1 118 ? 9.418   -6.279  2.449   1.0 97.88 ? 118 VAL A CB  1 L8IIC8 UNP 118 V 
+ATOM 934  O O   . VAL A 1 118 ? 9.505   -6.818  5.653   1.0 97.88 ? 118 VAL A O   1 L8IIC8 UNP 118 V 
+ATOM 935  C CG1 . VAL A 1 118 ? 10.003  -5.010  3.084   1.0 97.88 ? 118 VAL A CG1 1 L8IIC8 UNP 118 V 
+ATOM 936  C CG2 . VAL A 1 118 ? 10.133  -6.486  1.105   1.0 97.88 ? 118 VAL A CG2 1 L8IIC8 UNP 118 V 
+ATOM 937  N N   . GLY A 1 119 ? 7.606   -7.656  4.794   1.0 97.62 ? 119 GLY A N   1 L8IIC8 UNP 119 G 
+ATOM 938  C CA  . GLY A 1 119 ? 6.763   -7.382  5.953   1.0 97.62 ? 119 GLY A CA  1 L8IIC8 UNP 119 G 
+ATOM 939  C C   . GLY A 1 119 ? 6.177   -5.970  5.945   1.0 97.62 ? 119 GLY A C   1 L8IIC8 UNP 119 G 
+ATOM 940  O O   . GLY A 1 119 ? 6.410   -5.169  5.039   1.0 97.62 ? 119 GLY A O   1 L8IIC8 UNP 119 G 
+ATOM 941  N N   . ILE A 1 120 ? 5.417   -5.655  6.996   1.0 97.00 ? 120 ILE A N   1 L8IIC8 UNP 120 I 
+ATOM 942  C CA  . ILE A 1 120 ? 4.656   -4.399  7.121   1.0 97.00 ? 120 ILE A CA  1 L8IIC8 UNP 120 I 
+ATOM 943  C C   . ILE A 1 120 ? 5.537   -3.134  7.117   1.0 97.00 ? 120 ILE A C   1 L8IIC8 UNP 120 I 
+ATOM 944  C CB  . ILE A 1 120 ? 3.751   -4.492  8.369   1.0 97.00 ? 120 ILE A CB  1 L8IIC8 UNP 120 I 
+ATOM 945  O O   . ILE A 1 120 ? 5.068   -2.044  6.813   1.0 97.00 ? 120 ILE A O   1 L8IIC8 UNP 120 I 
+ATOM 946  C CG1 . ILE A 1 120 ? 2.651   -3.416  8.425   1.0 97.00 ? 120 ILE A CG1 1 L8IIC8 UNP 120 I 
+ATOM 947  C CG2 . ILE A 1 120 ? 4.563   -4.446  9.678   1.0 97.00 ? 120 ILE A CG2 1 L8IIC8 UNP 120 I 
+ATOM 948  C CD1 . ILE A 1 120 ? 1.698   -3.368  7.227   1.0 97.00 ? 120 ILE A CD1 1 L8IIC8 UNP 120 I 
+ATOM 949  N N   . ASN A 1 121 ? 6.844   -3.278  7.357   1.0 94.88 ? 121 ASN A N   1 L8IIC8 UNP 121 N 
+ATOM 950  C CA  . ASN A 1 121 ? 7.808   -2.175  7.322   1.0 94.88 ? 121 ASN A CA  1 L8IIC8 UNP 121 N 
+ATOM 951  C C   . ASN A 1 121 ? 8.052   -1.593  5.918   1.0 94.88 ? 121 ASN A C   1 L8IIC8 UNP 121 N 
+ATOM 952  C CB  . ASN A 1 121 ? 9.135   -2.646  7.934   1.0 94.88 ? 121 ASN A CB  1 L8IIC8 UNP 121 N 
+ATOM 953  O O   . ASN A 1 121 ? 8.726   -0.569  5.820   1.0 94.88 ? 121 ASN A O   1 L8IIC8 UNP 121 N 
+ATOM 954  C CG  . ASN A 1 121 ? 9.043   -2.933  9.417   1.0 94.88 ? 121 ASN A CG  1 L8IIC8 UNP 121 N 
+ATOM 955  N ND2 . ASN A 1 121 ? 9.604   -4.034  9.859   1.0 94.88 ? 121 ASN A ND2 1 L8IIC8 UNP 121 N 
+ATOM 956  O OD1 . ASN A 1 121 ? 8.519   -2.172  10.209  1.0 94.88 ? 121 ASN A OD1 1 L8IIC8 UNP 121 N 
+ATOM 957  N N   . TYR A 1 122 ? 7.533   -2.214  4.850   1.0 97.75 ? 122 TYR A N   1 L8IIC8 UNP 122 Y 
+ATOM 958  C CA  . TYR A 1 122 ? 7.483   -1.574  3.531   1.0 97.75 ? 122 TYR A CA  1 L8IIC8 UNP 122 Y 
+ATOM 959  C C   . TYR A 1 122 ? 6.736   -0.229  3.599   1.0 97.75 ? 122 TYR A C   1 L8IIC8 UNP 122 Y 
+ATOM 960  C CB  . TYR A 1 122 ? 6.830   -2.531  2.521   1.0 97.75 ? 122 TYR A CB  1 L8IIC8 UNP 122 Y 
+ATOM 961  O O   . TYR A 1 122 ? 7.178   0.753   3.010   1.0 97.75 ? 122 TYR A O   1 L8IIC8 UNP 122 Y 
+ATOM 962  C CG  . TYR A 1 122 ? 6.662   -1.929  1.135   1.0 97.75 ? 122 TYR A CG  1 L8IIC8 UNP 122 Y 
+ATOM 963  C CD1 . TYR A 1 122 ? 5.448   -1.311  0.787   1.0 97.75 ? 122 TYR A CD1 1 L8IIC8 UNP 122 Y 
+ATOM 964  C CD2 . TYR A 1 122 ? 7.733   -1.914  0.222   1.0 97.75 ? 122 TYR A CD2 1 L8IIC8 UNP 122 Y 
+ATOM 965  C CE1 . TYR A 1 122 ? 5.288   -0.671  -0.454  1.0 97.75 ? 122 TYR A CE1 1 L8IIC8 UNP 122 Y 
+ATOM 966  C CE2 . TYR A 1 122 ? 7.585   -1.265  -1.022  1.0 97.75 ? 122 TYR A CE2 1 L8IIC8 UNP 122 Y 
+ATOM 967  O OH  . TYR A 1 122 ? 6.236   0.027   -2.544  1.0 97.75 ? 122 TYR A OH  1 L8IIC8 UNP 122 Y 
+ATOM 968  C CZ  . TYR A 1 122 ? 6.361   -0.639  -1.364  1.0 97.75 ? 122 TYR A CZ  1 L8IIC8 UNP 122 Y 
+ATOM 969  N N   . TRP A 1 123 ? 5.665   -0.153  4.396   1.0 97.81 ? 123 TRP A N   1 L8IIC8 UNP 123 W 
+ATOM 970  C CA  . TRP A 1 123 ? 4.908   1.076   4.616   1.0 97.81 ? 123 TRP A CA  1 L8IIC8 UNP 123 W 
+ATOM 971  C C   . TRP A 1 123 ? 5.436   1.817   5.846   1.0 97.81 ? 123 TRP A C   1 L8IIC8 UNP 123 W 
+ATOM 972  C CB  . TRP A 1 123 ? 3.417   0.750   4.735   1.0 97.81 ? 123 TRP A CB  1 L8IIC8 UNP 123 W 
+ATOM 973  O O   . TRP A 1 123 ? 5.094   1.498   6.985   1.0 97.81 ? 123 TRP A O   1 L8IIC8 UNP 123 W 
+ATOM 974  C CG  . TRP A 1 123 ? 2.827   0.084   3.533   1.0 97.81 ? 123 TRP A CG  1 L8IIC8 UNP 123 W 
+ATOM 975  C CD1 . TRP A 1 123 ? 2.327   0.714   2.448   1.0 97.81 ? 123 TRP A CD1 1 L8IIC8 UNP 123 W 
+ATOM 976  C CD2 . TRP A 1 123 ? 2.742   -1.341  3.235   1.0 97.81 ? 123 TRP A CD2 1 L8IIC8 UNP 123 W 
+ATOM 977  C CE2 . TRP A 1 123 ? 2.158   -1.503  1.943   1.0 97.81 ? 123 TRP A CE2 1 L8IIC8 UNP 123 W 
+ATOM 978  C CE3 . TRP A 1 123 ? 3.184   -2.507  3.890   1.0 97.81 ? 123 TRP A CE3 1 L8IIC8 UNP 123 W 
+ATOM 979  N NE1 . TRP A 1 123 ? 1.932   -0.216  1.509   1.0 97.81 ? 123 TRP A NE1 1 L8IIC8 UNP 123 W 
+ATOM 980  C CH2 . TRP A 1 123 ? 2.464   -3.903  2.026   1.0 97.81 ? 123 TRP A CH2 1 L8IIC8 UNP 123 W 
+ATOM 981  C CZ2 . TRP A 1 123 ? 2.015   -2.761  1.341   1.0 97.81 ? 123 TRP A CZ2 1 L8IIC8 UNP 123 W 
+ATOM 982  C CZ3 . TRP A 1 123 ? 3.051   -3.776  3.297   1.0 97.81 ? 123 TRP A CZ3 1 L8IIC8 UNP 123 W 
+ATOM 983  N N   . LEU A 1 124 ? 6.249   2.855   5.626   1.0 95.69 ? 124 LEU A N   1 L8IIC8 UNP 124 L 
+ATOM 984  C CA  . LEU A 1 124 ? 6.865   3.644   6.707   1.0 95.69 ? 124 LEU A CA  1 L8IIC8 UNP 124 L 
+ATOM 985  C C   . LEU A 1 124 ? 5.839   4.241   7.686   1.0 95.69 ? 124 LEU A C   1 L8IIC8 UNP 124 L 
+ATOM 986  C CB  . LEU A 1 124 ? 7.709   4.775   6.093   1.0 95.69 ? 124 LEU A CB  1 L8IIC8 UNP 124 L 
+ATOM 987  O O   . LEU A 1 124 ? 6.120   4.358   8.882   1.0 95.69 ? 124 LEU A O   1 L8IIC8 UNP 124 L 
+ATOM 988  C CG  . LEU A 1 124 ? 8.915   4.313   5.256   1.0 95.69 ? 124 LEU A CG  1 L8IIC8 UNP 124 L 
+ATOM 989  C CD1 . LEU A 1 124 ? 9.626   5.540   4.682   1.0 95.69 ? 124 LEU A CD1 1 L8IIC8 UNP 124 L 
+ATOM 990  C CD2 . LEU A 1 124 ? 9.926   3.520   6.089   1.0 95.69 ? 124 LEU A CD2 1 L8IIC8 UNP 124 L 
+ATOM 991  N N   . ALA A 1 125 ? 4.646   4.580   7.188   1.0 94.81 ? 125 ALA A N   1 L8IIC8 UNP 125 A 
+ATOM 992  C CA  . ALA A 1 125 ? 3.545   5.091   7.993   1.0 94.81 ? 125 ALA A CA  1 L8IIC8 UNP 125 A 
+ATOM 993  C C   . ALA A 1 125 ? 3.110   4.114   9.096   1.0 94.81 ? 125 ALA A C   1 L8IIC8 UNP 125 A 
+ATOM 994  C CB  . ALA A 1 125 ? 2.373   5.411   7.061   1.0 94.81 ? 125 ALA A CB  1 L8IIC8 UNP 125 A 
+ATOM 995  O O   . ALA A 1 125 ? 2.774   4.559   10.194  1.0 94.81 ? 125 ALA A O   1 L8IIC8 UNP 125 A 
+ATOM 996  N N   . HIS A 1 126 ? 3.176   2.797   8.854   1.0 96.38 ? 126 HIS A N   1 L8IIC8 UNP 126 H 
+ATOM 997  C CA  . HIS A 1 126 ? 2.715   1.800   9.823   1.0 96.38 ? 126 HIS A CA  1 L8IIC8 UNP 126 H 
+ATOM 998  C C   . HIS A 1 126 ? 3.495   1.892   11.138  1.0 96.38 ? 126 HIS A C   1 L8IIC8 UNP 126 H 
+ATOM 999  C CB  . HIS A 1 126 ? 2.791   0.383   9.240   1.0 96.38 ? 126 HIS A CB  1 L8IIC8 UNP 126 H 
+ATOM 1000 O O   . HIS A 1 126 ? 2.915   2.092   12.209  1.0 96.38 ? 126 HIS A O   1 L8IIC8 UNP 126 H 
+ATOM 1001 C CG  . HIS A 1 126 ? 2.451   -0.662  10.273  1.0 96.38 ? 126 HIS A CG  1 L8IIC8 UNP 126 H 
+ATOM 1002 C CD2 . HIS A 1 126 ? 1.201   -1.112  10.586  1.0 96.38 ? 126 HIS A CD2 1 L8IIC8 UNP 126 H 
+ATOM 1003 N ND1 . HIS A 1 126 ? 3.379   -1.259  11.129  1.0 96.38 ? 126 HIS A ND1 1 L8IIC8 UNP 126 H 
+ATOM 1004 C CE1 . HIS A 1 126 ? 2.663   -2.054  11.941  1.0 96.38 ? 126 HIS A CE1 1 L8IIC8 UNP 126 H 
+ATOM 1005 N NE2 . HIS A 1 126 ? 1.358   -1.988  11.641  1.0 96.38 ? 126 HIS A NE2 1 L8IIC8 UNP 126 H 
+ATOM 1006 N N   . LYS A 1 127 ? 4.827   1.847   11.038  1.0 91.31 ? 127 LYS A N   1 L8IIC8 UNP 127 K 
+ATOM 1007 C CA  . LYS A 1 127 ? 5.726   1.914   12.196  1.0 91.31 ? 127 LYS A CA  1 L8IIC8 UNP 127 K 
+ATOM 1008 C C   . LYS A 1 127 ? 5.634   3.252   12.929  1.0 91.31 ? 127 LYS A C   1 L8IIC8 UNP 127 K 
+ATOM 1009 C CB  . LYS A 1 127 ? 7.157   1.635   11.716  1.0 91.31 ? 127 LYS A CB  1 L8IIC8 UNP 127 K 
+ATOM 1010 O O   . LYS A 1 127 ? 5.806   3.299   14.143  1.0 91.31 ? 127 LYS A O   1 L8IIC8 UNP 127 K 
+ATOM 1011 C CG  . LYS A 1 127 ? 8.139   1.560   12.892  1.0 91.31 ? 127 LYS A CG  1 L8IIC8 UNP 127 K 
+ATOM 1012 C CD  . LYS A 1 127 ? 9.547   1.236   12.397  1.0 91.31 ? 127 LYS A CD  1 L8IIC8 UNP 127 K 
+ATOM 1013 C CE  . LYS A 1 127 ? 10.483  1.163   13.604  1.0 91.31 ? 127 LYS A CE  1 L8IIC8 UNP 127 K 
+ATOM 1014 N NZ  . LYS A 1 127 ? 11.866  0.861   13.173  1.0 91.31 ? 127 LYS A NZ  1 L8IIC8 UNP 127 K 
+ATOM 1015 N N   . ALA A 1 128 ? 5.421   4.341   12.195  1.0 94.81 ? 128 ALA A N   1 L8IIC8 UNP 128 A 
+ATOM 1016 C CA  . ALA A 1 128 ? 5.415   5.681   12.768  1.0 94.81 ? 128 ALA A CA  1 L8IIC8 UNP 128 A 
+ATOM 1017 C C   . ALA A 1 128 ? 4.082   6.039   13.445  1.0 94.81 ? 128 ALA A C   1 L8IIC8 UNP 128 A 
+ATOM 1018 C CB  . ALA A 1 128 ? 5.786   6.670   11.658  1.0 94.81 ? 128 ALA A CB  1 L8IIC8 UNP 128 A 
+ATOM 1019 O O   . ALA A 1 128 ? 4.090   6.756   14.445  1.0 94.81 ? 128 ALA A O   1 L8IIC8 UNP 128 A 
+ATOM 1020 N N   . LEU A 1 129 ? 2.952   5.579   12.896  1.0 96.75 ? 129 LEU A N   1 L8IIC8 UNP 129 L 
+ATOM 1021 C CA  . LEU A 1 129 ? 1.629   6.131   13.215  1.0 96.75 ? 129 LEU A CA  1 L8IIC8 UNP 129 L 
+ATOM 1022 C C   . LEU A 1 129 ? 0.571   5.075   13.558  1.0 96.75 ? 129 LEU A C   1 L8IIC8 UNP 129 L 
+ATOM 1023 C CB  . LEU A 1 129 ? 1.161   6.991   12.022  1.0 96.75 ? 129 LEU A CB  1 L8IIC8 UNP 129 L 
+ATOM 1024 O O   . LEU A 1 129 ? -0.427  5.415   14.189  1.0 96.75 ? 129 LEU A O   1 L8IIC8 UNP 129 L 
+ATOM 1025 C CG  . LEU A 1 129 ? 2.094   8.164   11.660  1.0 96.75 ? 129 LEU A CG  1 L8IIC8 UNP 129 L 
+ATOM 1026 C CD1 . LEU A 1 129 ? 1.631   8.834   10.371  1.0 96.75 ? 129 LEU A CD1 1 L8IIC8 UNP 129 L 
+ATOM 1027 C CD2 . LEU A 1 129 ? 2.142   9.229   12.759  1.0 96.75 ? 129 LEU A CD2 1 L8IIC8 UNP 129 L 
+ATOM 1028 N N   . CYS A 1 130 ? 0.776   3.811   13.183  1.0 97.31 ? 130 CYS A N   1 L8IIC8 UNP 130 C 
+ATOM 1029 C CA  . CYS A 1 130 ? -0.289  2.804   13.163  1.0 97.31 ? 130 CYS A CA  1 L8IIC8 UNP 130 C 
+ATOM 1030 C C   . CYS A 1 130 ? -0.009  1.584   14.037  1.0 97.31 ? 130 CYS A C   1 L8IIC8 UNP 130 C 
+ATOM 1031 C CB  . CYS A 1 130 ? -0.583  2.397   11.720  1.0 97.31 ? 130 CYS A CB  1 L8IIC8 UNP 130 C 
+ATOM 1032 O O   . CYS A 1 130 ? -0.560  0.525   13.784  1.0 97.31 ? 130 CYS A O   1 L8IIC8 UNP 130 C 
+ATOM 1033 S SG  . CYS A 1 130 ? -0.910  3.788   10.614  1.0 97.31 ? 130 CYS A SG  1 L8IIC8 UNP 130 C 
+ATOM 1034 N N   . SER A 1 131 ? 0.833   1.712   15.062  1.0 92.94 ? 131 SER A N   1 L8IIC8 UNP 131 S 
+ATOM 1035 C CA  . SER A 1 131 ? 1.097   0.624   16.020  1.0 92.94 ? 131 SER A CA  1 L8IIC8 UNP 131 S 
+ATOM 1036 C C   . SER A 1 131 ? 0.293   0.753   17.324  1.0 92.94 ? 131 SER A C   1 L8IIC8 UNP 131 S 
+ATOM 1037 C CB  . SER A 1 131 ? 2.597   0.562   16.308  1.0 92.94 ? 131 SER A CB  1 L8IIC8 UNP 131 S 
+ATOM 1038 O O   . SER A 1 131 ? 0.232   -0.183  18.115  1.0 92.94 ? 131 SER A O   1 L8IIC8 UNP 131 S 
+ATOM 1039 O OG  . SER A 1 131 ? 3.329   0.361   15.111  1.0 92.94 ? 131 SER A OG  1 L8IIC8 UNP 131 S 
+ATOM 1040 N N   . GLU A 1 132 ? -0.331  1.910   17.564  1.0 93.62 ? 132 GLU A N   1 L8IIC8 UNP 132 E 
+ATOM 1041 C CA  . GLU A 1 132 ? -1.069  2.226   18.791  1.0 93.62 ? 132 GLU A CA  1 L8IIC8 UNP 132 E 
+ATOM 1042 C C   . GLU A 1 132 ? -2.323  3.063   18.487  1.0 93.62 ? 132 GLU A C   1 L8IIC8 UNP 132 E 
+ATOM 1043 C CB  . GLU A 1 132 ? -0.169  2.998   19.773  1.0 93.62 ? 132 GLU A CB  1 L8IIC8 UNP 132 E 
+ATOM 1044 O O   . GLU A 1 132 ? -2.497  3.562   17.377  1.0 93.62 ? 132 GLU A O   1 L8IIC8 UNP 132 E 
+ATOM 1045 C CG  . GLU A 1 132 ? 1.048   2.206   20.281  1.0 93.62 ? 132 GLU A CG  1 L8IIC8 UNP 132 E 
+ATOM 1046 C CD  . GLU A 1 132 ? 1.834   2.959   21.368  1.0 93.62 ? 132 GLU A CD  1 L8IIC8 UNP 132 E 
+ATOM 1047 O OE1 . GLU A 1 132 ? 2.838   2.390   21.850  1.0 93.62 ? 132 GLU A OE1 1 L8IIC8 UNP 132 E 
+ATOM 1048 O OE2 . GLU A 1 132 ? 1.423   4.090   21.733  1.0 93.62 ? 132 GLU A OE2 1 L8IIC8 UNP 132 E 
+ATOM 1049 N N   . LYS A 1 133 ? -3.196  3.249   19.493  1.0 94.38 ? 133 LYS A N   1 L8IIC8 UNP 133 K 
+ATOM 1050 C CA  . LYS A 1 133 ? -4.423  4.074   19.408  1.0 94.38 ? 133 LYS A CA  1 L8IIC8 UNP 133 K 
+ATOM 1051 C C   . LYS A 1 133 ? -5.301  3.703   18.207  1.0 94.38 ? 133 LYS A C   1 L8IIC8 UNP 133 K 
+ATOM 1052 C CB  . LYS A 1 133 ? -4.075  5.572   19.433  1.0 94.38 ? 133 LYS A CB  1 L8IIC8 UNP 133 K 
+ATOM 1053 O O   . LYS A 1 133 ? -5.754  4.563   17.448  1.0 94.38 ? 133 LYS A O   1 L8IIC8 UNP 133 K 
+ATOM 1054 C CG  . LYS A 1 133 ? -3.333  5.983   20.709  1.0 94.38 ? 133 LYS A CG  1 L8IIC8 UNP 133 K 
+ATOM 1055 C CD  . LYS A 1 133 ? -2.985  7.470   20.642  1.0 94.38 ? 133 LYS A CD  1 L8IIC8 UNP 133 K 
+ATOM 1056 C CE  . LYS A 1 133 ? -2.189  7.853   21.890  1.0 94.38 ? 133 LYS A CE  1 L8IIC8 UNP 133 K 
+ATOM 1057 N NZ  . LYS A 1 133 ? -1.690  9.244   21.792  1.0 94.38 ? 133 LYS A NZ  1 L8IIC8 UNP 133 K 
+ATOM 1058 N N   . LEU A 1 134 ? -5.528  2.400   18.053  1.0 96.31 ? 134 LEU A N   1 L8IIC8 UNP 134 L 
+ATOM 1059 C CA  . LEU A 1 134 ? -6.181  1.828   16.880  1.0 96.31 ? 134 LEU A CA  1 L8IIC8 UNP 134 L 
+ATOM 1060 C C   . LEU A 1 134 ? -7.708  1.948   16.880  1.0 96.31 ? 134 LEU A C   1 L8IIC8 UNP 134 L 
+ATOM 1061 C CB  . LEU A 1 134 ? -5.711  0.382   16.684  1.0 96.31 ? 134 LEU A CB  1 L8IIC8 UNP 134 L 
+ATOM 1062 O O   . LEU A 1 134 ? -8.322  1.811   15.824  1.0 96.31 ? 134 LEU A O   1 L8IIC8 UNP 134 L 
+ATOM 1063 C CG  . LEU A 1 134 ? -4.228  0.253   16.286  1.0 96.31 ? 134 LEU A CG  1 L8IIC8 UNP 134 L 
+ATOM 1064 C CD1 . LEU A 1 134 ? -3.889  -1.230  16.173  1.0 96.31 ? 134 LEU A CD1 1 L8IIC8 UNP 134 L 
+ATOM 1065 C CD2 . LEU A 1 134 ? -3.914  0.944   14.956  1.0 96.31 ? 134 LEU A CD2 1 L8IIC8 UNP 134 L 
+ATOM 1066 N N   . ASP A 1 135 ? -8.320  2.267   18.021  1.0 95.94 ? 135 ASP A N   1 L8IIC8 UNP 135 D 
+ATOM 1067 C CA  . ASP A 1 135 ? -9.780  2.342   18.156  1.0 95.94 ? 135 ASP A CA  1 L8IIC8 UNP 135 D 
+ATOM 1068 C C   . ASP A 1 135 ? -10.412 3.353   17.184  1.0 95.94 ? 135 ASP A C   1 L8IIC8 UNP 135 D 
+ATOM 1069 C CB  . ASP A 1 135 ? -10.149 2.692   19.607  1.0 95.94 ? 135 ASP A CB  1 L8IIC8 UNP 135 D 
+ATOM 1070 O O   . ASP A 1 135 ? -11.481 3.106   16.629  1.0 95.94 ? 135 ASP A O   1 L8IIC8 UNP 135 D 
+ATOM 1071 C CG  . ASP A 1 135 ? -9.666  1.657   20.630  1.0 95.94 ? 135 ASP A CG  1 L8IIC8 UNP 135 D 
+ATOM 1072 O OD1 . ASP A 1 135 ? -9.475  0.484   20.240  1.0 95.94 ? 135 ASP A OD1 1 L8IIC8 UNP 135 D 
+ATOM 1073 O OD2 . ASP A 1 135 ? -9.432  2.072   21.785  1.0 95.94 ? 135 ASP A OD2 1 L8IIC8 UNP 135 D 
+ATOM 1074 N N   . GLN A 1 136 ? -9.716  4.457   16.883  1.0 95.19 ? 136 GLN A N   1 L8IIC8 UNP 136 Q 
+ATOM 1075 C CA  . GLN A 1 136 ? -10.187 5.461   15.918  1.0 95.19 ? 136 GLN A CA  1 L8IIC8 UNP 136 Q 
+ATOM 1076 C C   . GLN A 1 136 ? -10.279 4.929   14.474  1.0 95.19 ? 136 GLN A C   1 L8IIC8 UNP 136 Q 
+ATOM 1077 C CB  . GLN A 1 136 ? -9.296  6.712   15.998  1.0 95.19 ? 136 GLN A CB  1 L8IIC8 UNP 136 Q 
+ATOM 1078 O O   . GLN A 1 136 ? -11.022 5.475   13.652  1.0 95.19 ? 136 GLN A O   1 L8IIC8 UNP 136 Q 
+ATOM 1079 C CG  . GLN A 1 136 ? -7.894  6.489   15.410  1.0 95.19 ? 136 GLN A CG  1 L8IIC8 UNP 136 Q 
+ATOM 1080 C CD  . GLN A 1 136 ? -6.961  7.669   15.637  1.0 95.19 ? 136 GLN A CD  1 L8IIC8 UNP 136 Q 
+ATOM 1081 N NE2 . GLN A 1 136 ? -5.726  7.418   16.011  1.0 95.19 ? 136 GLN A NE2 1 L8IIC8 UNP 136 Q 
+ATOM 1082 O OE1 . GLN A 1 136 ? -7.323  8.827   15.503  1.0 95.19 ? 136 GLN A OE1 1 L8IIC8 UNP 136 Q 
+ATOM 1083 N N   . TRP A 1 137 ? -9.554  3.853   14.160  1.0 96.62 ? 137 TRP A N   1 L8IIC8 UNP 137 W 
+ATOM 1084 C CA  . TRP A 1 137 ? -9.490  3.236   12.833  1.0 96.62 ? 137 TRP A CA  1 L8IIC8 UNP 137 W 
+ATOM 1085 C C   . TRP A 1 137 ? -10.487 2.085   12.657  1.0 96.62 ? 137 TRP A C   1 L8IIC8 UNP 137 W 
+ATOM 1086 C CB  . TRP A 1 137 ? -8.049  2.819   12.534  1.0 96.62 ? 137 TRP A CB  1 L8IIC8 UNP 137 W 
+ATOM 1087 O O   . TRP A 1 137 ? -10.586 1.506   11.577  1.0 96.62 ? 137 TRP A O   1 L8IIC8 UNP 137 W 
+ATOM 1088 C CG  . TRP A 1 137 ? -7.062  3.936   12.652  1.0 96.62 ? 137 TRP A CG  1 L8IIC8 UNP 137 W 
+ATOM 1089 C CD1 . TRP A 1 137 ? -6.090  4.030   13.583  1.0 96.62 ? 137 TRP A CD1 1 L8IIC8 UNP 137 W 
+ATOM 1090 C CD2 . TRP A 1 137 ? -6.897  5.102   11.794  1.0 96.62 ? 137 TRP A CD2 1 L8IIC8 UNP 137 W 
+ATOM 1091 C CE2 . TRP A 1 137 ? -5.800  5.870   12.290  1.0 96.62 ? 137 TRP A CE2 1 L8IIC8 UNP 137 W 
+ATOM 1092 C CE3 . TRP A 1 137 ? -7.533  5.565   10.623  1.0 96.62 ? 137 TRP A CE3 1 L8IIC8 UNP 137 W 
+ATOM 1093 N NE1 . TRP A 1 137 ? -5.349  5.175   13.386  1.0 96.62 ? 137 TRP A NE1 1 L8IIC8 UNP 137 W 
+ATOM 1094 C CH2 . TRP A 1 137 ? -6.017  7.474   10.507  1.0 96.62 ? 137 TRP A CH2 1 L8IIC8 UNP 137 W 
+ATOM 1095 C CZ2 . TRP A 1 137 ? -5.357  7.038   11.663  1.0 96.62 ? 137 TRP A CZ2 1 L8IIC8 UNP 137 W 
+ATOM 1096 C CZ3 . TRP A 1 137 ? -7.092  6.737   9.981   1.0 96.62 ? 137 TRP A CZ3 1 L8IIC8 UNP 137 W 
+ATOM 1097 N N   . LEU A 1 138 ? -11.280 1.778   13.686  1.0 95.62 ? 138 LEU A N   1 L8IIC8 UNP 138 L 
+ATOM 1098 C CA  . LEU A 1 138 ? -12.389 0.836   13.580  1.0 95.62 ? 138 LEU A CA  1 L8IIC8 UNP 138 L 
+ATOM 1099 C C   . LEU A 1 138 ? -13.548 1.420   12.757  1.0 95.62 ? 138 LEU A C   1 L8IIC8 UNP 138 L 
+ATOM 1100 C CB  . LEU A 1 138 ? -12.849 0.413   14.990  1.0 95.62 ? 138 LEU A CB  1 L8IIC8 UNP 138 L 
+ATOM 1101 O O   . LEU A 1 138 ? -13.802 2.632   12.747  1.0 95.62 ? 138 LEU A O   1 L8IIC8 UNP 138 L 
+ATOM 1102 C CG  . LEU A 1 138 ? -11.815 -0.434  15.758  1.0 95.62 ? 138 LEU A CG  1 L8IIC8 UNP 138 L 
+ATOM 1103 C CD1 . LEU A 1 138 ? -12.186 -0.522  17.237  1.0 95.62 ? 138 LEU A CD1 1 L8IIC8 UNP 138 L 
+ATOM 1104 C CD2 . LEU A 1 138 ? -11.772 -1.868  15.218  1.0 95.62 ? 138 LEU A CD2 1 L8IIC8 UNP 138 L 
+ATOM 1105 N N   . CYS A 1 139 ? -14.285 0.530   12.093  1.0 93.44 ? 139 CYS A N   1 L8IIC8 UNP 139 C 
+ATOM 1106 C CA  . CYS A 1 139 ? -15.583 0.821   11.497  1.0 93.44 ? 139 CYS A CA  1 L8IIC8 UNP 139 C 
+ATOM 1107 C C   . CYS A 1 139 ? -16.669 0.048   12.264  1.0 93.44 ? 139 CYS A C   1 L8IIC8 UNP 139 C 
+ATOM 1108 C CB  . CYS A 1 139 ? -15.555 0.468   10.005  1.0 93.44 ? 139 CYS A CB  1 L8IIC8 UNP 139 C 
+ATOM 1109 O O   . CYS A 1 139 ? -16.751 -1.174  12.169  1.0 93.44 ? 139 CYS A O   1 L8IIC8 UNP 139 C 
+ATOM 1110 S SG  . CYS A 1 139 ? -17.125 0.842   9.188   1.0 93.44 ? 139 CYS A SG  1 L8IIC8 UNP 139 C 
+ATOM 1111 N N   . GLU A 1 140 ? -17.493 0.753   13.044  1.0 78.50 ? 140 GLU A N   1 L8IIC8 UNP 140 E 
+ATOM 1112 C CA  . GLU A 1 140 ? -18.514 0.148   13.924  1.0 78.50 ? 140 GLU A CA  1 L8IIC8 UNP 140 E 
+ATOM 1113 C C   . GLU A 1 140 ? -19.754 -0.373  13.175  1.0 78.50 ? 140 GLU A C   1 L8IIC8 UNP 140 E 
+ATOM 1114 C CB  . GLU A 1 140 ? -18.953 1.173   14.981  1.0 78.50 ? 140 GLU A CB  1 L8IIC8 UNP 140 E 
+ATOM 1115 O O   . GLU A 1 140 ? -20.555 -1.117  13.738  1.0 78.50 ? 140 GLU A O   1 L8IIC8 UNP 140 E 
+ATOM 1116 C CG  . GLU A 1 140 ? -17.823 1.585   15.940  1.0 78.50 ? 140 GLU A CG  1 L8IIC8 UNP 140 E 
+ATOM 1117 C CD  . GLU A 1 140 ? -18.298 2.566   17.026  1.0 78.50 ? 140 GLU A CD  1 L8IIC8 UNP 140 E 
+ATOM 1118 O OE1 . GLU A 1 140 ? -17.499 2.821   17.951  1.0 78.50 ? 140 GLU A OE1 1 L8IIC8 UNP 140 E 
+ATOM 1119 O OE2 . GLU A 1 140 ? -19.440 3.073   16.913  1.0 78.50 ? 140 GLU A OE2 1 L8IIC8 UNP 140 E 
+ATOM 1120 N N   . LYS A 1 141 ? -19.923 0.002   11.901  1.0 62.25 ? 141 LYS A N   1 L8IIC8 UNP 141 K 
+ATOM 1121 C CA  . LYS A 1 141 ? -21.027 -0.439  11.039  1.0 62.25 ? 141 LYS A CA  1 L8IIC8 UNP 141 K 
+ATOM 1122 C C   . LYS A 1 141 ? -20.465 -1.027  9.751   1.0 62.25 ? 141 LYS A C   1 L8IIC8 UNP 141 K 
+ATOM 1123 C CB  . LYS A 1 141 ? -21.991 0.722   10.762  1.0 62.25 ? 141 LYS A CB  1 L8IIC8 UNP 141 K 
+ATOM 1124 O O   . LYS A 1 141 ? -20.220 -0.300  8.787   1.0 62.25 ? 141 LYS A O   1 L8IIC8 UNP 141 K 
+ATOM 1125 C CG  . LYS A 1 141 ? -22.806 1.104   12.004  1.0 62.25 ? 141 LYS A CG  1 L8IIC8 UNP 141 K 
+ATOM 1126 C CD  . LYS A 1 141 ? -23.772 2.240   11.660  1.0 62.25 ? 141 LYS A CD  1 L8IIC8 UNP 141 K 
+ATOM 1127 C CE  . LYS A 1 141 ? -24.564 2.639   12.906  1.0 62.25 ? 141 LYS A CE  1 L8IIC8 UNP 141 K 
+ATOM 1128 N NZ  . LYS A 1 141 ? -25.474 3.773   12.617  1.0 62.25 ? 141 LYS A NZ  1 L8IIC8 UNP 141 K 
+ATOM 1129 N N   . LEU A 1 142 ? -20.240 -2.338  9.773   1.0 55.91 ? 142 LEU A N   1 L8IIC8 UNP 142 L 
+ATOM 1130 C CA  . LEU A 1 142 ? -19.954 -3.112  8.568   1.0 55.91 ? 142 LEU A CA  1 L8IIC8 UNP 142 L 
+ATOM 1131 C C   . LEU A 1 142 ? -21.217 -3.304  7.737   1.0 55.91 ? 142 LEU A C   1 L8IIC8 UNP 142 L 
+ATOM 1132 C CB  . LEU A 1 142 ? -19.258 -4.433  8.943   1.0 55.91 ? 142 LEU A CB  1 L8IIC8 UNP 142 L 
+ATOM 1133 O O   . LEU A 1 142 ? -22.231 -3.745  8.319   1.0 55.91 ? 142 LEU A O   1 L8IIC8 UNP 142 L 
+ATOM 1134 C CG  . LEU A 1 142 ? -17.730 -4.306  9.005   1.0 55.91 ? 142 LEU A CG  1 L8IIC8 UNP 142 L 
+ATOM 1135 C CD1 . LEU A 1 142 ? -17.152 -5.617  9.530   1.0 55.91 ? 142 LEU A CD1 1 L8IIC8 UNP 142 L 
+ATOM 1136 C CD2 . LEU A 1 142 ? -17.156 -4.055  7.612   1.0 55.91 ? 142 LEU A CD2 1 L8IIC8 UNP 142 L 
+ATOM 1137 O OXT . LEU A 1 142 ? -21.082 -2.987  6.535   1.0 55.91 ? 142 LEU A OXT 1 L8IIC8 UNP 142 L 
+#
